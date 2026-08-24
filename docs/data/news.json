@@ -1,12 +1,16 @@
 {
- "generated_at": "2026-08-25 07:52",
+ "generated_at": "2026-08-25 08:51",
  "generated_date": "2026-08-25",
+ "previous_generated_at": "2026-08-25 07:52",
  "agencies": [
   {
    "id": "fsa",
    "name": "金融庁",
    "seal": "金",
    "site": "https://www.fsa.go.jp/",
+   "method": "rss",
+   "status": "ok",
+   "errors": [],
    "items": [
     {
      "title": "令和８年８月13日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
@@ -120,6 +124,9 @@
    "name": "財務省",
    "seal": "財",
    "site": "https://www.mof.go.jp/",
+   "method": "rss",
+   "status": "ok",
+   "errors": [],
    "items": [
     {
      "title": "片山財務大臣とゴールドファイン米州開発銀行（IDB）総裁との面会及び「日本－中南米・カリブ（LAC）地域ビジネスフォーラム2026」の開催（令和8年8月24日）",
@@ -330,6 +337,496 @@
      "date": "2026-08-19",
      "first_seen": "2026-08-25",
      "is_new": true
+    },
+    {
+     "title": "5年利付国債（第187回）の第II非価格競争入札結果（令和8年8月18日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260818a.htm",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "5年利付国債（第187回）の入札結果（令和8年8月18日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260818.htm",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和8年8月18日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer260818.htm",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "5年利付国債（第187回）の入札発行（令和8年8月18日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260818.htm",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第548回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+     "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2016.htm",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "10年クライメート・トランジション利付国債（8月債）の発行予定額等（令和8年8月17日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260817.htm",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "流動性供給(第459回)入札において追加発行した国債の銘柄",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814a.htm",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第4回日韓財務官級協議の開催予定について",
+     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/202608141500.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "流動性供給(第459回)入札結果",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814.htm",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国庫短期証券（第1400回）の入札結果",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260814.htm",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "流動性供給(第459回)入札",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260814.htm",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国庫短期証券（第1402回）の発行予定額等",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260814.htm",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国庫短期証券（第1400回）の入札発行",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260814.htm",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国の災害用備蓄食品の有効活用の取組みについて",
+     "url": "https://www.mof.go.jp/application-contact/procurement/20260810111351.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国有林野事業債務管理特別会計の借入金の入札結果（令和8年8月13日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-result260813.htm",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和8年8月13日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer260813.htm",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "20年利付国債（8月債）の発行予定額等（令和8年8月13日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260813.htm",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国債ＩＲ基礎資料（令和８年８月）",
+     "url": "https://www.mof.go.jp/jgbs/IR/jgb_investor_presentation_2608.pdf",
+     "date": "2026-08-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "10年物価連動国債（第31回）の入札結果（令和8年8月12日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260812.htm",
+     "date": "2026-08-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "10年物価連動国債（第31回）の入札発行（令和8年8月12日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260812.htm",
+     "date": "2026-08-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国庫短期証券（第1401回）の発行予定額等",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260812.htm",
+     "date": "2026-08-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和八年熊本地震の影響による「令和８年４－６月期法人企業統計調査」の公表・集計等の取扱いについて掲載しました",
+     "url": "https://www.mof.go.jp/insideLink/20260810160917.html",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "地域情報誌の記者になろう！ ～特集「わたしたちのまちの“だれでもおでかけスポット”」（令和８年８月）",
+     "url": "https://www.mof.go.jp/tax_policy/publication/brochure/20260805120325.html",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国債及び借入金並びに政府保証債務現在高（令和8年6月末現在）",
+     "url": "https://www.mof.go.jp/jgbs/reference/gbb/202606.html",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "5年利付国債（8月債）の発行予定額等（令和8年8月10日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260810.htm",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "財政投融資分科会（令和8年7月15日開催）議事要旨",
+     "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20260715.html",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和8年上半期中 国際収支状況（速報）の概要",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg2026half.htm",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和8年6月中 国際収支状況（速報）の概要",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202606.htm",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "人事異動(令和8年8月7日)",
+     "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.08.07_45.pdf",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国庫短期証券（第1399回）の入札結果",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260807.htm",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "流動性供給(第459回)入札の発行予定額等",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260807.htm",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国庫短期証券（第1400回）の発行予定額等",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260807.htm",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国庫短期証券（第1399回）の入札発行",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260807.htm",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日米政府の戦略的投資イニシアティブに関する協議委員会の会合を開催 （令和8年8月6日）",
+     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260807081834.html",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "入札、落札結果情報（工事等）",
+     "url": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "貿易統計(令和8年7月上中旬分速報)【税関ホームページ】",
+     "url": "https://www.mof.go.jp/outside_link/20260806131147.html",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "外貨準備等の状況（令和8年7月末現在）",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0807.html",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "外国為替平衡操作の実施状況(令和8年4月～令和8年6月)",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/quarter/2026_2Q.html",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要(令和8年8月5日(水曜日))",
+     "url": "https://www.mof.go.jp/public_relations/conference/my20260805.html",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "個人向け国債の応募額（令和8年7月）",
+     "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20260806.htm",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "30年利付国債（第91回）の第II非価格競争入札結果（令和8年8月6日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260806a.htm",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "30年利付国債（第91回）の入札結果（令和8年8月6日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260806.htm",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国庫短期証券（第1398回）の入札結果",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260806.htm",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国有林野事業債務管理特別会計の借入金の入札予定（令和8年8月6日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-offer260806.htm",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "30年利付国債（第91回）の入札発行（令和8年8月6日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260806.htm",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "国庫短期証券（第1398回）の入札発行",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260806.htm",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第54回住宅金融支援機構債券（グリーンボンド）に対する政府保証の付与",
+     "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2015.htm",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第547回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
+     "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2014.htm",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "全国財務局管内経済情勢報告概要（令和8年7月）",
+     "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202602/index.html",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "エネルギー対策特別会計の借入金の入札結果（令和8年8月5日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result260805.htm",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "被災中小企業・小規模事業者等の既往債務の負担軽減に係る対応について要請しました",
+     "url": "https://www.mof.go.jp/public_relations/disaster/202607_kumamoto-jishin/20260803202410.html",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "10年物価連動国債（8月債）の発行予定額等（令和8年8月5日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260805.htm",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "新型窓口販売方式による10年利付国債（第383回）の発行条件等",
+     "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260805.htm",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "個人向け国債の発行条件等",
+     "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20260805.pdf",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年8月4日(火曜日))",
+     "url": "https://www.mof.go.jp/public_relations/conference/my20260804.html",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "買入消却入札による買入れの詳細及び累計（令和8年7月実施分）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/syokyaku/ichiran222.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "10年利付国債（第383回）の第II非価格競争入札結果（令和8年8月4日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260804a.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "財政資金対民間収支（令和8年8月見込）",
+     "url": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202608a.pdf",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "財政資金対民間収支（令和8年7月中実績）の概要",
+     "url": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202607gaiyo.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "大韓民国産及び中華人民共和国産溶融亜鉛めっき鋼帯及び鋼板に対する暫定的な不当廉売関税の課税を決定しました",
+     "url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20260804.html",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "人事異動(令和8年8月4日)",
+     "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.08.04_44.pdf",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "10年利付国債（第383回）の入札結果（令和8年8月4日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260804.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年熊本地震に係る予備費使用について",
+     "url": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/km260804.pdf",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "10年利付国債（第383回）の入札発行（令和8年8月4日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260804.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "関税・外国為替等審議会　関税分科会（令和8年6月23日開催）議事録",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/proceedings/kana20260623.html",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年6月23日)議事録",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20260623.html",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "人事異動(令和8年8月1日)※修正",
+     "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.08.01_42.pdf",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「債務管理リポート2026」電子書籍版を公開しました",
+     "url": "https://www.mof.go.jp/insideLink/20260731130208.html",
+     "date": "2026-08-03",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和8年度　6月末租税及び印紙収入、収入額調",
+     "url": "https://www.mof.go.jp/tax_policy/reference/taxes_and_stamp_revenues/202606.pdf",
+     "date": "2026-08-03",
+     "first_seen": "2026-08-25",
+     "is_new": true
     }
    ]
   },
@@ -338,14 +835,10 @@
    "name": "証券取引等監視委員会",
    "seal": "監",
    "site": "https://www.fsa.go.jp/sesc/",
+   "method": "rss",
+   "status": "ok",
+   "errors": [],
    "items": [
-    {
-     "title": "情報発信,「市場へのメッセージ（令和８年６月26日）」を掲載しました",
-     "url": "https://www.fsa.go.jp/sesc/message/20260626.html",
-     "date": "2026-06-26",
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
     {
      "title": "証券検査,「令和８事務年度　証券モニタリング基本方針」について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260731-2.html",
@@ -382,20 +875,6 @@
      "is_new": true
     },
     {
-     "title": "取引調査,公開買付者の従業者から伝達を受けた海外居住者によるNIPPO株式に係る内部者取引に対する課徴金納付命令の勧告について",
-     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-2.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
-    {
-     "title": "開示検査,株式会社Ｉ－ｎｅにおける有価証券報告書の重要な事項の不記載及び同社役員が所有する同社株式の売出しに係る目論見書の重要な事項の不記載に係る課徴金納付命令勧告について",
-     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-1.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
-    {
      "title": "証券検査,moomoo証券株式会社に対する検査結果に基づく勧告について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260605-2.html#60",
      "date": null,
@@ -416,6 +895,11 @@
    "name": "公正取引委員会",
    "seal": "公",
    "site": "https://www.jftc.go.jp/",
+   "method": "html",
+   "status": "error",
+   "errors": [
+    "https://www.jftc.go.jp/ -> 403 Client Error: Forbidden for url: https://www.jftc.go.jp/"
+   ],
    "items": []
   },
   {
@@ -423,6 +907,9 @@
    "name": "個人情報保護委員会",
    "seal": "個",
    "site": "https://www.ppc.go.jp/",
+   "method": "html",
+   "status": "ok",
+   "errors": [],
    "items": [
     {
      "title": "「個人情報保護委員会ウェブサイト」を一時停止します。（（土）20時から23時まで",

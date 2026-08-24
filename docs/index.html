@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>規制当局 新着一覧</title>
+<style>
+  :root{
+    --ink:#1C2733; --paper:#FBFAF7; --seal:#B5342A;
+    --line:#E5E1D6; --muted:#8A8578; --faint:#9A958A;
+    --warn:#8A6A1F;
+    --serif:"Hiragino Mincho ProN","Yu Mincho","MS Mincho",serif;
+    --sans:"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans)}
+  .wrap{max-width:860px;margin:0 auto;padding:0 18px}
+
+  header{border-bottom:3px double var(--ink);padding:24px 0 16px}
+  h1{margin:0;font-family:var(--serif);font-size:26px;letter-spacing:.06em;font-weight:600}
+  .headrow{display:flex;align-items:flex-end;justify-content:space-between;gap:14px;flex-wrap:wrap}
+  .meta{font-size:11px;color:var(--faint);margin-top:8px;line-height:1.6}
+
+  .copybtn{font-size:14px;padding:10px 20px;background:var(--ink);color:#fff;
+    border:none;border-radius:8px;cursor:pointer;letter-spacing:.05em}
+  .copybtn:disabled{background:var(--muted);cursor:default}
+  .copied{background:var(--seal) !important}
+
+  .controls{margin-top:16px}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:8px}
+  .rowlabel{font-size:11px;color:var(--faint);letter-spacing:.1em;width:64px;flex-shrink:0}
+  .tab{font-size:12px;padding:6px 13px;border-radius:999px;border:1px solid #D8D3C6;
+    background:#fff;color:#5A5648;cursor:pointer}
+  .tab.on{border:1.5px solid var(--seal);background:rgba(181,52,42,.06);color:var(--seal)}
+
+  main{padding:20px 0 40px}
+  section{background:#fff;border:1px solid var(--line);border-radius:10px;
+    padding:18px 20px;margin-bottom:16px}
+  section.broken{border-color:rgba(181,52,42,.45)}
+  .agency-head{display:flex;align-items:center;gap:13px;flex-wrap:wrap}
+  .seal-mark{width:42px;height:42px;flex-shrink:0;border:2.5px solid var(--seal);border-radius:6px;
+    color:var(--seal);display:flex;align-items:center;justify-content:center;
+    font-family:var(--serif);font-size:22px;font-weight:700;background:rgba(181,52,42,.04)}
+  .seal-mark.broken{border-color:var(--muted);color:var(--muted);background:transparent}
+  h2{margin:0;font-family:var(--serif);font-size:17px;letter-spacing:.04em;flex:1;min-width:150px}
+  .badge{font-size:10px;letter-spacing:.08em;border-radius:3px;padding:1px 6px;
+    border:1px solid #D8D3C6;color:var(--muted);white-space:nowrap}
+  .badge.fail{border-color:var(--seal);color:var(--seal);font-weight:700}
+  .badge.part{border-color:var(--warn);color:var(--warn);font-weight:700}
+  .sitelink{font-size:12px;color:#5A6B7A;text-decoration:none}
+  ul{list-style:none;margin:12px 0 0;padding:0}
+  li{border-top:1px solid #F0EDE4;padding:9px 0;display:flex;gap:12px;align-items:baseline}
+  li:first-child{border-top:none}
+  .d{font-size:12px;color:var(--faint);font-variant-numeric:tabular-nums;flex-shrink:0;width:82px}
+  .t{font-size:14px;line-height:1.55;color:var(--ink);text-decoration:none;
+    border-bottom:1px solid #C9C4B6}
+  .t:hover{color:var(--seal);border-bottom-color:var(--seal)}
+  .new{display:inline-block;font-size:10px;color:var(--seal);border:1px solid var(--seal);
+    border-radius:3px;padding:0 4px;margin-right:6px;vertical-align:1px;font-weight:700}
+  .empty{font-size:13px;color:var(--muted);margin:12px 0 0}
+  .failbox{margin:12px 0 0;padding:10px 12px;border-radius:6px;
+    background:rgba(181,52,42,.05);border:1px solid rgba(181,52,42,.3)}
+  .failmsg{font-size:13px;color:var(--seal);margin:0;font-weight:700}
+  .failnote{font-size:11px;color:var(--muted);margin:6px 0 0;line-height:1.6;
+    word-break:break-all}
+  footer{font-size:11px;color:var(--faint);line-height:1.7;padding-bottom:30px}
+  button:focus-visible,a:focus-visible{outline:2px solid var(--seal);outline-offset:2px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="headrow">
+      <div>
+        <h1>規制当局 新着一覧</h1>
+        <div class="meta" id="meta">読み込み中…</div>
+      </div>
+      <button class="copybtn" id="copyBtn" disabled>新着分をコピー</button>
+    </div>
+    <div class="controls">
+      <div class="row" id="scopeRow" role="group" aria-label="表示範囲"></div>
+      <div class="row" id="agencyRow" role="group" aria-label="官庁で絞り込み"></div>
+    </div>
+  </header>
+  <main id="main"></main>
+  <footer>
+    ※ 個人的に閲覧するための一覧です。金融庁・財務省・証券取引等監視委員会は公式RSS、公正取引委員会・個人情報保護委員会は
+    公式RSSが無いため新着一覧ページの解析により、1日1回まとめて取得しています。内容の確認は必ずリンク先の公式ページで行ってください。
+    新着は「前回の取得以降に初めて見つかった項目」で判定しているため、週明けは金曜以降のぶんがまとめて表示されます。
+  </footer>
+</div>
+
+<script>
+"use strict";
+let DATA = null;
+let filter = "all";
+let newOnly = true;   // 既定は「前回取得以降の新着」のみ
+
+function esc(s){const d=document.createElement("div");d.textContent=s;return d.innerHTML;}
+
+function newItemsOf(a){ return a.items.filter(i=>i.is_new); }
+
+function todaysItems(){
+  if(!DATA) return [];
+  const out=[];
+  for(const a of DATA.agencies){
+    for(const it of newItemsOf(a)) out.push({agency:a.name, ...it});
+  }
+  return out;
+}
+
+function buildCopyText(){
+  const items=todaysItems();
+  if(items.length===0) return null;
+  return items.map((it,i)=>
+    `${i+1}. [${it.agency}] ${it.date||"日付不明"} ${it.title}\n   ${it.url}`).join("\n");
+}
+
+function renderControls(){
+  const scope=document.getElementById("scopeRow");
+  scope.innerHTML =
+    `<span class="rowlabel">表示</span>`+
+    `<button class="tab ${newOnly?"on":""}" data-scope="new">新着のみ</button>`+
+    `<button class="tab ${newOnly?"":"on"}" data-scope="all">すべて</button>`;
+  scope.querySelectorAll("[data-scope]").forEach(b=>b.onclick=()=>{
+    newOnly = b.dataset.scope==="new";
+    render();
+  });
+
+  const row=document.getElementById("agencyRow");
+  const defs=[{id:"all",name:"すべて"},...DATA.agencies.map(a=>({id:a.id,name:a.name}))];
+  row.innerHTML =
+    `<span class="rowlabel">官庁</span>`+
+    defs.map(d=>`<button class="tab ${filter===d.id?"on":""}" data-id="${d.id}">${esc(d.name)}</button>`).join("");
+  row.querySelectorAll("[data-id]").forEach(b=>b.onclick=()=>{
+    filter=b.dataset.id;
+    render();
+  });
+}
+
+function methodLabel(a){ return a.method==="rss" ? "RSS" : "HTML解析"; }
+
+function statusBadge(a){
+  if(a.status==="error") return `<span class="badge fail">取得失敗</span>`;
+  if(a.status==="partial") return `<span class="badge part">一部取得失敗</span>`;
+  return `<span class="badge">${esc(methodLabel(a))}</span>`;
+}
+
+function bodyFor(a){
+  // 取得に失敗した官庁は「新着なし」と区別して明示する
+  if(a.status==="error"){
+    return `<div class="failbox">
+      <p class="failmsg">取得に失敗しました。新着の有無は不明です。</p>
+      <p class="failnote">${esc(methodLabel(a))}での取得がエラーになりました。翌朝の自動実行で回復しない場合は取得処理の調整が必要です。<br>${esc(a.errors[0]||"")}</p>
+    </div>`;
+  }
+
+  let items = newOnly ? newItemsOf(a) : a.items;
+  let out = "";
+
+  if(a.status==="partial"){
+    out += `<div class="failbox">
+      <p class="failmsg">一部の系統で取得に失敗しました。</p>
+      <p class="failnote">下記は取得できた分のみです。<br>${esc(a.errors[0]||"")}</p>
+    </div>`;
+  }
+
+  if(items.length===0){
+    out += `<p class="empty">${newOnly?"新着はありません":"項目がありません"}</p>`;
+    return out;
+  }
+
+  out += `<ul>`+items.map(it=>`
+    <li>
+      <span class="d">${esc(it.date||"—")}</span>
+      <span>${it.is_new?'<span class="new">新着</span>':""}<a class="t" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">${esc(it.title)}</a></span>
+    </li>`).join("")+`</ul>`;
+  return out;
+}
+
+function render(){
+  const meta=document.getElementById("meta");
+  const main=document.getElementById("main");
+  const btn=document.getElementById("copyBtn");
+  if(!DATA){main.innerHTML="";return;}
+
+  const newCount=todaysItems().length;
+  const broken=DATA.agencies.filter(a=>a.status!=="ok");
+  const range = DATA.previous_generated_at
+    ? `前回取得 ${DATA.previous_generated_at} 以降の新着 ${newCount}件`
+    : `新着 ${newCount}件（初回取得のため全件が新着扱い）`;
+  meta.innerHTML =
+    `最終取得: ${esc(DATA.generated_at)} JST ／ ${esc(range)}` +
+    (broken.length ? `<br><span style="color:var(--seal)">取得に失敗した官庁: ${esc(broken.map(a=>a.name).join("、"))}</span>` : "");
+
+  btn.disabled = newCount===0;
+  btn.textContent = newCount===0 ? "新着なし" : `新着分をコピー（${newCount}件）`;
+
+  renderControls();
+
+  const shown = DATA.agencies.filter(a=>filter==="all"||a.id===filter);
+  main.innerHTML = shown.map(a=>`<section class="${a.status==="error"?"broken":""}">
+      <div class="agency-head">
+        <div class="seal-mark ${a.status==="error"?"broken":""}" aria-hidden="true">${esc(a.seal)}</div>
+        <h2>${esc(a.name)}</h2>
+        ${statusBadge(a)}
+        <a class="sitelink" href="${esc(a.site)}" target="_blank" rel="noopener noreferrer">公式サイト ↗</a>
+      </div>
+      ${bodyFor(a)}
+    </section>`).join("");
+}
+
+async function copyToday(){
+  const text=buildCopyText();
+  if(!text) return;
+  const btn=document.getElementById("copyBtn");
+  try{
+    await navigator.clipboard.writeText(text);
+  }catch(e){
+    // クリップボード権限が制限された環境向けのフォールバック
+    const ta=document.createElement("textarea");
+    ta.value=text;document.body.appendChild(ta);ta.select();
+    document.execCommand("copy");document.body.removeChild(ta);
+  }
+  const orig=btn.textContent;
+  btn.textContent="コピーしました ✓";btn.classList.add("copied");
+  setTimeout(()=>{btn.textContent=orig;btn.classList.remove("copied");},2000);
+}
+
+document.getElementById("copyBtn").onclick=copyToday;
+
+fetch("data/news.json?t="+Date.now())
+  .then(r=>{if(!r.ok)throw new Error(r.status);return r.json();})
+  .then(d=>{DATA=d;render();})
+  .catch(()=>{
+    document.getElementById("meta").textContent="データがまだありません。GitHub Actionsを一度手動実行してください。";
+  });
+</script>
+</body>
+</html>

@@ -2,8 +2,11 @@ name: Update regulatory news
 
 on:
   schedule:
-    # JST 6:00 (= UTC 21:00 前日) に毎日実行。cronは数分〜数十分遅延することあり
-    - cron: "0 21 * * *"
+    # JST 3:40 (= UTC 18:40 前日) に毎日実行。
+    # 毎時0分ちょうどはGitHub側が混雑して後回しにされやすく、6:00指定で実際には
+    # 6:56に走っていた。半端な分に置くことで遅延を抑える。
+    # 多少遅れても朝の閲覧までに終わるよう、時刻自体も早めにとってある。
+    - cron: "40 18 * * *"
   workflow_dispatch: {}
 
 permissions:

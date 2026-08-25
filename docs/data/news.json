@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-25 19:41",
+ "generated_at": "2026-08-25 20:26",
  "generated_date": "2026-08-25",
- "previous_generated_at": "2026-08-25 09:46",
+ "previous_generated_at": "2026-08-25 19:41",
  "agencies": [
   {
    "id": "fsa",
@@ -839,13 +839,6 @@
    "status": "ok",
    "errors": [],
    "items": [
-    {
-     "title": "情報発信,「市場へのメッセージ（令和８年６月26日）」を掲載しました",
-     "url": "https://www.fsa.go.jp/sesc/message/20260626.html",
-     "date": "2026-06-26",
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
     {
      "title": "証券検査,「令和８事務年度　証券モニタリング基本方針」について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260731-2.html",
@@ -1760,6 +1753,567 @@
      "title": "【フィッシング対策】（https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html",
      "url": "https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html",
      "date": "2022-10-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    }
+   ]
+  },
+  {
+   "id": "moj",
+   "name": "法務省",
+   "seal": "法",
+   "site": "https://www.moj.go.jp/",
+   "method": "rss",
+   "status": "ok",
+   "errors": [],
+   "items": [
+    {
+     "title": "台風１８号に伴う業務支障情報",
+     "url": "http://www.moj.go.jp/gyoumusisho_index.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年度「全国一斉『こどもの人権相談』強化週間」の実施について",
+     "url": "http://www.moj.go.jp/JINKEN/jinken03_00282.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "法務大臣臨時記者会見の概要－令和８年８月２１日（金）",
+     "url": "http://www.moj.go.jp/hisho/kouhou/hisho08_00919.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年６月分月報公表（訟務事件統計、登記統計、検察統計、矯正統計、少年矯正統計、保護統計及び人権侵犯事件統計）",
+     "url": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年熊本地震に関する情報はこちらです。（令和８年８月２１日最終更新）",
+     "url": "http://www.moj.go.jp/hisho/kouhou/saigai191017_00006",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年司法試験予備試験に関するQ＆Aについて（令和８年８月２１日更新）",
+     "url": "http://www.moj.go.jp/jinji/shihoushiken/jinji07_00210.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "ＡＩ等法務業務支援サービス提供と弁護士法第７２条の関係に係るガイドライン等の公表について",
+     "url": "http://www.moj.go.jp/housei/shihouseido/housei10_00134.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "Netflixの「『ラヴ上等』シーズン２」とのタイアップについて",
+     "url": "http://www.moj.go.jp/hogo1/soumu/hogo01_00066.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年司法試験予備試験論文式試験の試験会場について（R8.8.18更新）",
+     "url": "http://www.moj.go.jp/jinji/shihoushiken/jinji07_00288.html",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年度司法書士試験問題",
+     "url": "http://www.moj.go.jp/MINJI/minji05_00777.html",
+     "date": "2026-08-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日本国際仲裁ウィーク２０２６が開催されました。",
+     "url": "https://www.moj.go.jp/hisho/kouhou/hisho06_01478.html",
+     "date": "2026-08-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日本女子大学において法教育の講義を実施しました！！",
+     "url": "http://www.moj.go.jp/housei/shihouseido/housei10_00132.html",
+     "date": "2016-06-28",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    }
+   ]
+  },
+  {
+   "id": "mhlw",
+   "name": "厚生労働省",
+   "seal": "厚",
+   "site": "https://www.mhlw.go.jp/",
+   "method": "rss",
+   "status": "ok",
+   "errors": [],
+   "items": [
+    {
+     "title": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75767.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第213回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75728.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第104回「電離放射線障害の業務上外に関する検討会」を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75525.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75128.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "労働政策審議会 (雇用環境・均等分科会）",
+     "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第60回社会保障審議会生活保護基準部会　  資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75756.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第62回厚生科学審議会疾病対策部会造血幹細胞移植委員会 (Web会議) を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75486.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第13回厚生科学審議会食品衛生監視部会　議事録",
+     "url": "https://www.mhlw.go.jp/stf/shingi/2024giji_00018.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "映画「ママがもうこの世界にいなくても　私の命の日記」とのタイアップ中止について",
+     "url": "https://www.mhlw.go.jp/stf/houdou/tie-up_00001.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第69回 医療上の必要性の高い未承認薬・適応外薬検討会議（オンライン会議）を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75717.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第47回厚生科学審議会　臨床研究部会　開催案内",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75571.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第41回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75341.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75307.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第４７回がん検診のあり方に関する検討会（議事録）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75750.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "採用情報（非常勤職員（人材開発統括官） )募集情報",
+     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan03.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "採用情報（任期付職員（臨床研究等情報化推進専門官）募集情報）",
+     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-rinsyokenkyutoujouhoukasuisinsenmonkan.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "毎月勤労統計調査ー2026（令和８）年６月分結果確報",
+     "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2606r/2606r.html",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第130回社会保障審議会医療部会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75742.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第３７回厚生科学審議会がん登録部会（資料）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75738.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第８回）議事録",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75736.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "監督指導による賃金不払残業の是正結果（令和７年）",
+     "url": "https://www.mhlw.go.jp/bunya/roudoukijun/chingin-c_r07.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "賃金不払が疑われる事業場に対する監督指導結果（令和７年）を公表します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75588.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「医薬品・医療機器等の保険適用に関する相談会」を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75576.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第１０回インフラメンテナンス大賞の募集を開始します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_72810.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第46回匿名医療情報等の提供に関する専門委員会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75719.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
+     "url": "https://www.mhlw.go.jp/kokoro/mental_health_day/index.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第４回）　議事録",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75446.html",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年熊本地震に伴う雇用調整助成金の特例を実施します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75665.html",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和8年熊本地震により被災された皆様へ、キャリアコンサルタント登録制度に関する期限の延長措置についてのお知らせ",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consulting.html",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「第6回 SaMD産学官連携フォーラム」を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75257.html",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
+     "url": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "WEBマガジン「厚生労働」（連載[ハラスメント対策]ほか更新）",
+     "url": "https://www.mhlw.go.jp/web_magazine/",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第40回厚生科学審議会予防接種・ワクチン分科会研究開発及び生産・流通部会　資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75667.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第226回労働政策審議会職業安定分科会を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_021225156_00113.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "労働基準監督官採用試験広報HP",
+     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第３７回厚生科学審議会がん登録部会の開催について（オンライン開催）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75591.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "薬事審議会　医薬品第一部会を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75461.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "時間外労働等に係る相談・支援及び監督指導を見直します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75454.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "薬事審議会血液事業部会令和８年度第１回安全技術調査会（ペーパーレス・Web併用）の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75322.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第５５回特定石綿被害建設業務労働者等認定審査会　開催案内",
+     "url": "https://www.mhlw.go.jp/stf/newpage_74834.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "人事労務マガジン 特集第247号　ハラスメント事案解決のための専門家派遣を行っています",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75552.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "危険ドラッグの成分４物質を新たに指定薬物に指定",
+     "url": "https://www.mhlw.go.jp/stf/houdou/0000212707_00056.html",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75306.html",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
+     "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第32回過労死等防止対策推進協議会　議事録",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75595.html",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "建設業・運輸業の働き方改革に向けた新PR動画を公開",
+     "url": "https://www.mhlw.go.jp/stf/newpage_74962.html",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第188回労働政策審議会安全衛生分科会（開催案内）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75520.html",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "薬事審議会　医薬品第二部会を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75462.html",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「第303回原子爆弾被爆者医療分科会」の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_74972.html",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "2026年７月３日　第７回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」　議事録",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75551.html",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第４回　医療関係職種の安定的な養成・確保に関する検討会：資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75535.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第４回 医療関係職種の安定的な養成・確保に関する検討会：開催案内",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75532.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第40回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75340.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "薬事審議会　指定薬物部会を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_74927.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年８月14日付幹部名簿",
+     "url": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和８年熊本地震により被災した学生・生徒の皆様へ",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jakunen/75497.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "定期の予防接種実施者数",
+     "url": "https://www.mhlw.go.jp/topics/bcg/other/5.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "薬事工業生産動態統計令和8年5月分月報について",
+     "url": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "採用情報（期間業務職員（医薬局）募集情報）",
+     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-ippangyouseijimuhojo.html",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "輸入食品に対する検査命令の実施 （コートジボワール産ごまの種子）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75455.html",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "薬事審議会　医療機器・再生医療等製品安全対策部会を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75293.html",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第78回ハンセン病元患者家族補償金認定審査会",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75507.html",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第５回 医療放射線の適正管理に関する検討会（議事録）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75451.html",
+     "date": "2026-08-12",
      "first_seen": "2026-08-25",
      "is_new": true
     }

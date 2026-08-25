@@ -1,47 +1,57 @@
 # reg-watch
 
-8つの官庁・機関の新着情報を1日1回まとめて取得し、GitHub Pages上の一覧ページに表示する個人用のメモ置き場。
+10の官庁・機関の新着情報を1日1回まとめて取得し、GitHub Pages上の一覧ページに表示する個人用のメモ置き場。
 
 ## 仕組み
 
 ```
 GitHub Actions (毎朝 JST 6:00頃)
   └─ scripts/fetch_news.py
-       ├─ 公式RSSがある5機関: RSSを取得
-       ├─ 無い3機関: 新着一覧ページをHTML解析
+       ├─ 公式RSSがある機関: RSSを取得
+       ├─ 無い機関: 新着一覧ページをHTML解析
        ├─ data/seen.json と突き合わせて新着を判定
        └─ docs/data/news.json を生成してコミット
 GitHub Pages (docs/ フォルダを公開)
   └─ docs/index.html がnews.jsonを読んで表示
 ```
 
-## 取得方式
+## 取得対象
 
-| 官庁・機関 | 方式 | URL |
+| 機関 | 方式 | 取得元 |
 |---|---|---|
-| 金融庁 | RSS | https://www.fsa.go.jp/fsaNewsListAll_rss2.xml |
-| 財務省 | RSS | https://www.mof.go.jp/news.rss |
-| SESC（報道発表） | RSS | https://www.fsa.go.jp/sescReportList_rss2.xml |
-| SESC（その他広報） | RSS | https://www.fsa.go.jp/sescOtherList_rss2.xml |
-| 日本銀行 | RSS | https://www.boj.or.jp/rss/whatsnew.xml |
-| 消費者庁 | RSS | https://www.caa.go.jp/news.rss |
-| 公正取引委員会 | HTML解析 | https://www.jftc.go.jp/ |
-| 個人情報保護委員会 | HTML解析 | https://www.ppc.go.jp/ |
-| 警察庁 JAFIC | HTML解析 | https://www.npa.go.jp/sosikihanzai/jafic/index.htm |
+| 金融庁 | RSS | `fsa.go.jp/fsaNewsListAll_rss2.xml` |
+| 財務省 | RSS | `mof.go.jp/news.rss` |
+| 証券取引等監視委員会 | RSS | `fsa.go.jp/sescReportList_rss2.xml`＋`sescOtherList_rss2.xml` |
+| 日本銀行 | RSS | `boj.or.jp/rss/whatsnew.xml` |
+| 消費者庁（公益通報） | HTML解析＋RSS | 下記参照 |
+| 公正取引委員会 | **手動確認** | 自動取得できない。下記参照 |
+| 個人情報保護委員会 | HTML解析 | `ppc.go.jp/`（トップページ） |
+| 警察庁 JAFIC | HTML解析 | `npa.go.jp/sosikihanzai/jafic/index.htm` |
+| 法務省 | RSS | `moj.go.jp/news.xml`＋`info.xml` |
+| 厚生労働省 | RSS | `mhlw.go.jp/stf/news.rdf` |
 
-公取委・個情委・JAFICは公式RSSを提供していないためページを解析している。
-robots.txt 上で対象パスの取得は許可されている（JFTCは `Allow: /` のみでDisallow指定なし、
-PPCの `/information/` も制限対象外）。取得はいずれも1日1回。
+法務省の `test.xml`（試験関係）は対象外。
 
-### HTML解析の方針
+### 消費者庁を公益通報に絞っている理由
 
-`fetch_dated_list` はページ全体のリンクを総当たりせず、**li / dd / tr のうち
-「日付とリンクを持つ末端の項目」だけ**を拾う。総当たりだと案内リンクや数年前の記事を
-大量に拾ってしまい、新着一覧として使い物にならないため。
-`<time datetime="...">` があればそれを、無ければ本文中の令和表記を日付に使う。
+総合フィード（`caa.go.jp/news.rss`）は食品表示・製品事故・職員募集などが大半で、
+公益通報関連はほとんど流れてこない。そのため取得元を2系統に分けている。
 
-個情委は**トップページ**を見る。`/information/` は年度別アーカイブの索引で、
-ここを見ると最新の新着情報が取れない。
+- **公益通報者保護制度の専用ページ**（`/policies/policy/consumer_partnerships/whisleblower_protection_system/`）
+  の新着情報。こちらが本命
+- 総合フィードのうち `keywords`（公益通報 / 内部通報 / 通報者保護）に一致するものだけ。
+  専用ページへの掲載が遅れた場合の取りこぼし対策
+
+`keywords` で絞った結果がゼロ件でも「関連する新着が無い」だけなので、取得失敗にはしない。
+
+### 公正取引委員会を手動確認にしている理由
+
+GitHub ActionsのIPレンジがWAFで遮断されており、403が返って取得できない。
+robots.txtは `Allow: /` のみでDisallow指定がなく取得自体は許可されているが、
+IP遮断はサイト側の運用判断なので回避はしない。
+
+毎回失敗させると画面に警告が出続け、**本当に何かが壊れた日の警告が埋もれる**。
+そのため取得対象から外し、`status: manual` として公式サイトへのリンクだけを出している。
 
 ## 新着の判定
 
@@ -55,8 +65,6 @@ PPCの `/information/` も制限対象外）。取得はいずれも1日1回。
 
 Actionsが1日落ちても、次に成功した実行がその間の差分をまとめて拾うため欠落しない。
 
-一覧ページは既定で「新着のみ」を表示する。過去分は表示切り替えで「すべて」を選ぶ。
-
 ### 識別キー
 
 `seen.json` のキーは **URLと日付の組**（`item_key`）。URLだけにすると、JAFICのように
@@ -65,25 +73,35 @@ Actionsが1日落ちても、次に成功した実行がその間の差分をま
 
 ## 取得できたか / 新着が無いかの区別
 
-官庁ごとに `status` を持たせている。RSSが無くHTML解析に頼っている3機関は
+機関ごとに `status` を持たせている。RSSが無くHTML解析に頼っている機関は
 サイト改修やアクセス制限で壊れうるため、**「新着なし」と「取得失敗」が画面上で必ず区別される**ようにしてある。
 
 | status | 意味 | 画面表示 |
 |---|---|---|
 | `ok` | 全系統の取得に成功 | 新着一覧、または「新着はありません」 |
-| `partial` | 一部の系統だけ失敗（SESCのように複数フィードを持つ場合） | 取得できた分＋一部失敗の注記 |
+| `partial` | 一部の系統だけ失敗（複数フィードを持つ機関） | 取得できた分＋一部失敗の注記 |
 | `error` | 全系統が失敗 | 「取得に失敗しました。新着の有無は不明です。」＋エラー内容 |
+| `manual` | 自動取得の対象外 | 公式サイトで確認する旨の案内。失敗扱いにはしない |
 
-`error` の官庁は件数がゼロでも「新着なし」とは表示されない。ヘッダー部分にも失敗した官庁名が出る。
+`error` の機関は件数がゼロでも「新着なし」とは表示されず、ヘッダーにも警告が出る。
+`manual` は警告の対象外。
+
+## 一覧ページ
+
+- **表示**: 「新着のみ」（既定）と「すべて」を切り替える
+- **官庁**: 機関ごとにトグルで表示/非表示。「すべて選択」で一括切り替え。全部オフにすると案内文を表示
+- **新着分をコピー**: 選択中の機関の新着を、番号・機関名・日付・件名・URLの形式でクリップボードへ。
+  表示範囲の切り替えとは独立して、常に新着だけを渡す
 
 ## メモ
 
 - cronはUTC 21:00（JST 6:00）設定だが、GitHubの仕様で数分〜数十分遅れることがある
-- **公取委は現在403で取得できていない。** robots.txtは取得を許可しており、
-  ブラウザ相当のUAでも変わらないことから、GitHub ActionsのIPレンジがWAFで
-  遮断されていると見られる。回避はしない。画面上は `error` として明示される
-- HTML解析が壊れたら `fetch_dated_list` を調整する。項目がゼロ件だった場合は
-  例外を投げて `status: error` になるので、画面とActionsのログの両方で気付ける
-- 監視対象を増やすときは `SOURCES` にエントリを追加する（RSSがあるサイトなら `type: "rss"`、
-  無ければ `type: "dated_list"`）
+- User-Agentは `reg-watch/1.0 (personal news reader; 1 request/day)` と正直に名乗る。
+  一時期ブラウザを騙っていたが、それでも公取委の403は変わらず偽装する利点が無かったため戻した
+- HTML解析は `fetch_dated_list` が担当。ページ全体のリンクを総当たりせず、
+  li / dd / tr のうち「日付とリンクを持つ末端の項目」だけを拾う。
+  総当たりだと案内リンクや数年前の記事を大量に拾ってしまう
+- 項目がゼロ件だった場合は例外を投げて `status: error` になるので、画面とActionsのログの両方で気付ける
+- 監視対象を増やすときは `SOURCES` にエントリを追加する（RSSがあれば `type: "rss"`、
+  無ければ `type: "dated_list"`、絞り込むなら `keywords` を併記）
 - `MAX_ITEMS_PER_AGENCY` で1機関あたりの保持件数を制限しているが、新着は上限に関わらず必ず残す

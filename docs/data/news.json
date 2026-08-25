@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-25 20:26",
+ "generated_at": "2026-08-25 20:49",
  "generated_date": "2026-08-25",
- "previous_generated_at": "2026-08-25 19:41",
+ "previous_generated_at": "2026-08-25 20:26",
  "agencies": [
   {
    "id": "fsa",
@@ -875,6 +875,20 @@
      "is_new": true
     },
     {
+     "title": "取引調査,公開買付者の従業者から伝達を受けた海外居住者によるNIPPO株式に係る内部者取引に対する課徴金納付命令の勧告について",
+     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-2.html",
+     "date": null,
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "開示検査,株式会社Ｉ－ｎｅにおける有価証券報告書の重要な事項の不記載及び同社役員が所有する同社株式の売出しに係る目論見書の重要な事項の不記載に係る課徴金納付命令勧告について",
+     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-1.html",
+     "date": null,
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
      "title": "証券検査,moomoo証券株式会社に対する検査結果に基づく勧告について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260605-2.html#60",
      "date": null,
@@ -1567,12 +1581,10 @@
    "id": "jftc",
    "name": "公正取引委員会",
    "seal": "公",
-   "site": "https://www.jftc.go.jp/",
-   "method": "html",
-   "status": "error",
-   "errors": [
-    "https://www.jftc.go.jp/ -> 403 Client Error: Forbidden for url: https://www.jftc.go.jp/"
-   ],
+   "site": "https://www.jftc.go.jp/houdou/index.html",
+   "method": "manual",
+   "status": "manual",
+   "errors": [],
    "items": []
   },
   {
@@ -2320,7 +2332,5 @@
    ]
   }
  ],
- "errors": [
-  "公正取引委員会: https://www.jftc.go.jp/ -> 403 Client Error: Forbidden for url: https://www.jftc.go.jp/"
- ]
+ "errors": []
 }

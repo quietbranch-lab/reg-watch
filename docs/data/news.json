@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-25 08:51",
+ "generated_at": "2026-08-25 09:46",
  "generated_date": "2026-08-25",
- "previous_generated_at": "2026-08-25 07:52",
+ "previous_generated_at": "2026-08-25 08:51",
  "agencies": [
   {
    "id": "fsa",
@@ -129,6 +129,13 @@
    "errors": [],
    "items": [
     {
+     "title": "国債金利情報(令和8年8月24日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
      "title": "片山財務大臣とゴールドファイン米州開発銀行（IDB）総裁との面会及び「日本－中南米・カリブ（LAC）地域ビジネスフォーラム2026」の開催（令和8年8月24日）",
      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260824.html",
      "date": "2026-08-24",
@@ -173,13 +180,6 @@
     {
      "title": "入札、落札結果情報（物品・役務）",
      "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
-     "date": "2026-08-24",
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
-    {
-     "title": "国債金利情報(令和8年8月21日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
      "date": "2026-08-24",
      "first_seen": "2026-08-25",
      "is_new": true
@@ -840,6 +840,13 @@
    "errors": [],
    "items": [
     {
+     "title": "情報発信,「市場へのメッセージ（令和８年６月26日）」を掲載しました",
+     "url": "https://www.fsa.go.jp/sesc/message/20260626.html",
+     "date": "2026-06-26",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
      "title": "証券検査,「令和８事務年度　証券モニタリング基本方針」について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260731-2.html",
      "date": null,
@@ -875,6 +882,20 @@
      "is_new": true
     },
     {
+     "title": "取引調査,公開買付者の従業者から伝達を受けた海外居住者によるNIPPO株式に係る内部者取引に対する課徴金納付命令の勧告について",
+     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-2.html",
+     "date": null,
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "開示検査,株式会社Ｉ－ｎｅにおける有価証券報告書の重要な事項の不記載及び同社役員が所有する同社株式の売出しに係る目論見書の重要な事項の不記載に係る課徴金納付命令勧告について",
+     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-1.html",
+     "date": null,
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
      "title": "証券検査,moomoo証券株式会社に対する検査結果に基づく勧告について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260605-2.html#60",
      "date": null,
@@ -885,6 +906,560 @@
      "title": "その他,取引審査の実施状況及び情報受付状況を更新しました（６月末）",
      "url": "https://www.fsa.go.jp/sesc/actions/shinsa.html",
      "date": null,
+     "first_seen": "2026-08-25",
+     "is_new": true
+    }
+   ]
+  },
+  {
+   "id": "boj",
+   "name": "日本銀行",
+   "seal": "銀",
+   "site": "https://www.boj.or.jp/",
+   "method": "rss",
+   "status": "ok",
+   "errors": [],
+   "items": [
+    {
+     "title": "日本銀行が保有する国債の銘柄別残高",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260820.xlsx",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "営業毎旬報告（8月20日現在）",
+     "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260820.htm",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "FSBレポ統計の日本分集計結果",
+     "url": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "実質輸出入の動向",
+     "url": "http://www.boj.or.jp/research/research_data/reri/index.htm",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和8年7月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について（栃木県）",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260821a.pdf",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "基準外国為替相場及び裁定外国為替相場（9月分）",
+     "url": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2609.htm",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "報告省令レート（9月分）",
+     "url": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2609.htm",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "展望レポートのハイライト （2026年7月）",
+     "url": "http://www.boj.or.jp/mopo/outlook/highlight/ten202607.htm",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "業態別の日銀当座預金残高（7月）",
+     "url": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和8年8月13日からの大雨に伴う災害等に対する金融上の措置について（千葉県）",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260814a.pdf",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "被災地金融機関を支援するための資金供給オペレーションの実施結果",
+     "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260814a.pdf",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "（リサーチラボ）生産性向上が賃金上昇に反映されなかったのはなぜか：わが国のデフレ期からの教訓",
+     "url": "http://www.boj.or.jp/research/wps_rev/lab/lab26j02.htm",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日本銀行が保有する国債の銘柄別残高",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260810.xlsx",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "フェイルの発生状況（7月）",
+     "url": "http://www.boj.or.jp/statistics/set/bffail/sjgb2607.pdf",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "営業毎旬報告（8月10日現在）",
+     "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260810.htm",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "企業物価指数（7月）",
+     "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2607.pdf",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "（論文）サプライチェーンを介した企業の支出行動の連関",
+     "url": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j10.htm",
+     "date": "2026-08-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "（論文）企業間取引データを用いたわが国製造業サプライチェーンの可視化",
+     "url": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j09.htm",
+     "date": "2026-08-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "マネーストック（7月）",
+     "url": "http://www.boj.or.jp/statistics/money/ms/ms2607.pdf",
+     "date": "2026-08-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "金融政策決定会合における主な意見（7月30、31日開催分）",
+     "url": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260731.pdf",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "貸出・預金動向（7月）",
+     "url": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2607.pdf",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「貸出先別貸出金」（2026年6月）等の公表について",
+     "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not260810a.htm",
+     "date": "2026-08-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "コール市場残高（7月）",
+     "url": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "消費活動指数",
+     "url": "http://www.boj.or.jp/research/research_data/cai/index.htm",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "オペレーション（7月）",
+     "url": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "マネタリーベースと日本銀行の取引（7月）",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2607.pdf",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日本銀行の対政府取引（7月）",
+     "url": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
+     "date": "2026-08-07",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "金融システムレポート別冊「金融機関における生成AIの利用状況とリスク管理」",
+     "url": "http://www.boj.or.jp/research/brp/fsr/fsrb260806.htm",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日銀当座預金増減要因（8月見込み）",
+     "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2608.xlsx",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "金融政策決定会合議事要旨（6月15、16日開催分）",
+     "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260616.pdf",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日本銀行が保有する国債の銘柄別残高",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260731.xlsx",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日本銀行が受入れている担保の残高（7月末）",
+     "url": "http://www.boj.or.jp/statistics/boj/other/col/col2607.xlsx",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "（日銀レビュー）日本銀行による国債買入れ減額の国債市場への影響",
+     "url": "http://www.boj.or.jp/research/wps_rev/rev_2026/rev26j11.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "（論文）金融研究所DPS：銀行企業間の地理的距離と貸出金利の再検討：構造推定アプローチ",
+     "url": "http://www.boj.or.jp/research/imes/dps/dps260804b.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "（論文）金融研究所DPS：光量子コンピューティングの現状と展望",
+     "url": "http://www.boj.or.jp/research/imes/dps/dps260804a.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "営業毎旬報告（7月31日現在）",
+     "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260731.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "マネタリーベース（7月）",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+     "date": "2026-08-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "金融市場調節取引の2026年度対象先公募等について",
+     "url": "http://www.boj.or.jp/mopo/measures/select/s_release/srel260803a.htm",
+     "date": "2026-08-03",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "【記者会見】植田総裁（7月31日分）",
+     "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260803a.pdf",
+     "date": "2026-08-03",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "経済・物価情勢の展望（7月、全文）",
+     "url": "http://www.boj.or.jp/mopo/outlook/gor2607b.pdf",
+     "date": "2026-08-03",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日銀当座預金増減要因と金融調節（7月実績）",
+     "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf07.xlsx",
+     "date": "2026-08-03",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年7～9月）［日程更新］",
+     "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260731b.pdf",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "米ドル資金供給オペレーションのオファー日程（2026年8月～12月）",
+     "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260731a.pdf",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "総裁記者会見（7月31日）動画の配信開始",
+     "url": "http://www.boj.or.jp/about/release/sousaidouga.htm",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "当面の金融政策運営について",
+     "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260731a.pdf",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "経済・物価情勢の展望（7月、基本的見解）",
+     "url": "http://www.boj.or.jp/mopo/outlook/gor2607a.pdf",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "金融政策決定会合等の日程（2027年）",
+     "url": "http://www.boj.or.jp/mopo/mpmsche_minu/m_ref/mref260731a.pdf",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "決済動向（6月）",
+     "url": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2606.pdf",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和8年熊本地震に係る災害等に対する金融上の措置について（熊本県）",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260729a.pdf",
+     "date": "2026-07-29",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "貸出約定平均金利（6月）",
+     "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2606.pdf",
+     "date": "2026-07-29",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日本銀行政策委員会月報（令和8年6月号）",
+     "url": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2606.htm",
+     "date": "2026-07-28",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "消費者物価のコア指標",
+     "url": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
+     "date": "2026-07-28",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "（金研ニュースレター）2026年国際コンファランス",
+     "url": "http://www.boj.or.jp/about/release_2026/rel260727a.htm",
+     "date": "2026-07-27",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "日本銀行に関する学生向けのインターンシップ（総合コース向け）およびオープン・カンパニー（特定コース向け）への参加募集について",
+     "url": "http://www.boj.or.jp/about/recruit/rec260727a.htm",
+     "date": "2026-07-27",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "企業向けサービス価格指数（6月）",
+     "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2606.pdf",
+     "date": "2026-07-27",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "金融システムレポート別冊「2025年度の銀行・信用金庫決算」",
+     "url": "http://www.boj.or.jp/research/brp/fsr/fsrb260724.htm",
+     "date": "2026-07-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    }
+   ]
+  },
+  {
+   "id": "caa",
+   "name": "消費者庁",
+   "seal": "消",
+   "site": "https://www.caa.go.jp/",
+   "method": "rss",
+   "status": "ok",
+   "errors": [],
+   "items": [
+    {
+     "title": "機能性表示食品制度届出データベース届出情報の更新 (8月24日)",
+     "url": "https://www.caa.go.jp/notice/entry/047284/",
+     "date": "2026-08-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "堀井長官記者会見要旨(8月20日)",
+     "url": "https://www.caa.go.jp/notice/entry/047281/",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "消費生活用製品の重大製品事故:リコール製品で火災等(リチウム電池内蔵充電器)(8月21日)",
+     "url": "https://www.caa.go.jp/notice/entry/047276/",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "製品安全誓約(日本国)「重要業績評価指標(速報版)7月実施分」を掲載しました。",
+     "url": "https://www.caa.go.jp/notice/entry/047248/",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "こども霞が関見学デーでエシカル消費のワークショップを実施(7月30日)",
+     "url": "https://www.caa.go.jp/notice/entry/047268/",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "令和8年度食品ロス削減月間ポスターを公表しました。",
+     "url": "https://www.caa.go.jp/notice/entry/047230/",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第44回 消費者教育推進会議議事録を掲載しました",
+     "url": "https://www.caa.go.jp/notice/entry/047271/",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "消費者安全法の重大事故等に係る公表について(8月20日)",
+     "url": "https://www.caa.go.jp/notice/entry/047259/",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "機能性表示食品制度届出データベース届出情報の更新 (8月20日)",
+     "url": "https://www.caa.go.jp/notice/entry/047253/",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「環境ラベルに関する実態調査報告書」の公表について",
+     "url": "https://www.caa.go.jp/notice/entry/047213/",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "最高情報セキュリティアドバイザー(非常勤一般職国家公務員)の募集について",
+     "url": "https://www.caa.go.jp/notice/entry/047261/",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "えひめ消費者ネットと新日本製薬株式会社との間の差止請求に関する協議が調ったことについて",
+     "url": "https://www.caa.go.jp/notice/entry/047210/",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第166回消費者安全調査委員会(令和8年7月29日)の議事次第等を掲載しました。",
+     "url": "https://www.caa.go.jp/notice/entry/047233/",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "消費生活用製品の重大製品事故:リコール製品で火災等(ノートパソコン、電気ケトル、鍋(取っ手着脱式)、ポータブル電源(リチウムイオン)...",
+     "url": "https://www.caa.go.jp/notice/entry/047222/",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "機能性表示食品制度届出データベース届出情報の更新 (8月18日)",
+     "url": "https://www.caa.go.jp/notice/entry/047221/",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第8回デジタル取引・特定商取引法等検討会の開催について",
+     "url": "https://www.caa.go.jp/notice/entry/047206/",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "任期付職員(食品衛生基準課基準策定専門官)の募集について",
+     "url": "https://www.caa.go.jp/notice/entry/047216/",
+     "date": "2026-08-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "技術補助員(非常勤一般職国家公務員)募集について",
+     "url": "https://www.caa.go.jp/notice/entry/047199/",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "消費生活用製品の重大製品事故:リコール製品で火災等(スピーカー(充電式))(8月14日)",
+     "url": "https://www.caa.go.jp/notice/entry/047197/",
+     "date": "2026-08-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "消費者安全法に基づく重大事故等以外の消費者事故等の事故情報データバンク登録について(8月14日)",
+     "url": "https://www.caa.go.jp/notice/entry/047196/",
+     "date": "2026-08-14",
      "first_seen": "2026-08-25",
      "is_new": true
     }
@@ -912,16 +1487,72 @@
    "errors": [],
    "items": [
     {
-     "title": "「個人情報保護委員会ウェブサイト」を一時停止します。（（土）20時から23時まで",
-     "url": "https://www.ppc.go.jp/web_teishi_2601?ref=ninf",
-     "date": "2026-01-24",
+     "title": "オプトアウト届出書を新たに公表しました。（届出番号2026-100503～2026-100504",
+     "url": "https://www.ppc.go.jp/personalinfo/preparation/optout/publication_2021/?ref=tninf",
+     "date": "2026-08-21",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "カナダプライバシー・コミッショナー（OPC）とのMOC署名式カナダプライバシー・コミッショナー（OPC）とのMOC署名式（）について公開しました。",
-     "url": "https://www.ppc.go.jp/enforcement/cooperation/20251209_opc_moc_signature?ref=ninf",
-     "date": "2025-12-09",
+     "title": "第６回G7データ保護・プライバシー機関ラウンドテーブルが開催されました。",
+     "url": "https://www.ppc.go.jp/enforcement/cooperation/international_conference/g7_roundtable_202606?ref=tninf",
+     "date": "2026-08-21",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「レセプトデータ等の保有個人情報の利活用に関する注意喚起（行政機関等匿名加工情報の利用・提供について）」を公表しました。",
+     "url": "https://www.ppc.go.jp/news/press/2026/260819_02_houdou?ref=tninf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「KＤＤＩ株式会社及びインターネットサービスプロバイダに対する個人情報の保護に関する法律に基づく行政上の対応並びにメールサービス利用者に対する注意喚起について」を公表しました。",
+     "url": "https://www.ppc.go.jp/news/press/2026/260819_01_houdou?ref=tninf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "第365回個人情報保護委員会を開催しました。",
+     "url": "https://www.ppc.go.jp/aboutus/minutes/2026/20260819?ref=tninf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「オプトアウト届出事業者に対する実態調査」の調査結果を掲載しました。",
+     "url": "https://www.ppc.go.jp/news/surveillance?ref=tninf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "オプトアウト届出事業者に対する実態調査を踏まえた個人情報の適正な取扱いについて（オプトアウト届出事業者のみなさまへ）（令和７年度調査実施",
+     "url": "https://www.ppc.go.jp/news/careful_information/260819_chuuikanki_opt?ref=talertinf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "レセプトデータ等の保有個人情報の利活用に関する注意喚起（行政機関等匿名加工情報の利用・提供について",
+     "url": "https://www.ppc.go.jp/news/careful_information/260819_alert_receipt?ref=talertinf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "ＫＤＤＩ株式会社及びインターネットサービスプロバイダに対する個人情報の保護に関する法律に基づく行政上の対応並びにメールサービス利用者に対する注意喚起について",
+     "url": "https://www.ppc.go.jp/news/careful_information/260819_mailservice?ref=talertinf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "オプトアウト届出書を新たに公表しました。（届出番号2026-100497～2026-100502",
+     "url": "https://www.ppc.go.jp/personalinfo/preparation/optout/publication_2021/?ref=tninf",
+     "date": "2026-08-10",
      "first_seen": "2026-08-25",
      "is_new": true
     },
@@ -931,39 +1562,99 @@
      "date": "2025-11-25",
      "first_seen": "2026-08-25",
      "is_new": true
-    },
+    }
+   ]
+  },
+  {
+   "id": "jafic",
+   "name": "警察庁 JAFIC",
+   "seal": "警",
+   "site": "https://www.npa.go.jp/sosikihanzai/jafic/index.htm",
+   "method": "html",
+   "status": "ok",
+   "errors": [],
+   "items": [
     {
-     "title": "一般社団法人 LBMA Japanを新たに認定個人情報保護団体に認定しました。",
-     "url": "https://www.ppc.go.jp/personalinfo/nintei/list?ref=ninf#53_securi_equip",
-     "date": "2023-04-12",
+     "title": "タリバーン関係者等リストの改正について",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/todoke/yousei.htm#p1",
+     "date": "2026-08-20",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "尼崎市USBメモリ紛失事案に対する個人情報の保護に関する法律に基づく行政上の対応について",
-     "url": "https://www.ppc.go.jp/news/press/2023/20230222?ref=ninf",
-     "date": "2023-02-22",
+     "title": "タリバーン関係者等リストの改正について",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/todoke/yousei.htm#p1",
+     "date": "2026-08-19",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "BIPROGY株式会社に対する個人情報の保護に関する法律に基づく行政上の対応について（）」を公表しました。",
-     "url": "https://www.ppc.go.jp/news/press/2021/220921kouhou?ref=ninf",
-     "date": "2022-09-21",
+     "title": "FATF声明の公表について",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/todoke/yousei.htm#p2",
+     "date": "2026-08-17",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "「認定個人情報保護団体シンポジウム」の開催について(開催",
-     "url": "https://www.ppc.go.jp/news/press/2020/2102101kouhou?ref=ninf",
-     "date": "2021-03-16",
+     "title": "「犯罪収益移転防止法の概要」の更新について",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/hourei/data/hougaiyou20260807.pdf",
+     "date": "2026-08-07",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "専門委員等が第42回データ保護プライバシー・コミッショナー国際会議に出席(～15日",
-     "url": "https://www.ppc.go.jp/enforcement/mission-roles/state/2020/202010ICDPPC?ref=ninf",
-     "date": "2020-10-13",
+     "title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令について",
+     "url": "https://www.npa.go.jp/bureau/sosikihanzai/hansyu/kumamotojisin.html",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "タリバーン関係者等リストの改正について",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/todoke/yousei.htm#p1",
+     "date": "2026-08-05",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "タリバーン関係者等リストの改正について",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/todoke/yousei.htm#p1",
+     "date": "2026-07-14",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "疑わしい取引の届出の促進等について（要請",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/hourei/hotop.htm#sonota",
+     "date": "2026-06-30",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令案」について（金融庁ウェブサイト",
+     "url": "https://www.fsa.go.jp/news/r7/sonota/20260626/20260626.html",
+     "date": "2026-06-26",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "犯罪による収益の移転防止に関する法律の一部を改正する法律について",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/hourei/hotop.htm#houritsu",
+     "date": "2026-06-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "暗号資産を用いた不動産取引について",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/hourei/hotop.htm#sonota",
+     "date": "2026-04-28",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "【フィッシング対策】（https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html",
+     "url": "https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html",
+     "date": "2022-10-05",
      "first_seen": "2026-08-25",
      "is_new": true
     }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-25 09:46",
+ "generated_at": "2026-08-25 19:41",
  "generated_date": "2026-08-25",
- "previous_generated_at": "2026-08-25 08:51",
+ "previous_generated_at": "2026-08-25 09:46",
  "agencies": [
   {
    "id": "fsa",
@@ -129,6 +129,34 @@
    "errors": [],
    "items": [
     {
+     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年8月25日(火曜日))",
+     "url": "https://www.mof.go.jp/public_relations/conference/my20260825.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和8年8月25日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result260825.htm",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "10年利付国債（9月債）の発行予定額等（令和8年8月25日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260825.htm",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "入札、落札結果情報（物品・役務）",
+     "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
      "title": "国債金利情報(令和8年8月24日)",
      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
      "date": "2026-08-25",
@@ -173,13 +201,6 @@
     {
      "title": "政府調達情報",
      "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
-     "date": "2026-08-24",
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
-    {
-     "title": "入札、落札結果情報（物品・役務）",
-     "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
      "date": "2026-08-24",
      "first_seen": "2026-08-25",
      "is_new": true
@@ -806,27 +827,6 @@
      "date": "2026-08-04",
      "first_seen": "2026-08-25",
      "is_new": true
-    },
-    {
-     "title": "人事異動(令和8年8月1日)※修正",
-     "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.08.01_42.pdf",
-     "date": "2026-08-04",
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
-    {
-     "title": "「債務管理リポート2026」電子書籍版を公開しました",
-     "url": "https://www.mof.go.jp/insideLink/20260731130208.html",
-     "date": "2026-08-03",
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
-    {
-     "title": "令和8年度　6月末租税及び印紙収入、収入額調",
-     "url": "https://www.mof.go.jp/tax_policy/reference/taxes_and_stamp_revenues/202606.pdf",
-     "date": "2026-08-03",
-     "first_seen": "2026-08-25",
-     "is_new": true
     }
    ]
   },
@@ -882,20 +882,6 @@
      "is_new": true
     },
     {
-     "title": "取引調査,公開買付者の従業者から伝達を受けた海外居住者によるNIPPO株式に係る内部者取引に対する課徴金納付命令の勧告について",
-     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-2.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
-    {
-     "title": "開示検査,株式会社Ｉ－ｎｅにおける有価証券報告書の重要な事項の不記載及び同社役員が所有する同社株式の売出しに係る目論見書の重要な事項の不記載に係る課徴金納付命令勧告について",
-     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-1.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
-    {
      "title": "証券検査,moomoo証券株式会社に対する検査結果に基づく勧告について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260605-2.html#60",
      "date": null,
@@ -920,6 +906,20 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "（金研ニュースレター）情報セキュリティ・セミナー「生体認証技術の現在地」",
+     "url": "http://www.boj.or.jp/about/release_2026/rel260825a.htm",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "消費者物価のコア指標",
+     "url": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
     {
      "title": "日本銀行が保有する国債の銘柄別残高",
      "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260820.xlsx",
@@ -1278,13 +1278,6 @@
      "is_new": true
     },
     {
-     "title": "消費者物価のコア指標",
-     "url": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
-     "date": "2026-07-28",
-     "first_seen": "2026-08-25",
-     "is_new": true
-    },
-    {
      "title": "（金研ニュースレター）2026年国際コンファランス",
      "url": "http://www.boj.or.jp/about/release_2026/rel260727a.htm",
      "date": "2026-07-27",
@@ -1304,162 +1297,274 @@
      "date": "2026-07-27",
      "first_seen": "2026-08-25",
      "is_new": true
-    },
-    {
-     "title": "金融システムレポート別冊「2025年度の銀行・信用金庫決算」",
-     "url": "http://www.boj.or.jp/research/brp/fsr/fsrb260724.htm",
-     "date": "2026-07-24",
-     "first_seen": "2026-08-25",
-     "is_new": true
     }
    ]
   },
   {
    "id": "caa",
-   "name": "消費者庁",
+   "name": "消費者庁（公益通報）",
    "seal": "消",
-   "site": "https://www.caa.go.jp/",
-   "method": "rss",
+   "site": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/",
+   "method": "html",
    "status": "ok",
    "errors": [],
    "items": [
     {
-     "title": "機能性表示食品制度届出データベース届出情報の更新 (8月24日)",
-     "url": "https://www.caa.go.jp/notice/entry/047284/",
-     "date": "2026-08-24",
+     "title": "パンフレット(内部通報制度を活用して信頼度UP!)を公表しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/hajimete/",
+     "date": "2026-06-30",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "堀井長官記者会見要旨(8月20日)",
-     "url": "https://www.caa.go.jp/notice/entry/047281/",
-     "date": "2026-08-21",
+     "title": "公益通報ハンドブック(改正法(令和8年12月施行)準拠版)を公表しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/#01",
+     "date": "2026-06-30",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "消費生活用製品の重大製品事故:リコール製品で火災等(リチウム電池内蔵充電器)(8月21日)",
-     "url": "https://www.caa.go.jp/notice/entry/047276/",
-     "date": "2026-08-21",
+     "title": "「公益通報者保護法第十六条第一項の規定による立入検査をする職員の携帯する身分を示す証明書の様式を定める内閣府令(案)」に関する御意見募集の結果を公表しました。",
+     "url": "https://www.caa.go.jp/notice/consultation/#03",
+     "date": "2026-06-23",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "製品安全誓約(日本国)「重要業績評価指標(速報版)7月実施分」を掲載しました。",
-     "url": "https://www.caa.go.jp/notice/entry/047248/",
-     "date": "2026-08-21",
+     "title": "通報の対象となる法律一覧表を更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/subject/index.html",
+     "date": "2026-06-01",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "こども霞が関見学デーでエシカル消費のワークショップを実施(7月30日)",
-     "url": "https://www.caa.go.jp/notice/entry/047268/",
-     "date": "2026-08-21",
+     "title": "「公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令(案)」に関する御意見募集の結果を公表しました。",
+     "url": "https://www.caa.go.jp/notice/consultation/",
+     "date": "2026-05-29",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "令和8年度食品ロス削減月間ポスターを公表しました。",
-     "url": "https://www.caa.go.jp/notice/entry/047230/",
-     "date": "2026-08-21",
+     "title": "公益通報者保護制度Q&Aを公表しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/faq/",
+     "date": "2026-05-29",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "第44回 消費者教育推進会議議事録を掲載しました",
-     "url": "https://www.caa.go.jp/notice/entry/047271/",
-     "date": "2026-08-21",
+     "title": "公益通報者保護法を踏まえた国及び地方公共団体向けガイドラインの一部改正を公表しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview#04",
+     "date": "2026-05-29",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "消費者安全法の重大事故等に係る公表について(8月20日)",
-     "url": "https://www.caa.go.jp/notice/entry/047259/",
-     "date": "2026-08-20",
+     "title": "通報の対象となる法律一覧表を更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/subject/",
+     "date": "2026-05-25",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "機能性表示食品制度届出データベース届出情報の更新 (8月20日)",
-     "url": "https://www.caa.go.jp/notice/entry/047253/",
-     "date": "2026-08-20",
+     "title": "公益通報者保護法に基づく是正指導の件数について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/research/#private03",
+     "date": "2026-04-15",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "「環境ラベルに関する実態調査報告書」の公表について",
-     "url": "https://www.caa.go.jp/notice/entry/047213/",
-     "date": "2026-08-20",
+     "title": "公益通報者保護制度相談ダイヤルへの相談件数について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/contact/#contact02",
+     "date": "2026-04-15",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "最高情報セキュリティアドバイザー(非常勤一般職国家公務員)の募集について",
-     "url": "https://www.caa.go.jp/notice/entry/047261/",
-     "date": "2026-08-20",
+     "title": "「公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令案」に関する御意見募集について",
+     "url": "https://www.caa.go.jp/notice/consultation/",
+     "date": "2026-04-03",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "えひめ消費者ネットと新日本製薬株式会社との間の差止請求に関する協議が調ったことについて",
-     "url": "https://www.caa.go.jp/notice/entry/047210/",
-     "date": "2026-08-20",
+     "title": "通報の対象となる法律一覧表を更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/subject",
+     "date": "2026-04-01",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "第166回消費者安全調査委員会(令和8年7月29日)の議事次第等を掲載しました。",
-     "url": "https://www.caa.go.jp/notice/entry/047233/",
-     "date": "2026-08-18",
+     "title": "内部通報制度導入支援キット等を一部更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/hajimete/",
+     "date": "2026-03-31",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "消費生活用製品の重大製品事故:リコール製品で火災等(ノートパソコン、電気ケトル、鍋(取っ手着脱式)、ポータブル電源(リチウムイオン)...",
-     "url": "https://www.caa.go.jp/notice/entry/047222/",
-     "date": "2026-08-18",
+     "title": "「公益通報者保護法第11条第1項及び第2項の規定に基づき事業者がとるべき措置に関して、その適切かつ有効な実施を図るために必要な指針の一部を改正する告示(案 )」に関する御意見募集の結果を公表しました。",
+     "url": "https://www.caa.go.jp/notice/consultation/#03",
+     "date": "2026-03-31",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "機能性表示食品制度届出データベース届出情報の更新 (8月18日)",
-     "url": "https://www.caa.go.jp/notice/entry/047221/",
-     "date": "2026-08-18",
+     "title": "「公益通報者保護法第11条第1項及び第2項の規定に基づき事業者がとるべき措置に関して、その適切かつ有効な実施を図るために必要な指針」の一部改正の公表について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/#legal_guidelines",
+     "date": "2026-03-31",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "第8回デジタル取引・特定商取引法等検討会の開催について",
-     "url": "https://www.caa.go.jp/notice/entry/047206/",
-     "date": "2026-08-17",
+     "title": "「公益通報者保護法第十六条第一項の規定による立入検査をする職員の携帯する身分を示す証明書の様式を定める内閣府令(案 )」に関する御意見募集について",
+     "url": "https://www.caa.go.jp/notice/consultation/",
+     "date": "2026-03-23",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "任期付職員(食品衛生基準課基準策定専門官)の募集について",
-     "url": "https://www.caa.go.jp/notice/entry/047216/",
-     "date": "2026-08-17",
+     "title": "「公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令案」に関する御意見募集の結果を公表しました。",
+     "url": "https://www.caa.go.jp/notice/consultation/",
+     "date": "2026-01-23",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "技術補助員(非常勤一般職国家公務員)募集について",
-     "url": "https://www.caa.go.jp/notice/entry/047199/",
-     "date": "2026-08-14",
+     "title": "通報の対象となる法律一覧表を更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/subject",
+     "date": "2025-12-18",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "消費生活用製品の重大製品事故:リコール製品で火災等(スピーカー(充電式))(8月14日)",
-     "url": "https://www.caa.go.jp/notice/entry/047197/",
-     "date": "2026-08-14",
+     "title": "「公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令案」に関する御意見募集の結果を公表しました。",
+     "url": "https://www.caa.go.jp/notice/consultation/#result2025",
+     "date": "2025-12-10",
      "first_seen": "2026-08-25",
      "is_new": true
     },
     {
-     "title": "消費者安全法に基づく重大事故等以外の消費者事故等の事故情報データバンク登録について(8月14日)",
-     "url": "https://www.caa.go.jp/notice/entry/047196/",
-     "date": "2026-08-14",
+     "title": "「公益通報者保護法の一部を改正する法律の施行期日を定める政令」が公布されました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview",
+     "date": "2025-12-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「公益通報者保護法第11条第1項及び第2項の規定に基づき事業者がとるべき措置に関して、その適切かつ有効な実施を図るために必要な指針の一部を改正する告示(案)」に関する御意見募集について",
+     "url": "https://www.caa.go.jp/notice/consultation/",
+     "date": "2025-11-10",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令案」に関する御意見募集について",
+     "url": "https://www.caa.go.jp/notice/consultation/",
+     "date": "2025-09-25",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「公益通報者保護法の一部を改正する法律」に関する資料の公表について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/#012",
+     "date": "2025-06-11",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "通報の対象となる法律一覧表を更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/subject",
+     "date": "2025-04-01",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「公益通報者保護法の一部を改正する法律案」の閣議決定について",
+     "url": "https://www.caa.go.jp/law/bills/#217",
+     "date": "2025-03-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "通報の対象となる法律一覧表を更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/subject",
+     "date": "2024-12-12",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "通報の対象となる法律一覧表を更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/subject",
+     "date": "2024-11-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "通報の対象となる法律一覧表を更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/subject",
+     "date": "2024-11-01",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令案」に関する御意見募集の結果を公表しました。",
+     "url": "https://www.caa.go.jp/notice/consultation/#result2024",
+     "date": "2024-10-29",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "通報の対象となる法律一覧表を更新しました。",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/subject",
+     "date": "2024-10-23",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令案」に関する御意見募集について",
+     "url": "https://www.caa.go.jp/notice/consultation/#o2024",
+     "date": "2024-09-13",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "内部通報に関する意識調査(就労者1万人アンケート)結果概要版(英語版)の公表について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/research#domestic",
+     "date": "2024-07-24",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "「主要先進国の公益通報者保護法について」の公表について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/research#overseas",
+     "date": "2024-06-17",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "海外の通報者保護制度及び実態に係る調査業務最終報告書の公表について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/research#overseas",
+     "date": "2024-06-04",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "行政機関における公益通報者保護法の施行状況調査の公表について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/research#domestic",
+     "date": "2024-04-18",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "公益通報者保護法に基づく是正指導の件数について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/research/#private03",
+     "date": "2024-04-15",
+     "first_seen": "2026-08-25",
+     "is_new": true
+    },
+    {
+     "title": "公益通報者保護制度相談ダイヤルへの相談件数について",
+     "url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/contact/index.html",
+     "date": "2024-04-15",
      "first_seen": "2026-08-25",
      "is_new": true
     }

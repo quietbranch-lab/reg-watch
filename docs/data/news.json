@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-26 06:56",
- "generated_date": "2026-08-26",
- "previous_generated_at": "2026-08-25 21:09",
+ "generated_at": "2026-08-27 05:24",
+ "generated_date": "2026-08-27",
+ "previous_generated_at": "2026-08-26 06:56",
  "agencies": [
   {
    "id": "fsa",
@@ -129,6 +129,48 @@
    "errors": [],
    "items": [
     {
+     "title": "流動性供給(第460回)入札において追加発行した国債の銘柄",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260826a.htm",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "流動性供給(第460回)入札結果",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260826.htm",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "製造たばこの小売定価の認可",
+     "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年7月30日)議事録",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20260730.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "流動性供給(第460回)入札",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260826.htm",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "国債金利情報(令和8年8月25日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年8月25日(火曜日))",
      "url": "https://www.mof.go.jp/public_relations/conference/my20260825.html",
      "date": "2026-08-25",
@@ -157,13 +199,6 @@
      "is_new": false
     },
     {
-     "title": "国債金利情報(令和8年8月24日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-     "date": "2026-08-25",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
      "title": "片山財務大臣とゴールドファイン米州開発銀行（IDB）総裁との面会及び「日本－中南米・カリブ（LAC）地域ビジネスフォーラム2026」の開催（令和8年8月24日）",
      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260824.html",
      "date": "2026-08-24",
@@ -173,13 +208,6 @@
     {
      "title": "10年クライメート・トランジション利付国債（第5回）の入札結果（令和8年8月24日入札）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260824.htm",
-     "date": "2026-08-24",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "製造たばこの小売定価の認可",
-     "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
      "date": "2026-08-24",
      "first_seen": "2026-08-25",
      "is_new": false
@@ -519,34 +547,6 @@
      "date": "2026-08-10",
      "first_seen": "2026-08-25",
      "is_new": false
-    },
-    {
-     "title": "国債及び借入金並びに政府保証債務現在高（令和8年6月末現在）",
-     "url": "https://www.mof.go.jp/jgbs/reference/gbb/202606.html",
-     "date": "2026-08-10",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "5年利付国債（8月債）の発行予定額等（令和8年8月10日公表）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260810.htm",
-     "date": "2026-08-10",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "財政投融資分科会（令和8年7月15日開催）議事要旨",
-     "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20260715.html",
-     "date": "2026-08-10",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
-     "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf",
-     "date": "2026-08-10",
-     "first_seen": "2026-08-25",
-     "is_new": false
     }
    ]
   },
@@ -595,20 +595,6 @@
      "is_new": false
     },
     {
-     "title": "取引調査,公開買付者の従業者から伝達を受けた海外居住者によるNIPPO株式に係る内部者取引に対する課徴金納付命令の勧告について",
-     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-2.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "開示検査,株式会社Ｉ－ｎｅにおける有価証券報告書の重要な事項の不記載及び同社役員が所有する同社株式の売出しに係る目論見書の重要な事項の不記載に係る課徴金納付命令勧告について",
-     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-1.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
      "title": "証券検査,moomoo証券株式会社に対する検査結果に基づく勧告について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260605-2.html#60",
      "date": null,
@@ -633,6 +619,13 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "企業向けサービス価格指数（7月）",
+     "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2607.pdf",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
     {
      "title": "（金研ニュースレター）情報セキュリティ・セミナー「生体認証技術の現在地」",
      "url": "http://www.boj.or.jp/about/release_2026/rel260825a.htm",
@@ -1317,6 +1310,20 @@
    "errors": [],
    "items": [
     {
+     "title": "第366回個人情報保護委員会を開催しました。",
+     "url": "https://www.ppc.go.jp/aboutus/minutes/2026/20260826?ref=tninf",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "第３回個人情報保護政策に関する懇談会についての報道発表を行いました。",
+     "url": "https://www.ppc.go.jp/news/press/2026/260826?ref=tninf",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
      "title": "オプトアウト届出書を新たに公表しました。（届出番号2026-100503～2026-100504",
      "url": "https://www.ppc.go.jp/personalinfo/preparation/optout/publication_2021/?ref=tninf",
      "date": "2026-08-21",
@@ -1331,6 +1338,13 @@
      "is_new": false
     },
     {
+     "title": "第365回個人情報保護委員会を開催しました。",
+     "url": "https://www.ppc.go.jp/aboutus/minutes/2026/20260819?ref=tninf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": false
+    },
+    {
      "title": "「レセプトデータ等の保有個人情報の利活用に関する注意喚起（行政機関等匿名加工情報の利用・提供について）」を公表しました。",
      "url": "https://www.ppc.go.jp/news/press/2026/260819_02_houdou?ref=tninf",
      "date": "2026-08-19",
@@ -1340,20 +1354,6 @@
     {
      "title": "「KＤＤＩ株式会社及びインターネットサービスプロバイダに対する個人情報の保護に関する法律に基づく行政上の対応並びにメールサービス利用者に対する注意喚起について」を公表しました。",
      "url": "https://www.ppc.go.jp/news/press/2026/260819_01_houdou?ref=tninf",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第365回個人情報保護委員会を開催しました。",
-     "url": "https://www.ppc.go.jp/aboutus/minutes/2026/20260819?ref=tninf",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "「オプトアウト届出事業者に対する実態調査」の調査結果を掲載しました。",
-     "url": "https://www.ppc.go.jp/news/surveillance?ref=tninf",
      "date": "2026-08-19",
      "first_seen": "2026-08-25",
      "is_new": false
@@ -1376,13 +1376,6 @@
      "title": "ＫＤＤＩ株式会社及びインターネットサービスプロバイダに対する個人情報の保護に関する法律に基づく行政上の対応並びにメールサービス利用者に対する注意喚起について",
      "url": "https://www.ppc.go.jp/news/careful_information/260819_mailservice?ref=talertinf",
      "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "オプトアウト届出書を新たに公表しました。（届出番号2026-100497～2026-100502",
-     "url": "https://www.ppc.go.jp/personalinfo/preparation/optout/publication_2021/?ref=tninf",
-     "date": "2026-08-10",
      "first_seen": "2026-08-25",
      "is_new": false
     },
@@ -1500,11 +1493,18 @@
    "errors": [],
    "items": [
     {
+     "title": "相談状況の分析「霊感商法等対応ダイヤル」を更新しました",
+     "url": "http://www.moj.go.jp/JINKEN/jinken03_00156.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
      "title": "台風１８号に伴う業務支障情報",
      "url": "http://www.moj.go.jp/gyoumusisho_index.html",
-     "date": "2026-08-25",
-     "first_seen": "2026-08-25",
-     "is_new": false
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
     },
     {
      "title": "令和８年度「全国一斉『こどもの人権相談』強化週間」の実施について",
@@ -1563,13 +1563,6 @@
      "is_new": false
     },
     {
-     "title": "令和８年度司法書士試験問題",
-     "url": "http://www.moj.go.jp/MINJI/minji05_00777.html",
-     "date": "2026-08-12",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
      "title": "日本国際仲裁ウィーク２０２６が開催されました。",
      "url": "https://www.moj.go.jp/hisho/kouhou/hisho06_01478.html",
      "date": "2026-08-12",
@@ -1594,6 +1587,76 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "労働基準監督官採用試験広報HP",
+     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "第62回厚生科学審議会疾病対策部会造血幹細胞移植委員会　資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75766.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "第４回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第12回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第25回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75770.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "第２回　困難な問題を抱える女性への支援に関する検討会の開催について （開催案内）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75638.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "第2回　困難な問題を抱える女性への支援に関する検討会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75474.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "第67回厚生科学審議会予防接種・ワクチン分科会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_74952.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "後期高齢者医療制度被保険者実態調査",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kouki_jittai.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "自分らしく生きるための「人生会議」ポータルサイト",
+     "url": "https://www.mhlw.go.jp/acp-jinseikaigi/",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "第２１回アレルギー疾患対策推進協議会　資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75783.html",
+     "date": "2026-08-25",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "令和８年度　人生会議（ACP）普及・啓発イベント 「自分らしく生き抜くために「人生会議」はじめてみませんか？ 2026 in 和歌山」を10月12日（月・祝）に和歌山県で開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75512.html",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
     {
      "title": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
      "url": "https://www.mhlw.go.jp/stf/newpage_75767.html",
@@ -1847,13 +1910,6 @@
      "is_new": false
     },
     {
-     "title": "労働基準監督官採用試験広報HP",
-     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
      "title": "第３７回厚生科学審議会がん登録部会の開催について（オンライン開催）",
      "url": "https://www.mhlw.go.jp/stf/newpage_75591.html",
      "date": "2026-08-19",
@@ -1948,69 +2004,6 @@
      "title": "「第303回原子爆弾被爆者医療分科会」の開催について",
      "url": "https://www.mhlw.go.jp/stf/newpage_74972.html",
      "date": "2026-08-17",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "2026年７月３日　第７回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」　議事録",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75551.html",
-     "date": "2026-08-17",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第４回　医療関係職種の安定的な養成・確保に関する検討会：資料",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75535.html",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第４回 医療関係職種の安定的な養成・確保に関する検討会：開催案内",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75532.html",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第40回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75340.html",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "薬事審議会　指定薬物部会を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_74927.html",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "令和８年８月14日付幹部名簿",
-     "url": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "令和８年熊本地震により被災した学生・生徒の皆様へ",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jakunen/75497.html",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "定期の予防接種実施者数",
-     "url": "https://www.mhlw.go.jp/topics/bcg/other/5.html",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "薬事工業生産動態統計令和8年5月分月報について",
-     "url": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
-     "date": "2026-08-14",
      "first_seen": "2026-08-25",
      "is_new": false
     }

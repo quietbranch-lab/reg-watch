@@ -327,13 +327,17 @@ def main():
     if SEEN_PATH.exists():
         seen = json.loads(SEEN_PATH.read_text(encoding="utf-8"))
 
-    # 直前の出力から前回取得時刻を引き継ぐ（新着の対象期間を表示するため）
+    # 直前の出力から前回取得時刻を引き継ぐ（新着の対象期間を表示するため）。
+    # 同じ日に複数回走ったときは境界を動かさない。is_new は「その日に初めて
+    # 見たか」で判定するので、対象期間はその日の最初の実行時点から始まる。
     previous_generated_at = None
     if OUT_PATH.exists():
         try:
-            previous_generated_at = json.loads(
-                OUT_PATH.read_text(encoding="utf-8")
-            ).get("generated_at")
+            prev = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+            if prev.get("generated_date") == TODAY:
+                previous_generated_at = prev.get("previous_generated_at")
+            else:
+                previous_generated_at = prev.get("generated_at")
         except (ValueError, OSError):
             previous_generated_at = None
 

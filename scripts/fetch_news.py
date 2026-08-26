@@ -20,6 +20,7 @@
 """
 
 import json
+import os
 import re
 import sys
 import xml.etree.ElementTree as ET
@@ -46,6 +47,14 @@ HEADERS = {
     "User-Agent": "reg-watch/1.0 (personal news reader; 1 request/day)",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+}
+
+# この環境からは取得できない機関のid（カンマ区切り）。
+# 公取委はGitHub ActionsのIPが遮断されるが国内の一般回線からは取れるため、
+# Actions側だけ REG_WATCH_SKIP=jftc で除外する。除外した機関は直前の出力を
+# 引き継ぐので、PCからの実行が入れた内容を空で上書きしてしまうことがない。
+SKIP_SOURCES = {
+    s.strip() for s in os.environ.get("REG_WATCH_SKIP", "").split(",") if s.strip()
 }
 
 SOURCES = [
@@ -120,15 +129,16 @@ SOURCES = [
         ],
     },
     {
-        # GitHub ActionsのIPレンジがWAFで遮断されており自動取得できない。
-        # robots.txtは取得を許可しているがIP遮断はサイト側の運用判断なので回避はせず、
-        # 手動確認用のリンクだけを出す。毎回失敗させると本物の異常が埋もれるため。
+        # GitHub ActionsのIPレンジはWAFで遮断されるが、国内の一般回線からは取れる。
+        # Actions側は REG_WATCH_SKIP=jftc で除外し、PCからの実行に任せる。
         "id": "jftc",
         "name": "公正取引委員会",
         "seal": "公",
-        "site": "https://www.jftc.go.jp/houdou/index.html",
-        "method": "manual",
-        "feeds": [],
+        "site": "https://www.jftc.go.jp/",
+        "method": "html",
+        "feeds": [
+            {"type": "dated_list", "url": "https://www.jftc.go.jp/"},
+        ],
     },
     {
         "id": "ppc",
@@ -330,21 +340,48 @@ def main():
     # 直前の出力から前回取得時刻を引き継ぐ（新着の対象期間を表示するため）。
     # 同じ日に複数回走ったときは境界を動かさない。is_new は「その日に初めて
     # 見たか」で判定するので、対象期間はその日の最初の実行時点から始まる。
-    previous_generated_at = None
+    previous = {}
     if OUT_PATH.exists():
         try:
-            prev = json.loads(OUT_PATH.read_text(encoding="utf-8"))
-            if prev.get("generated_date") == TODAY:
-                previous_generated_at = prev.get("previous_generated_at")
-            else:
-                previous_generated_at = prev.get("generated_at")
+            previous = json.loads(OUT_PATH.read_text(encoding="utf-8"))
         except (ValueError, OSError):
-            previous_generated_at = None
+            previous = {}
+
+    if previous.get("generated_date") == TODAY:
+        previous_generated_at = previous.get("previous_generated_at")
+    else:
+        previous_generated_at = previous.get("generated_at")
+
+    previous_agencies = {a["id"]: a for a in previous.get("agencies", [])}
 
     agencies_out = []
     all_errors = []
 
     for src in SOURCES:
+        # この環境から取得できない機関は、取りに行かず直前の出力を引き継ぐ。
+        # 取得できる環境が入れた内容を、空の結果で上書きしないため。
+        if src["id"] in SKIP_SOURCES:
+            carried = previous_agencies.get(src["id"])
+            if carried is not None:
+                # 引き継いだ項目の新着フラグは今日の日付で付け直す
+                for it in carried.get("items", []):
+                    it["is_new"] = it.get("first_seen") == TODAY
+                agencies_out.append(carried)
+            else:
+                agencies_out.append(
+                    {
+                        "id": src["id"],
+                        "name": src["name"],
+                        "seal": src["seal"],
+                        "site": src["site"],
+                        "method": src["method"],
+                        "status": "manual",
+                        "errors": [],
+                        "items": [],
+                    }
+                )
+            continue
+
         collected = []
         errors = []
 

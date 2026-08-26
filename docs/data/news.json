@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-27 05:24",
+ "generated_at": "2026-08-27 05:54",
  "generated_date": "2026-08-27",
  "previous_generated_at": "2026-08-26 06:56",
  "agencies": [
@@ -590,6 +590,20 @@
     {
      "title": "証券検査,令和7年事務年度「証券モニタリングに関する基本指針」の一部改正（案）に対するパブリックコメントの結果等について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260701-1/20260701-1.html",
+     "date": null,
+     "first_seen": "2026-08-25",
+     "is_new": false
+    },
+    {
+     "title": "取引調査,公開買付者の従業者から伝達を受けた海外居住者によるNIPPO株式に係る内部者取引に対する課徴金納付命令の勧告について",
+     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-2.html",
+     "date": null,
+     "first_seen": "2026-08-25",
+     "is_new": false
+    },
+    {
+     "title": "開示検査,株式会社Ｉ－ｎｅにおける有価証券報告書の重要な事項の不記載及び同社役員が所有する同社株式の売出しに係る目論見書の重要な事項の不記載に係る課徴金納付命令勧告について",
+     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260626-1.html",
      "date": null,
      "first_seen": "2026-08-25",
      "is_new": false
@@ -1294,11 +1308,264 @@
    "id": "jftc",
    "name": "公正取引委員会",
    "seal": "公",
-   "site": "https://www.jftc.go.jp/houdou/index.html",
-   "method": "manual",
-   "status": "manual",
+   "site": "https://www.jftc.go.jp/",
+   "method": "html",
+   "status": "ok",
    "errors": [],
-   "items": []
+   "items": [
+    {
+     "title": "株式会社ジェイトップに対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260826_jtop.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "北海道北見市における有識者との懇談会の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260826_hokkaido_kitami_minimini.html",
+     "date": "2026-08-26",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "那覇市における有識者との懇談会の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819_okinawa_minimini.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "北海道室蘭市における有識者との懇談会の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819_hokkaido_muroran_minimini.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "愛知労働局・公正取引委員会中部事務所が合同でフリーランス法説明会を実施します！",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819chubu_fl.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "小樽商科大学における「独占禁止法教室」の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260818_hokkaido_otarushouka.html",
+     "date": "2026-08-18",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "東京スクールオブミュージック＆ダンス専門学校高等課程及び東京デザインテクノロジーセンター専門学校高等課程における「フリーランス法特別講義」の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260813_flhonkyoku.html",
+     "date": "2026-08-13",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "ルックスオティカジャパン株式会社から申請があった確約計画の認定について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260806_dai1_LOJ",
+     "date": "2026-08-06",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "「最新！価格転嫁・取引適正化ルールの説明会 ～“取適法・新告示・ガイドライン”から“価格転嫁を支援する国・県の取組”まで 丸ごと説明～」の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/2608toritekishikoku_kohshu.html",
+     "date": "2026-08-03",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "フリーランス法動画「令和８年５月勧告事例のポイント解説②」を公開しました",
+     "url": "https://youtu.be/P3g_5R9HRIM",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "株式会社エフエム京都に対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260731_fm-kyoto.html",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "青森市における「一日公正取引委員会」の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260731_tohoku_ichinichi.html",
+     "date": "2026-07-31",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "第233回　独占禁止懇話会の議事概要の公表について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_233dokkinkon.sample.html",
+     "date": "2026-07-29",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "「大規模小売業者と納入業者との取引に関する実態調査」の開始について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_daikibokourichosa.html",
+     "date": "2026-07-29",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260729.html",
+     "date": "2026-07-29",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "「最新！価格転嫁・取引適正化ルールの説明会ー取適法・新告示・ガイドラインから官公需取引まで丸ごと説明ー」の開催について",
+     "url": "https://www.jftc.go.jp/event/kousyukai/r8toriteki.html",
+     "date": "2026-07-27",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "スマホソフトウェア競争促進法に基づく遵守報告書の公表について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260727_sumaho_junshuhoukoku.html",
+     "date": "2026-07-27",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "イリソ電子工業株式会社に対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260724_irisodenshi.html",
+     "date": "2026-07-24",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "公正取引委員会広報動画を公開しました（【広報担当が聞く】改正物流特殊指定　着荷主への新たな規制、契約外の荷待ちなどが規制対象に）※クリックするとYouTube動画に遷移します。",
+     "url": "https://youtu.be/a8Vt2z93f8s",
+     "date": "2026-07-22",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "ＨＯＹＡ株式会社に対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260721_hoya.html",
+     "date": "2026-07-21",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "「企業結合審査に関する独占禁止法の運用指針」改定案に対する意見募集について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260717kiketsu.html",
+     "date": "2026-07-17",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "ダイヤモンド電機株式会社に対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260717_chugoku_toriteki.html",
+     "date": "2026-07-17",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "天龍工業株式会社に対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260716_chubu_toriteki_tenryu.html",
+     "date": "2026-07-16",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "北九州市立大学における「独占禁止法教室」の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260716_kyuusyuu_kitakyuusiritudai.html",
+     "date": "2026-07-16",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260715.html",
+     "date": "2026-07-15",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "ミネベアアクセスソリューションズ株式会社に対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260710_kyuusyuu_toriteki.html",
+     "date": "2026-07-10",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "株式会社タダノに対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260709_shikoku_toriteki.html",
+     "date": "2026-07-09",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260708.html",
+     "date": "2026-07-08",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260701.html",
+     "date": "2026-07-01",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260624.html",
+     "date": "2026-06-24",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260617.html",
+     "date": "2026-06-17",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260610.html",
+     "date": "2026-06-10",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260603.html",
+     "date": "2026-06-03",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260527.html",
+     "date": "2026-05-27",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260520.html",
+     "date": "2026-05-20",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260513.html",
+     "date": "2026-05-13",
+     "first_seen": "2026-08-27",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "ppc",

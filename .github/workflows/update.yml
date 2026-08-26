@@ -30,6 +30,10 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Fetch news
+        env:
+          # ActionsのIPは公取委のWAFに遮断される。ここでは取りに行かず、
+          # 国内回線から走るPC側の実行が入れた内容をそのまま残す。
+          REG_WATCH_SKIP: jftc
         run: python scripts/fetch_news.py
 
       - name: Commit and push if changed

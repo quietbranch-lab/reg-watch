@@ -192,6 +192,35 @@ SOURCES = [
 # 全角数字も含めて拾う（\d はUnicodeの十進数字に一致し、int() もそれを解釈する）
 WAREKI_RE = re.compile(r"令和\s*(\d+)\s*年\s*(\d+)\s*月\s*(\d+)\s*日")
 
+# 内閣府が公開している国民の祝日の一覧。営業日の判定に使う。
+HOLIDAY_CSV = "https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv"
+
+
+def fetch_holidays():
+    """祝日をISO形式の集合で返す。取得できなければ空集合（土日のみで判定）。"""
+    try:
+        r = requests.get(HOLIDAY_CSV, headers=HEADERS, timeout=TIMEOUT)
+        r.raise_for_status()
+        r.encoding = "cp932"
+        days = set()
+        for line in r.text.splitlines()[1:]:
+            head = line.split(",")[0].strip()
+            try:
+                days.add(datetime.strptime(head, "%Y/%m/%d").strftime("%Y-%m-%d"))
+            except ValueError:
+                continue
+        return days
+    except Exception as e:
+        print("WARN: 祝日一覧を取得できませんでした（土日のみで判定）:", e,
+              file=sys.stderr)
+        return set()
+
+
+def is_business_day(iso_date, holidays):
+    """土日祝でなければ営業日とみなす。"""
+    d = datetime.strptime(iso_date, "%Y-%m-%d")
+    return d.weekday() < 5 and iso_date not in holidays
+
 
 def wareki_to_iso(text):
     """テキスト中の令和表記日付をISO形式に変換。見つからなければ None。"""
@@ -354,6 +383,19 @@ def main():
 
     previous_agencies = {a["id"]: a for a in previous.get("agencies", [])}
 
+    # 新着の基準日。「前営業日の実行以降に初めて見つけたか」で判定する。
+    #
+    # 「今日初めて見たか」にすると、金曜日中に公表されたものは土曜の実行で
+    # 初めて見つかり土曜しか新着にならず、月曜の朝には消えてしまう。
+    # そこで土日祝は基準日を進めず、営業日の実行でだけ進める。こうすると
+    # 月曜の朝に金曜日中・土・日のぶんがまとめて出る。
+    holidays = fetch_holidays()
+    new_since = (
+        previous.get("new_since")
+        or previous.get("generated_date")
+        or TODAY
+    )
+
     agencies_out = []
     all_errors = []
 
@@ -363,9 +405,9 @@ def main():
         if src["id"] in SKIP_SOURCES:
             carried = previous_agencies.get(src["id"])
             if carried is not None:
-                # 引き継いだ項目の新着フラグは今日の日付で付け直す
+                # 引き継いだ項目の新着フラグも同じ基準で付け直す
                 for it in carried.get("items", []):
-                    it["is_new"] = it.get("first_seen") == TODAY
+                    it["is_new"] = (it.get("first_seen") or "") > new_since
                 agencies_out.append(carried)
             else:
                 agencies_out.append(
@@ -427,7 +469,7 @@ def main():
                 seen[key] = TODAY
                 first_seen = TODAY
             it["first_seen"] = first_seen
-            it["is_new"] = first_seen == TODAY
+            it["is_new"] = first_seen > new_since
 
         # 日付降順（日付なしは末尾）に並べてから上限を適用
         merged.sort(key=lambda x: (x["date"] or "0000-00-00"), reverse=True)
@@ -450,10 +492,18 @@ def main():
     cutoff = (datetime.now(JST) - timedelta(days=180)).strftime("%Y-%m-%d")
     seen = {k: d for k, d in seen.items() if d >= cutoff}
 
+    # 営業日に走ったときだけ基準日を今日に進める。土日祝は据え置き、
+    # 次の営業日の朝まで新着を持ち越す。
+    today_is_business = is_business_day(TODAY, holidays)
+    next_new_since = TODAY if today_is_business else new_since
+
     out = {
         "generated_at": datetime.now(JST).strftime("%Y-%m-%d %H:%M"),
         "generated_date": TODAY,
         "previous_generated_at": previous_generated_at,
+        # 表示用は「今回の新着がどこからのぶんか」なので進める前の値を出す
+        "new_since": next_new_since,
+        "new_since_shown": new_since,
         "agencies": agencies_out,
         "errors": all_errors,
     }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-28 14:36",
- "generated_date": "2026-08-28",
- "previous_generated_at": "2026-08-27 05:54",
+ "generated_at": "2026-08-29 06:10",
+ "generated_date": "2026-08-29",
+ "previous_generated_at": "2026-08-28 14:36",
  "new_since": "2026-08-28",
  "new_since_shown": "2026-08-28",
  "agencies": [
@@ -27,6 +27,34 @@
      "date": "2026-07-17",
      "first_seen": "2026-08-25",
      "is_new": false
+    },
+    {
+     "title": "第57回金融審議会総会・第45回金融分科会合同会合 議事次第について公表しました。",
+     "url": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/siryou/20260831.html",
+     "date": null,
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）の開催について公表しました。",
+     "url": "https://www.fsa.go.jp/news/r8/singi/20260904.html",
+     "date": null,
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "令和７年保険業法改正に係る内閣府令及び「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
+     "url": "https://www.fsa.go.jp/news/r8/hoken/20260828/20260828.html",
+     "date": null,
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "「多重債務者相談強化キャンペーン2026」における相談会の開催状況及び予定等について公表しました。",
+     "url": "https://www.fsa.go.jp/policy/kashikin/soudankai2026.html",
+     "date": null,
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "「第70回金融トラブル連絡調整協議会」議事録について公表しました。",
@@ -90,34 +118,6 @@
      "date": null,
      "first_seen": "2026-08-25",
      "is_new": false
-    },
-    {
-     "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
-     "url": "https://www.fsa.go.jp/news/r8/sonota/20260821/20260821.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "「第２回　気候変動関連データの活用と適応に関する実践パネル」の開催について公表しました。",
-     "url": "https://www.fsa.go.jp/news/r8/sonota/20260819.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-     "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "「トランジション・ファイナンス環境整備検討会」（第13回）議事要旨について公表しました。",
-     "url": "https://www.fsa.go.jp/singi/transition_finance/gijiyousi/20260227.html",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": false
     }
    ]
   },
@@ -130,6 +130,62 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年8月28日(金曜日))",
+     "url": "https://www.mof.go.jp/public_relations/conference/my20260828.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "外国為替平衡操作の実施状況(令和8年7月30日～令和8年8月26日)",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20260828.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "関税・外国為替等審議会第14回総会（令和8年6月10日）議事録",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/soukai/proceedings/proceedings/20260821114114.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "関税・外国為替等審議会 第69回外国為替等分科会議事録",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20260821112328.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "独立行政法人関係諸資料",
+     "url": "https://www.mof.go.jp/about_mof/constitution/agency/doppo/index.htm",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "国債市場特別参加者会合（第120回）開催日程",
+     "url": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/press_release/260828.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "財務省所管令和９年度概算要求をとりまとめました",
+     "url": "https://www.mof.go.jp/about_mof/mof_budget/budget/fy2027/20260828.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "2年利付国債（第488回）の第II非価格競争入札結果（令和8年8月28日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260828a.htm",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
     {
      "title": "2年利付国債（第488回）の入札結果（令和8年8月28日入札）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260828.htm",
@@ -491,62 +547,6 @@
      "title": "交付税及び譲与税配付金特別会計の一時借入金の入札予定（令和8年8月18日公表）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer260818.htm",
      "date": "2026-08-18",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "5年利付国債（第187回）の入札発行（令和8年8月18日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260818.htm",
-     "date": "2026-08-18",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第548回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
-     "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2016.htm",
-     "date": "2026-08-17",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "10年クライメート・トランジション利付国債（8月債）の発行予定額等（令和8年8月17日公表）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260817.htm",
-     "date": "2026-08-17",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "流動性供給(第459回)入札において追加発行した国債の銘柄",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814a.htm",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第4回日韓財務官級協議の開催予定について",
-     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/202608141500.html",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "流動性供給(第459回)入札結果",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260814.htm",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "国庫短期証券（第1400回）の入札結果",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260814.htm",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "流動性供給(第459回)入札",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260814.htm",
-     "date": "2026-08-14",
      "first_seen": "2026-08-25",
      "is_new": false
     }
@@ -1024,20 +1024,6 @@
      "title": "日本銀行政策委員会月報（令和8年6月号）",
      "url": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2606.htm",
      "date": "2026-07-28",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "（金研ニュースレター）2026年国際コンファランス",
-     "url": "http://www.boj.or.jp/about/release_2026/rel260727a.htm",
-     "date": "2026-07-27",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "日本銀行に関する学生向けのインターンシップ（総合コース向け）およびオープン・カンパニー（特定コース向け）への参加募集について",
-     "url": "http://www.boj.or.jp/about/recruit/rec260727a.htm",
-     "date": "2026-07-27",
      "first_seen": "2026-08-25",
      "is_new": false
     }
@@ -1676,6 +1662,13 @@
     {
      "title": "タリバーン関係者等リストの改正について",
      "url": "https://www.npa.go.jp/sosikihanzai/jafic/todoke/yousei.htm#p1",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "タリバーン関係者等リストの改正について",
+     "url": "https://www.npa.go.jp/sosikihanzai/jafic/todoke/yousei.htm#p1",
      "date": "2026-08-20",
      "first_seen": "2026-08-25",
      "is_new": false
@@ -1769,6 +1762,13 @@
    "errors": [],
    "items": [
     {
+     "title": "行政手続の棚卸調査結果",
+     "url": "http://www.moj.go.jp/hisho/jouhoukanri/hisho09_00075.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
      "title": "法務大臣閣議後記者会見の概要－令和８年８月２５日（火）",
      "url": "http://www.moj.go.jp/hisho/kouhou/hisho08_00966.html",
      "date": "2026-08-27",
@@ -1839,13 +1839,6 @@
      "is_new": false
     },
     {
-     "title": "Netflixの「『ラヴ上等』シーズン２」とのタイアップについて",
-     "url": "http://www.moj.go.jp/hogo1/soumu/hogo01_00066.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
      "title": "日本女子大学において法教育の講義を実施しました！！",
      "url": "http://www.moj.go.jp/housei/shihouseido/housei10_00132.html",
      "date": "2016-06-28",
@@ -1863,6 +1856,90 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "調剤医療費（電算処理分）の動向　～令和7年度版～",
+     "url": "https://www.mhlw.go.jp/topics/medias/year/25/gaiyou.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "歯科医療費（電算処理分）の動向　～令和7年度版～",
+     "url": "https://www.mhlw.go.jp/topics/medias/year/25/shika_iryou_doukou_r07.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "医療費の動向（年次版）　令和７年度",
+     "url": "https://www.mhlw.go.jp/topics/medias/year/25/index.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "最近の調剤医療費（電算処理分）の動向　令和7年度3月号",
+     "url": "https://www.mhlw.go.jp/topics/medias/c-med/2026/03/",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "最近の歯科医療費（電算処理分）の動向　令和7年度3月号",
+     "url": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2026/03/",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "最近の医科医療費（電算処理分）の動向　令和7年度3月号",
+     "url": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2026/03/",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "最近の医療費の動向-MEDIAS-令和7年度3月号",
+     "url": "https://www.mhlw.go.jp/topics/medias/month/26/03.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "輸入食品に対する検査命令の実施 （トーゴ産ごまの種子）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75788.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "医科医療費（電算処理分）の動向　～令和7年度版～",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/zenpan/ika_iryou_doukou_r07.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "「人口動態統計速報」令和８（2026）年06月分",
+     "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/06.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "「人を対象とする生命科学・医学系研究に関する倫理指針」の一部改正について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75864.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
+     "title": "国民年金第３号被保険者制度等に関する検討会",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75817.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
     {
      "title": "令和７年度における「輸入食品監視指導計画に基づく監視指導結果」及び「輸入食品監視統計」の公表",
      "url": "https://www.mhlw.go.jp/stf/newpage_75846.html",
@@ -2196,90 +2273,6 @@
      "title": "第３７回厚生科学審議会がん登録部会（資料）",
      "url": "https://www.mhlw.go.jp/stf/newpage_75738.html",
      "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第８回）議事録",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75736.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "監督指導による賃金不払残業の是正結果（令和７年）",
-     "url": "https://www.mhlw.go.jp/bunya/roudoukijun/chingin-c_r07.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "賃金不払が疑われる事業場に対する監督指導結果（令和７年）を公表します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75588.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "「医薬品・医療機器等の保険適用に関する相談会」を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75576.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第１０回インフラメンテナンス大賞の募集を開始します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_72810.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第46回匿名医療情報等の提供に関する専門委員会の開催について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75719.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
-     "url": "https://www.mhlw.go.jp/kokoro/mental_health_day/index.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第４回）　議事録",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75446.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第１回精神医療に関する地域医療構想検討ワーキンググループの開催について：開催案内",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75715.html",
-     "date": "2026-08-20",
-     "first_seen": "2026-08-28",
-     "is_new": false
-    },
-    {
-     "title": "令和８年熊本地震に伴う雇用調整助成金の特例を実施します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75665.html",
-     "date": "2026-08-20",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "令和8年熊本地震により被災された皆様へ、キャリアコンサルタント登録制度に関する期限の延長措置についてのお知らせ",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consulting.html",
-     "date": "2026-08-20",
      "first_seen": "2026-08-25",
      "is_new": false
     }

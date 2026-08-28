@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28 11:10",
+ "generated_at": "2026-08-28 14:36",
  "generated_date": "2026-08-28",
  "previous_generated_at": "2026-08-27 05:54",
  "new_since": "2026-08-28",
@@ -131,6 +131,27 @@
    "errors": [],
    "items": [
     {
+     "title": "2年利付国債（第488回）の入札結果（令和8年8月28日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260828.htm",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "国庫短期証券（第1403回）の入札結果",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260828.htm",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "製造たばこの小売定価の認可",
+     "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
      "title": "令和８年熊本地震に係る被災者の生活となりわい支援のためのパッケージに基づく予備費使用について",
      "url": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/km260828.pdf",
      "date": "2026-08-28",
@@ -189,13 +210,6 @@
     {
      "title": "4年第19回地方公共団体金融機構債券に対する政府保証の付与",
      "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2018.htm",
-     "date": "2026-08-27",
-     "first_seen": "2026-08-28",
-     "is_new": false
-    },
-    {
-     "title": "製造たばこの小売定価の認可",
-     "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
      "date": "2026-08-27",
      "first_seen": "2026-08-28",
      "is_new": false
@@ -535,20 +549,6 @@
      "date": "2026-08-14",
      "first_seen": "2026-08-25",
      "is_new": false
-    },
-    {
-     "title": "国庫短期証券（第1402回）の発行予定額等",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260814.htm",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "国庫短期証券（第1400回）の入札発行",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260814.htm",
-     "date": "2026-08-14",
-     "first_seen": "2026-08-25",
-     "is_new": false
     }
    ]
   },
@@ -621,6 +621,13 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "【記者会見】氷見野副総裁（埼玉、8月27日分）",
+     "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260828a.pdf",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
     {
      "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（富山県）",
      "url": "http://www.boj.or.jp/about/bcp/fso/fso260827b.pdf",
@@ -1857,8 +1864,92 @@
    "errors": [],
    "items": [
     {
+     "title": "令和７年度における「輸入食品監視指導計画に基づく監視指導結果」及び「輸入食品監視統計」の公表",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75846.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "令和８年度第５回化学物質管理に係る専門家検討会を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75727.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "令和８年度「地域雇用活性化推進事業」の採択地域を決定しました。",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75721.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "第68回厚生科学審議会疾病対策部会指定難病検討委員会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75701.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "第37回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75607.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "第32回キャリアコンサルタント登録制度等に関する検討会を９月４日に開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75342.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "年金数理部会の役割について（2024年度公的年金財政状況資料を追加しました）",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000128082_00003.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "インフルエンザに関する報道発表資料を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00023.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "インフルエンザの発生状況を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
      "title": "採用情報（任期付職員（職員の育児休業期間の代替職員）政策統括官（総合政策、労使関係担当））募集情報）",
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-ninki-seisakutoukatukan_ikuzi.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
+     "title": "採用情報（任期付職員（国際課国際保健・協力室主査）募集情報）",
+     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kokusaikakokusaihokenkyouryokusitsusyusa.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-28",
      "is_new": false
@@ -2144,13 +2235,6 @@
      "is_new": false
     },
     {
-     "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-     "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
      "date": "2026-08-21",
@@ -2179,6 +2263,13 @@
      "is_new": false
     },
     {
+     "title": "第１回精神医療に関する地域医療構想検討ワーキンググループの開催について：開催案内",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75715.html",
+     "date": "2026-08-20",
+     "first_seen": "2026-08-28",
+     "is_new": false
+    },
+    {
      "title": "令和８年熊本地震に伴う雇用調整助成金の特例を実施します",
      "url": "https://www.mhlw.go.jp/stf/newpage_75665.html",
      "date": "2026-08-20",
@@ -2189,90 +2280,6 @@
      "title": "令和8年熊本地震により被災された皆様へ、キャリアコンサルタント登録制度に関する期限の延長措置についてのお知らせ",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consulting.html",
      "date": "2026-08-20",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "「第6回 SaMD産学官連携フォーラム」を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75257.html",
-     "date": "2026-08-20",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
-     "url": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html",
-     "date": "2026-08-20",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "WEBマガジン「厚生労働」（連載[ハラスメント対策]ほか更新）",
-     "url": "https://www.mhlw.go.jp/web_magazine/",
-     "date": "2026-08-20",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第40回厚生科学審議会予防接種・ワクチン分科会研究開発及び生産・流通部会　資料",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75667.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第226回労働政策審議会職業安定分科会を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_021225156_00113.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第３７回厚生科学審議会がん登録部会の開催について（オンライン開催）",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75591.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "薬事審議会　医薬品第一部会を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75461.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "時間外労働等に係る相談・支援及び監督指導を見直します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75454.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "薬事審議会血液事業部会令和８年度第１回安全技術調査会（ペーパーレス・Web併用）の開催について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75322.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "第５５回特定石綿被害建設業務労働者等認定審査会　開催案内",
-     "url": "https://www.mhlw.go.jp/stf/newpage_74834.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "人事労務マガジン 特集第247号　ハラスメント事案解決のための専門家派遣を行っています",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75552.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "危険ドラッグの成分４物質を新たに指定薬物に指定",
-     "url": "https://www.mhlw.go.jp/stf/houdou/0000212707_00056.html",
-     "date": "2026-08-18",
      "first_seen": "2026-08-25",
      "is_new": false
     }

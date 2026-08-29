@@ -291,7 +291,7 @@ function render(){
 
   const newCount=copyTargets().length;
   // 新着の対象期間は「前営業日の取得以降」。土日祝を挟むと数日ぶんまとまる
-  const since = DATA.new_since_shown || DATA.previous_generated_at;
+  const since = DATA.new_since || DATA.previous_generated_at;
   const range = since
     ? `前営業日（${since}）の取得以降の新着 ${newCount}件`
     : `新着 ${newCount}件（初回取得のため全件が新着扱い）`;

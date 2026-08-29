@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-08-29 07:17",
+ "generated_at": "2026-08-29 10:10",
  "generated_date": "2026-08-29",
  "previous_generated_at": "2026-08-28 14:36",
  "new_since": "2026-08-28",
- "new_since_shown": "2026-08-28",
  "agencies": [
   {
    "id": "fsa",
@@ -190,78 +189,78 @@
      "title": "2年利付国債（第488回）の入札結果（令和8年8月28日入札）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260828.htm",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "国庫短期証券（第1403回）の入札結果",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260828.htm",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "製造たばこの小売定価の認可",
      "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "令和８年熊本地震に係る被災者の生活となりわい支援のためのパッケージに基づく予備費使用について",
      "url": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/km260828.pdf",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "2年利付国債（第488回）の入札発行（令和8年8月28日入札）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260828.htm",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "国庫短期証券（第1404回）の発行予定額等",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260828.htm",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "国庫短期証券（第1403回）の入札発行",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260828.htm",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "財政融資資金預託金利（令和8年9月1日以降適用）",
      "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/yotaku20260828.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "財政融資資金貸付金利（令和8年9月1日以降適用）",
      "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/kashi20260828.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "国債金利情報(令和8年8月27日)",
      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "貿易統計(令和8年8月上旬分速報)【税関ホームページ】",
      "url": "https://www.mof.go.jp/outside_link/20260827115110.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "4年第19回地方公共団体金融機構債券に対する政府保証の付与",
@@ -625,8 +624,8 @@
      "title": "【記者会見】氷見野副総裁（埼玉、8月27日分）",
      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260828a.pdf",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（富山県）",
@@ -1934,6 +1933,13 @@
      "is_new": true
     },
     {
+     "title": "令和７年度における「輸入食品監視指導計画に基づく監視指導結果」及び「輸入食品監視統計」の公表",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75846.html",
+     "date": "2026-08-28",
+     "first_seen": "2026-08-29",
+     "is_new": true
+    },
+    {
      "title": "国民年金第３号被保険者制度等に関する検討会",
      "url": "https://www.mhlw.go.jp/stf/newpage_75817.html",
      "date": "2026-08-28",
@@ -1941,123 +1947,116 @@
      "is_new": true
     },
     {
-     "title": "令和７年度における「輸入食品監視指導計画に基づく監視指導結果」及び「輸入食品監視統計」の公表",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75846.html",
-     "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
-    },
-    {
      "title": "令和８年度第５回化学物質管理に係る専門家検討会を開催します",
      "url": "https://www.mhlw.go.jp/stf/newpage_75727.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "令和８年度「地域雇用活性化推進事業」の採択地域を決定しました。",
      "url": "https://www.mhlw.go.jp/stf/newpage_75721.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "第68回厚生科学審議会疾病対策部会指定難病検討委員会の開催について",
      "url": "https://www.mhlw.go.jp/stf/newpage_75701.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "第37回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内",
      "url": "https://www.mhlw.go.jp/stf/newpage_75607.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "第32回キャリアコンサルタント登録制度等に関する検討会を９月４日に開催します",
      "url": "https://www.mhlw.go.jp/stf/newpage_75342.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "年金数理部会の役割について（2024年度公的年金財政状況資料を追加しました）",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000128082_00003.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "インフルエンザに関する報道発表資料を更新しました",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00023.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "インフルエンザの発生状況を更新しました",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "採用情報（任期付職員（職員の育児休業期間の代替職員）政策統括官（総合政策、労使関係担当））募集情報）",
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-ninki-seisakutoukatukan_ikuzi.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "採用情報（任期付職員（国際課国際保健・協力室主査）募集情報）",
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kokusaikakokusaihokenkyouryokusitsusyusa.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "第41回管理栄養士国家試験の実施について",
      "url": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/kanrieiyoushi/about.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "薬剤師国家試験の施行について",
      "url": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "管理栄養士・栄養士関係",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089299.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "一般職業紹介状況(令和8年7月分)について",
      "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
      "date": "2026-08-28",
-     "first_seen": "2026-08-28",
-     "is_new": false
+     "first_seen": "2026-08-29",
+     "is_new": true
     },
     {
      "title": "令和６年度　介護保険事業状況報告（年報）",

@@ -222,6 +222,22 @@ def is_business_day(iso_date, holidays):
     return d.weekday() < 5 and iso_date not in holidays
 
 
+def previous_business_day(iso_date, holidays):
+    """直前の営業日を返す。新着の基準日に使う。
+
+    基準日を保存せずその場で計算するのが要点。保存方式にすると、同じ日の
+    2回目の実行が基準日を当日に進めてしまい、1回目に見つけた分が消える。
+    Actionsの3回とPCの1回で1日に最大4回走るため、毎日それが起きていた。
+    """
+    d = datetime.strptime(iso_date, "%Y-%m-%d")
+    for _ in range(30):  # 連休が続いても抜けられる範囲
+        d -= timedelta(days=1)
+        iso = d.strftime("%Y-%m-%d")
+        if is_business_day(iso, holidays):
+            return iso
+    return d.strftime("%Y-%m-%d")
+
+
 def wareki_to_iso(text):
     """テキスト中の令和表記日付をISO形式に変換。見つからなければ None。"""
     m = WAREKI_RE.search(text or "")
@@ -383,18 +399,13 @@ def main():
 
     previous_agencies = {a["id"]: a for a in previous.get("agencies", [])}
 
-    # 新着の基準日。「前営業日の実行以降に初めて見つけたか」で判定する。
+    # 新着の基準日 = 直前の営業日。それより後に初めて見つけたものを新着とする。
     #
-    # 「今日初めて見たか」にすると、金曜日中に公表されたものは土曜の実行で
-    # 初めて見つかり土曜しか新着にならず、月曜の朝には消えてしまう。
-    # そこで土日祝は基準日を進めず、営業日の実行でだけ進める。こうすると
-    # 月曜の朝に金曜日中・土・日のぶんがまとめて出る。
+    # 「今日初めて見たか」だと、金曜日中に公表されたものは土曜の実行でしか
+    # 新着にならず、月曜の朝には消えてしまう。前営業日を基準にすれば、
+    # 月曜には金曜日中・土・日のぶんがまとめて出る。
     holidays = fetch_holidays()
-    new_since = (
-        previous.get("new_since")
-        or previous.get("generated_date")
-        or TODAY
-    )
+    new_since = previous_business_day(TODAY, holidays)
 
     agencies_out = []
     all_errors = []
@@ -492,18 +503,12 @@ def main():
     cutoff = (datetime.now(JST) - timedelta(days=180)).strftime("%Y-%m-%d")
     seen = {k: d for k, d in seen.items() if d >= cutoff}
 
-    # 営業日に走ったときだけ基準日を今日に進める。土日祝は据え置き、
-    # 次の営業日の朝まで新着を持ち越す。
-    today_is_business = is_business_day(TODAY, holidays)
-    next_new_since = TODAY if today_is_business else new_since
-
     out = {
         "generated_at": datetime.now(JST).strftime("%Y-%m-%d %H:%M"),
         "generated_date": TODAY,
         "previous_generated_at": previous_generated_at,
-        # 表示用は「今回の新着がどこからのぶんか」なので進める前の値を出す
-        "new_since": next_new_since,
-        "new_since_shown": new_since,
+        # 新着の対象期間の起点（直前の営業日）
+        "new_since": new_since,
         "agencies": agencies_out,
         "errors": all_errors,
     }

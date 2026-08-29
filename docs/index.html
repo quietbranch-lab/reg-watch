@@ -107,6 +107,36 @@
 
   footer{font-size:11px;color:var(--faint);line-height:1.8;margin-top:24px}
 
+  /* 要約ボタンとポップアップ */
+  .sum-btn{flex-shrink:0;margin-left:2px;padding:2px 8px;border-radius:5px;
+    border:1px solid var(--line);background:#fff;color:var(--accent);
+    font-size:11px;font-family:inherit;cursor:pointer;white-space:nowrap}
+  .sum-btn:hover{border-color:var(--accent)}
+  .sum-btn[disabled]{color:var(--faint);cursor:default;border-color:var(--line)}
+  .sum-btn:focus-visible{outline:2px solid var(--navy);outline-offset:2px}
+
+  dialog.sum{border:1px solid var(--line);border-radius:12px;padding:0;
+    max-width:560px;width:calc(100% - 32px);color:var(--navy);
+    font-family:var(--sans);box-shadow:0 10px 40px rgba(15,37,71,.18)}
+  dialog.sum::backdrop{background:rgba(15,37,71,.35)}
+  .sum-head{padding:16px 18px 12px;border-bottom:1px solid var(--line)}
+  .sum-agency{font-size:11px;color:var(--muted);letter-spacing:.06em}
+  .sum-title{font-size:15px;font-weight:700;line-height:1.5;margin:5px 0 0;
+    overflow-wrap:anywhere}
+  .sum-body{padding:16px 18px}
+  .sum-text{font-size:14px;line-height:1.85;margin:0;white-space:pre-wrap;
+    overflow-wrap:anywhere}
+  .sum-none{font-size:13px;color:var(--muted);margin:0;line-height:1.8}
+  .sum-note{margin:14px 0 0;padding:9px 11px;border-radius:6px;
+    background:#FBF6E9;border:1px solid #E8DCBF;
+    font-size:11px;color:#6B5A2E;line-height:1.7}
+  .sum-foot{display:flex;gap:10px;align-items:center;justify-content:space-between;
+    padding:12px 18px 16px;flex-wrap:wrap}
+  .sum-open{font-size:13px;color:var(--accent);text-decoration:none;font-weight:700}
+  .sum-open:hover{text-decoration:underline}
+  .sum-close{padding:8px 18px;border:none;border-radius:7px;background:var(--navy);
+    color:#fff;font-size:13px;font-family:inherit;cursor:pointer}
+
   /* ここから広い画面向け。指定幅未満のスマホ表示には一切影響させない。
      操作パネルを左に固定し、記事は右で独立してスクロールする2カラムにする。 */
   @media (min-width:900px){
@@ -162,6 +192,18 @@
     新着は「前回の取得以降に初めて見つかった項目」で判定しているため、週明けは金曜以降のぶんがまとめて表示されます。
   </footer>
 </div>
+
+<dialog class="sum" id="sumDlg" aria-labelledby="sumTitle">
+  <div class="sum-head">
+    <div class="sum-agency" id="sumAgency"></div>
+    <p class="sum-title" id="sumTitle"></p>
+  </div>
+  <div class="sum-body" id="sumBody"></div>
+  <div class="sum-foot">
+    <a class="sum-open" id="sumOpen" target="_blank" rel="noopener noreferrer">原文を開く ↗</a>
+    <button class="sum-close" id="sumClose">閉じる</button>
+  </div>
+</dialog>
 
 <script>
 "use strict";
@@ -273,13 +315,47 @@ function bodyFor(a){
     return out;
   }
 
-  out += `<ul>`+items.map(it=>`
-    <li><a href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
-      <span class="d">${esc(it.date||"—")}</span>
-      <span class="body">${it.is_new?'<span class="new">新着</span>':""}<span class="t">${esc(it.title)}</span></span>
-      <span class="chev" aria-hidden="true">›</span>
-    </a></li>`).join("")+`</ul>`;
+  out += `<ul>`+items.map((it,idx)=>`
+    <li>
+      <a href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
+        <span class="d">${esc(it.date||"—")}</span>
+        <span class="body">${it.is_new?'<span class="new">新着</span>':""}<span class="t">${esc(it.title)}</span></span>
+        <span class="chev" aria-hidden="true">›</span>
+      </a>
+      <div style="padding:0 0 10px 90px">${summaryButton(a.id, idx, it)}</div>
+    </li>`).join("")+`</ul>`;
   return out;
+}
+
+/* 要約はサーバ側（毎朝の取得時）で生成済み。ここでは表示するだけなので、
+   APIキーをページに置く必要がなく、クリックしても待たされない。 */
+function summaryButton(agencyId, idx, it){
+  if(it.summary){
+    return `<button class="sum-btn" data-sum="${agencyId}:${idx}">要約を見る</button>`;
+  }
+  if(it.summary_status==="unavailable"){
+    return `<button class="sum-btn" disabled title="PDF等で本文を取得できませんでした">要約なし</button>`;
+  }
+  return `<button class="sum-btn" disabled title="次回の取得時に生成されます">要約準備中</button>`;
+}
+
+function openSummary(agencyId, idx){
+  const a = DATA.agencies.find(x=>x.id===agencyId);
+  if(!a) return;
+  const items = newOnly ? newItemsOf(a) : a.items;
+  const it = items[idx];
+  if(!it) return;
+
+  document.getElementById("sumAgency").textContent = a.name + "　" + (it.date||"日付不明");
+  document.getElementById("sumTitle").textContent = it.title;
+  document.getElementById("sumBody").innerHTML = it.summary
+    ? `<p class="sum-text">${esc(it.summary)}</p>
+       <p class="sum-note">この要約はAI（${esc(DATA.summary_model||"生成AI")}）が自動生成したものです。
+       誤りや抜けがある場合があります。判断の前に必ず原文をご確認ください。</p>`
+    : `<p class="sum-none">要約はありません。</p>`;
+  const open = document.getElementById("sumOpen");
+  open.href = it.url;
+  document.getElementById("sumDlg").showModal();
 }
 
 function render(){
@@ -345,6 +421,19 @@ async function copyToday(){
 }
 
 document.getElementById("copyBtn").onclick=copyToday;
+
+document.getElementById("main").addEventListener("click", e=>{
+  const b = e.target.closest("[data-sum]");
+  if(!b) return;
+  e.preventDefault();
+  const [id, idx] = b.dataset.sum.split(":");
+  openSummary(id, Number(idx));
+});
+document.getElementById("sumClose").onclick = ()=>document.getElementById("sumDlg").close();
+document.getElementById("sumDlg").addEventListener("click", e=>{
+  // 余白（backdrop）をクリックしたら閉じる
+  if(e.target.id==="sumDlg") e.target.close();
+});
 
 fetch("data/news.json?t="+Date.now())
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.json();})

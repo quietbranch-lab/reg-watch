@@ -36,11 +36,20 @@ jobs:
           REG_WATCH_SKIP: jftc
         run: python scripts/fetch_news.py
 
+      # 要約は付加機能。ここが失敗しても新着一覧は前段で更新済みなので、
+      # ジョブ全体は止めずに続行する。
+      - name: Summarise new items
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: python scripts/summarize.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "reg-watch-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/data/news.json data/seen.json
+          git add docs/data/news.json data/seen.json data/summaries.json
           if git diff --cached --quiet; then
             echo "No changes."
           else

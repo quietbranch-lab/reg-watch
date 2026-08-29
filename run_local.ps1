@@ -65,15 +65,21 @@ try {
     foreach ($line in $out) { Log "py: $line" }
     if ($pyCode -ne 0) { throw "fetch_news.py exited with $pyCode" }
 
+    # 要約を生成する。付加機能なので、失敗しても一覧の更新は止めない
+    Log "step: summarize.py"
+    $sum = & $python (Join-Path $repo "scripts\summarize.py") 2>&1
+    foreach ($line in $sum) { Log "sum: $line" }
+    if ($LASTEXITCODE -ne 0) { Log "WARN: 要約の生成に失敗しましたが続行します" }
+
     # 差分があれば push。無ければ何もしない
     Log "step: check diff"
-    $changed = & git -C $repo status --porcelain -- docs/data/news.json data/seen.json
+    $changed = & git -C $repo status --porcelain -- docs/data/news.json data/seen.json data/summaries.json
     Log ("diff: " + $(if ($changed) { ($changed -join " / ") } else { "(なし)" }))
 
     if (-not $changed) {
         Log "no changes"
     } else {
-        Invoke-Git -Tag "add" add docs/data/news.json data/seen.json
+        Invoke-Git -Tag "add" add docs/data/news.json data/seen.json data/summaries.json
         $msg = "Update news " + (Get-Date -Format "yyyy-MM-dd HH:mm") + " JST (local)"
         Invoke-Git -Tag "commit" commit -m $msg
 

@@ -33,8 +33,22 @@ NEWS_PATH = ROOT / "docs" / "data" / "news.json"
 CACHE_PATH = ROOT / "data" / "summaries.json"
 
 API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.7-flash").strip()
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash").strip()
+
+# 本命が混雑（503）や不調のときに順に試す。実測では 3.7-flash は1件20秒前後で
+# 503も頻発し、55件を15分の枠内に収められなかった。3.5系なら1件2秒前後で済む。
+FALLBACK = [m.strip() for m in os.environ.get(
+    "GEMINI_FALLBACK", "gemini-3.6-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite").split(",") if m.strip()]
+
+# 要約に深い思考は要らない。既定のままだと思考が出力枠を食い潰し、
+# 本文が数十トークンで途切れる（実際 3.6/3.5 が14〜15トークンで切れた）。
+# minimal を受け付けないモデルがあるので、その場合は low → 指定なしと下げる。
+THINK = os.environ.get("GEMINI_THINKING", "minimal").strip()
 LIMIT = int(os.environ.get("SUMMARY_LIMIT", "40"))
+
+# 呼び出し間隔（秒）。無料枠は分あたりの本数で制限され、実測では1秒間隔だと
+# 16件ほどで429になった。6秒空けて毎分10本程度に抑える。
+SLEEP = float(os.environ.get("SUMMARY_SLEEP", "6"))
 
 ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent"
 
@@ -56,7 +70,7 @@ PROMPT = """次は日本の官庁が公表した文書のページです。実�
 - 誰に対する何の文書か、何が変わるのか、いつからかを優先して書く
 - ページから読み取れないことは書かない。推測や一般論で補わない
 - 内容が読み取れない場合は「本文を取得できませんでした」とだけ返す
-- 前置きや見出しは不要。要約本文だけを返す
+- 前置き・見出し・字数のカウントは書かない。要約本文だけを返す
 
 タイトル: {title}
 
@@ -111,34 +125,68 @@ def fetch_content(url):
     return ("text", text[:MAX_CHARS])
 
 
-def summarize(title, kind, payload):
-    """Geminiに要約させる。失敗時は例外を投げる。"""
+def build_parts(title, kind, payload):
     if kind == "pdf":
-        parts = [
+        return [
             {"text": PROMPT.format(title=title, body="（添付のPDFを読んでください）")},
             {"inline_data": {
                 "mime_type": "application/pdf",
                 "data": base64.b64encode(payload).decode("ascii"),
             }},
         ]
-    else:
-        parts = [{"text": PROMPT.format(title=title, body=payload)}]
+    return [{"text": PROMPT.format(title=title, body=payload)}]
 
-    resp = requests.post(
-        ENDPOINT.format(MODEL),
+
+def call_api(model, parts, think):
+    cfg = {"temperature": 0.2, "maxOutputTokens": 1200}
+    if think:
+        cfg["thinkingConfig"] = {"thinkingLevel": think}
+    return requests.post(
+        ENDPOINT.format(model),
         params={"key": API_KEY},
-        json={
-            "contents": [{"parts": parts}],
-            "generationConfig": {"temperature": 0.2, "maxOutputTokens": 400},
-        },
+        json={"contents": [{"parts": parts}], "generationConfig": cfg},
         timeout=TIMEOUT,
     )
-    if resp.status_code == 429:
-        raise RuntimeError("rate-limited")
-    resp.raise_for_status()
-    data = resp.json()
-    got = data["candidates"][0]["content"]["parts"]
-    return "".join(x.get("text", "") for x in got).strip()
+
+
+def summarize(title, kind, payload):
+    """要約文と使用モデルを返す。全て失敗したら例外。
+
+    モデルと思考レベルの組み合わせを順に試す。混雑(503)や思考設定の不一致(400)
+    はモデル側の都合で起きるため、1つ駄目でも次の組み合わせに進む。
+    レート制限(429)だけは待っても解決しないので即座に打ち切り、呼び出し元が
+    その回の処理を止めて翌日に持ち越せるようにする。
+    """
+    parts = build_parts(title, kind, payload)
+    last = ""
+    for model in [MODEL] + [m for m in FALLBACK if m != MODEL]:
+        for think in (THINK, "low", None):
+            try:
+                r = call_api(model, parts, think)
+            except requests.RequestException as e:
+                last = "{}: {}".format(model, type(e).__name__)
+                continue
+
+            if r.status_code == 429:
+                # 無料枠はモデルごとに別勘定（実測: 3.5-flash は1日20件）。
+                # 1つ枯れても他は使えるので、次のモデルに回す。
+                last = "{}: 枠切れ".format(model)
+                break
+
+            if r.status_code == 200:
+                data = r.json()
+                got = data["candidates"][0]["content"]["parts"]
+                text = "".join(x.get("text", "") for x in got).strip()
+                if text:
+                    return text, model
+                last = "{}: empty".format(model)
+                continue
+
+            last = "{}: HTTP {}".format(model, r.status_code)
+            if r.status_code in (500, 503):
+                time.sleep(3)
+
+    raise RuntimeError("all-exhausted: " + (last or "no response"))
 
 
 def main():
@@ -183,23 +231,24 @@ def main():
             continue
 
         try:
-            text = summarize(it["title"], got[0], got[1])
+            text, used = summarize(it["title"], got[0], got[1])
         except Exception as e:
             # レート制限や一時障害。キャッシュに残さず次回に持ち越す
             print("  要約に失敗 [{}] {}: {}".format(name, it["title"][:24], e),
                   file=sys.stderr)
             failed += 1
-            if "rate-limited" in str(e):
-                print("  レート制限のため以降は次回に回します", file=sys.stderr)
+            if "all-exhausted" in str(e):
+                print("  全モデルの無料枠を使い切りました。残りは次回に回します",
+                      file=sys.stderr)
                 break
             continue
 
-        cache[key] = {"summary": text, "status": "ok", "model": MODEL,
+        cache[key] = {"summary": text, "status": "ok", "model": used,
                       "at": datetime.now(JST).strftime("%Y-%m-%d")}
         it["summary"] = text
         it["summary_status"] = "ok"
         done += 1
-        time.sleep(1.0)   # 無料枠の分あたり上限に当たらないよう間隔をあける
+        time.sleep(SLEEP)   # 無料枠の分あたり上限に当たらないよう間隔をあける
 
     # キャッシュの肥大化を防ぐ
     cutoff = (datetime.now(JST) - timedelta(days=CACHE_KEEP_DAYS)).strftime("%Y-%m-%d")

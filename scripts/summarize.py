@@ -16,6 +16,7 @@ Gemini側の障害や無料枠の上限で失敗しても、新着一覧その�
 要約は data/summaries.json にキャッシュする。一度作ったものは作り直さない。
 """
 
+import base64
 import json
 import os
 import sys
@@ -32,13 +33,14 @@ NEWS_PATH = ROOT / "docs" / "data" / "news.json"
 CACHE_PATH = ROOT / "data" / "summaries.json"
 
 API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash-lite").strip()
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.7-flash").strip()
 LIMIT = int(os.environ.get("SUMMARY_LIMIT", "40"))
 
 ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent"
 
 TIMEOUT = 45
 MAX_CHARS = 6000          # Geminiに渡す本文の上限
+MAX_PDF_BYTES = 10 * 1024 * 1024   # これを超えるPDFは対象外
 CACHE_KEEP_DAYS = 180
 
 HEADERS = {
@@ -76,15 +78,24 @@ def item_key(it):
     return "{}|{}".format(it["url"], it.get("date") or "")
 
 
-def extract_text(url):
-    """リンク先の本文を取り出す。取得できなければ None。"""
+def fetch_content(url):
+    """リンク先を取得する。
+
+    戻り値は ("text", 本文) か ("pdf", バイト列)。扱えなければ None。
+    PDFはテキスト抽出せずそのまま渡す。Gemini側が直接読めるので抽出
+    ライブラリを増やさずに済み、表や図が中心の資料にも対応できる。
+    """
     r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
 
     ctype = r.headers.get("Content-Type", "").lower()
-    if "pdf" in ctype or url.lower().endswith(".pdf"):
-        # PDFは本文を取れない。要約対象外として扱う
-        return None
+    path = url.lower().split("?")[0]
+
+    if "pdf" in ctype or path.endswith(".pdf"):
+        if len(r.content) > MAX_PDF_BYTES:
+            return None          # 大きすぎるものは無理に送らない
+        return ("pdf", r.content)
+
     if "html" not in ctype and "xml" not in ctype:
         return None
 
@@ -94,17 +105,30 @@ def extract_text(url):
     for tag in soup(["script", "style", "nav", "header", "footer"]):
         tag.decompose()
     main = soup.find("main") or soup.find(id="main") or soup.body or soup
-    text = main.get_text("\n", strip=True)
-    return text[:MAX_CHARS] if len(text) > 200 else None
+    text = main.get_text(chr(10), strip=True)
+    if len(text) <= 200:
+        return None
+    return ("text", text[:MAX_CHARS])
 
 
-def summarize(title, body):
+def summarize(title, kind, payload):
     """Geminiに要約させる。失敗時は例外を投げる。"""
+    if kind == "pdf":
+        parts = [
+            {"text": PROMPT.format(title=title, body="（添付のPDFを読んでください）")},
+            {"inline_data": {
+                "mime_type": "application/pdf",
+                "data": base64.b64encode(payload).decode("ascii"),
+            }},
+        ]
+    else:
+        parts = [{"text": PROMPT.format(title=title, body=payload)}]
+
     resp = requests.post(
         ENDPOINT.format(MODEL),
         params={"key": API_KEY},
         json={
-            "contents": [{"parts": [{"text": PROMPT.format(title=title, body=body)}]}],
+            "contents": [{"parts": parts}],
             "generationConfig": {"temperature": 0.2, "maxOutputTokens": 400},
         },
         timeout=TIMEOUT,
@@ -113,8 +137,8 @@ def summarize(title, body):
         raise RuntimeError("rate-limited")
     resp.raise_for_status()
     data = resp.json()
-    parts = data["candidates"][0]["content"]["parts"]
-    return "".join(p.get("text", "") for p in parts).strip()
+    got = data["candidates"][0]["content"]["parts"]
+    return "".join(x.get("text", "") for x in got).strip()
 
 
 def main():
@@ -144,13 +168,13 @@ def main():
     done = failed = skipped = 0
     for name, it, key in targets[:LIMIT]:
         try:
-            body = extract_text(it["url"])
+            got = fetch_content(it["url"])
         except Exception as e:
             print("  本文取得に失敗 [{}] {}: {}".format(name, it["title"][:24], e),
                   file=sys.stderr)
-            body = None
+            got = None
 
-        if not body:
+        if not got:
             cache[key] = {"summary": None, "status": "unavailable",
                           "at": datetime.now(JST).strftime("%Y-%m-%d")}
             it["summary"] = None
@@ -159,7 +183,7 @@ def main():
             continue
 
         try:
-            text = summarize(it["title"], body)
+            text = summarize(it["title"], got[0], got[1])
         except Exception as e:
             # レート制限や一時障害。キャッシュに残さず次回に持ち越す
             print("  要約に失敗 [{}] {}: {}".format(name, it["title"][:24], e),

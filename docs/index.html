@@ -334,7 +334,7 @@ function summaryButton(agencyId, idx, it){
     return `<button class="sum-btn" data-sum="${agencyId}:${idx}">要約を見る</button>`;
   }
   if(it.summary_status==="unavailable"){
-    return `<button class="sum-btn" disabled title="PDF等で本文を取得できませんでした">要約なし</button>`;
+    return `<button class="sum-btn" disabled title="リンク先から本文を取得できませんでした">要約なし</button>`;
   }
   return `<button class="sum-btn" disabled title="次回の取得時に生成されます">要約準備中</button>`;
 }

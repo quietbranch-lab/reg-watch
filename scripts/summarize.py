@@ -33,22 +33,34 @@ NEWS_PATH = ROOT / "docs" / "data" / "news.json"
 CACHE_PATH = ROOT / "data" / "summaries.json"
 
 API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash").strip()
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash").strip()
 
-# 本命が混雑（503）や不調のときに順に試す。実測では 3.7-flash は1件20秒前後で
-# 503も頻発し、55件を15分の枠内に収められなかった。3.5系なら1件2秒前後で済む。
+# 無料枠はモデルごとに別勘定で、実測では1モデルあたり1日20件だった。
+# 1日の新着は50件を超えることがあるため、質の高い順に並べた複数モデルを
+# 束ねて枠を確保する。上から使い、枯れたら次へ自動で降りる。
+#
+# 実測（同一資料・thinkingLevel=minimal）:
+#   3.6-flash        2.7秒  本命
+#   3.5-flash        1.7秒
+#   3-flash-preview  1.7秒
+#   3.5-flash-lite   1.6秒
+#   3.1-flash-lite   1.4秒
+# 3.7-flash は1件20秒かかり503も頻発したため既定から外した（明示指定は可能）。
+# 2.5系は models 一覧に出るが generateContent は404で使えない。
 FALLBACK = [m.strip() for m in os.environ.get(
-    "GEMINI_FALLBACK", "gemini-3.6-flash,gemini-3.5-flash-lite,gemini-3.1-flash-lite").split(",") if m.strip()]
+    "GEMINI_FALLBACK",
+    "gemini-3.5-flash,gemini-3-flash-preview,"
+    "gemini-3.5-flash-lite,gemini-3.1-flash-lite").split(",") if m.strip()]
 
 # 要約に深い思考は要らない。既定のままだと思考が出力枠を食い潰し、
 # 本文が数十トークンで途切れる（実際 3.6/3.5 が14〜15トークンで切れた）。
 # minimal を受け付けないモデルがあるので、その場合は low → 指定なしと下げる。
 THINK = os.environ.get("GEMINI_THINKING", "minimal").strip()
-LIMIT = int(os.environ.get("SUMMARY_LIMIT", "40"))
+LIMIT = int(os.environ.get("SUMMARY_LIMIT", "60"))
 
-# 呼び出し間隔（秒）。無料枠は分あたりの本数で制限され、実測では1秒間隔だと
-# 16件ほどで429になった。6秒空けて毎分10本程度に抑える。
-SLEEP = float(os.environ.get("SUMMARY_SLEEP", "6"))
+# 呼び出し間隔（秒）。制限は主に日あたりの本数だが、分あたりの上限にも
+# 当たらないよう少し間隔を空ける。60件で5分程度に収まる。
+SLEEP = float(os.environ.get("SUMMARY_SLEEP", "3"))
 
 ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent"
 

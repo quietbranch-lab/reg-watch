@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-29 10:12",
- "generated_date": "2026-08-29",
- "previous_generated_at": "2026-08-28 14:36",
+ "generated_at": "2026-08-30 03:43",
+ "generated_date": "2026-08-30",
+ "previous_generated_at": "2026-08-29 10:12",
  "new_since": "2026-08-28",
  "agencies": [
   {
@@ -603,8 +603,10 @@
    "seal": "監",
    "site": "https://www.fsa.go.jp/sesc/",
    "method": "rss",
-   "status": "ok",
-   "errors": [],
+   "status": "partial",
+   "errors": [
+    "https://www.fsa.go.jp/sescOtherList_rss2.xml -> フィードから項目を取得できませんでした"
+   ],
    "items": [
     {
      "title": "証券検査,「令和８事務年度　証券モニタリング基本方針」について",
@@ -644,13 +646,6 @@
     {
      "title": "証券検査,moomoo証券株式会社に対する検査結果に基づく勧告について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260605-2.html#60",
-     "date": null,
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "その他,取引審査の実施状況及び情報受付状況を更新しました（６月末）",
-     "url": "https://www.fsa.go.jp/sesc/actions/shinsa.html",
      "date": null,
      "first_seen": "2026-08-25",
      "is_new": false
@@ -1064,13 +1059,6 @@
      "title": "貸出約定平均金利（6月）",
      "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2606.pdf",
      "date": "2026-07-29",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "日本銀行政策委員会月報（令和8年6月号）",
-     "url": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2606.htm",
-     "date": "2026-07-28",
      "first_seen": "2026-08-25",
      "is_new": false
     }
@@ -2388,6 +2376,8 @@
    ]
   }
  ],
- "errors": [],
- "summary_model": "gemini-3.6-flash"
+ "errors": [
+  "証券取引等監視委員会: https://www.fsa.go.jp/sescOtherList_rss2.xml -> フィードから項目を取得できませんでした"
+ ],
+ "summary_model": ""
 }

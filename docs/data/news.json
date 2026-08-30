@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-30 07:17",
- "generated_date": "2026-08-30",
- "previous_generated_at": "2026-08-29 10:12",
+ "generated_at": "2026-08-31 03:43",
+ "generated_date": "2026-08-31",
+ "previous_generated_at": "2026-08-30 07:17",
  "new_since": "2026-08-28",
  "agencies": [
   {
@@ -1050,20 +1050,6 @@
      "title": "決済動向（6月）",
      "url": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2606.pdf",
      "date": "2026-07-31",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "令和8年熊本地震に係る災害等に対する金融上の措置について（熊本県）",
-     "url": "http://www.boj.or.jp/about/bcp/fso/fso260729a.pdf",
-     "date": "2026-07-29",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "貸出約定平均金利（6月）",
-     "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2606.pdf",
-     "date": "2026-07-29",
      "first_seen": "2026-08-25",
      "is_new": false
     }

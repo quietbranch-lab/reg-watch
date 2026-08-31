@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-31 19:12",
- "generated_date": "2026-08-31",
- "previous_generated_at": "2026-08-30 07:17",
- "new_since": "2026-08-28",
+ "generated_at": "2026-09-01 03:43",
+ "generated_date": "2026-09-01",
+ "previous_generated_at": "2026-08-31 19:12",
+ "new_since": "2026-08-31",
  "agencies": [
   {
    "id": "fsa",
@@ -18,7 +18,7 @@
      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260827.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁は、令和8年8月27日からの大雨に伴う災害等を受け、北陸財務局が富山県（8月27日）、石川県（8月27日）、福井県（8月31日）を対象として「金融上の措置」を要請したことを公表した文書です。金融機関等に対し、被災者への金融上の適切な措置を求めています。",
      "summary_status": "ok"
     },
@@ -34,7 +34,7 @@
      "url": "https://www.fsa.go.jp/news/r8/kashikin/20260831/20260831.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が貸金業者等に向けて公表した、貸金業法施行規則の一部改正に関する文書です。戸籍法施行規則の改正に合わせ、日本国籍を有しない者が貸金業務取扱主任者の登録をする際、登録簿に特定の地域を含めた国籍等を登録できるよう変更されます。この改正を定める内閣府令は、令和8年8月31日に公布・施行されました。",
      "summary_status": "ok"
     },
@@ -50,7 +50,7 @@
      "url": "https://www.fsa.go.jp/news/r8/hoken/20260831-2/20260831-2.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が少額短期保険業者等に向け、令和7年保険業法改正に係る「少額短期保険業者向けの監督指針」の一部改正案に対するパブリックコメント結果等を公表した文書です。乗合代理店における適切な比較推奨販売の確保に向け、同監督指針（本編）の一部改正を行います。改正後の監督指針は、令和7年保険業法改正に係る内閣府令の施行日である令和10年3月1日から適用されます。（178字）",
      "summary_status": "ok"
     },
@@ -59,7 +59,7 @@
      "url": "https://www.fsa.go.jp/common/budget/yosan/9youkyuu-2.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が令和8年8月31日に公表した、令和9年度歳出概算要求書に関する文書です。一般会計における全体版、要望額一覧、投資枠一覧のPDF資料が示されています。これにより、令和9年度に向けた金融庁の予算要求の全体像や具体的な要望額、投資枠の内訳が明らかになります。問い合わせは秘書課管理室で受け付けています。",
      "summary_status": "ok"
     },
@@ -68,7 +68,7 @@
      "url": "https://www.fsa.go.jp/news/r8/sonota/20260831.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が2026年8月31日に公表した文書です。金融庁が取りまとめた「令和9年度税制改正要望項目」の内容と、それに関する問い合わせ先（電話番号およびウェブサイト）を案内しています。制度改正等の具体的な変更内容や適用時期は本文内に記載されていません。",
      "summary_status": "ok"
     },
@@ -77,7 +77,7 @@
      "url": "https://www.fsa.go.jp/common/budget/yosan/9youkyuu.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が令和8年8月31日に公表した、令和9年度の予算および機構・定員要求に関する文書です。金融庁の秘書課管理室（予算・機構・定員担当）が所管するもので、令和9年度予算と機構・定員要求の概要について示されています。具体的な変更内容や詳細な対象者については、添付の概要資料等を参照する構成となっており、このページ自体からは読み取れません。",
      "summary_status": "ok"
     },
@@ -86,7 +86,7 @@
      "url": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/siryou/20260831.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が金融審議会委員等に対し、令和8年8月31日に開催する第57回金融審議会総会・第45回金融分科会合同会合の議事次第等を公表した文書です。会合では、成長企業への資金供給や保険制度の各在り方に関する検討等について諮問および討議が行われます。実務に関わる変更点や開始時期等、具体的な変更内容はこのページからは読み取れません。",
      "summary_status": "ok"
     },
@@ -95,7 +95,7 @@
      "url": "https://www.fsa.go.jp/news/r8/singi/20260904.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が、令和8年9月4日（金）9時30分から12時00分に、中央合同庁舎第7号館にて金融審議会「ディスクロージャーワーキング・グループ」（第6回）を開催することを公表した文書です。会議ではヒアリングや討議が行われ、議事録は会議後に金融庁ウェブサイトで公表されます。対象者や具体的な変更点についての記載はありません。問い合わせは企画市場局企業開示課等で受け付けています。",
      "summary_status": "ok"
     },
@@ -104,7 +104,7 @@
      "url": "https://www.fsa.go.jp/news/r8/hoken/20260828/20260828.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が乗合代理店等に向けて公表した、令和7年保険業法改正に係る内閣府令等の改正案に対するパブリックコメント結果等の文書です。乗合代理店における適切な比較推奨販売の確保に向け、比較説明・推奨販売に係る内閣府令や監督指針等の整備を行います。改正後の内閣府令は令和8年8月28日に公布され、改正後の監督指針とともに令和10年3月1日から施行・適用されます。",
      "summary_status": "ok"
     },
@@ -113,7 +113,7 @@
      "url": "https://www.fsa.go.jp/policy/kashikin/soudankai2026.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が、返済等が困難になった消費者や事業者を対象に公表した文書です。多重債務者対策本部、日本弁護士連合会、日本司法書士会連合会、法テラスの共催で、令和8年9月1日から12月31日まで「多重債務者相談強化キャンペーン2026」を実施します。これに伴い、期間中に開催される相談会等の開催状況や今後の予定、関係機関・団体における常設の相談窓口、各種注意喚起情報などが案内されています。",
      "summary_status": "ok"
     },
@@ -154,7 +154,7 @@
      "url": "https://www.mof.go.jp/insideLink/20260828141929.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -163,7 +163,7 @@
      "url": "https://www.mof.go.jp/about_mof/policy_evaluation/mof/fy2026/evaluation2/2026sotokukouhyou.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が、行政機関や実務者等に向けて公表した文書です。財務省が法律や基本計画等に基づき実施した、国税における租税特別措置及び地方税における税負担軽減措置等に係る政策の事後評価の結果が、令和8年8月31日に公表されました。これにより、対象となる租税特別措置等の政策評価書およびその要旨が新たに閲覧可能となります。（161字）",
      "summary_status": "ok"
     },
@@ -172,7 +172,7 @@
      "url": "https://www.mof.go.jp/about_mof/mof_budget/budget/fy2027/20260828.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が令和8年8月28日に公表した、同省所管の令和9年度概算要求に関する文書です。一般会計の概算要求総額は38兆6,948億円（前年度比5兆832億円増）となります。主な内訳として、国債費が36兆6,386億円（5兆3,628億円増）、経済協力費が2,086億円、中小企業対策費が849億円などとなっています。また、税関の水際取締り整備に427億円、酒類業振興に53億円などが要求されています。",
      "summary_status": "ok"
     },
@@ -181,7 +181,7 @@
      "url": "https://www.mof.go.jp/insideLink/20260828134246.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -190,7 +190,7 @@
      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -199,7 +199,7 @@
      "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260831.htm",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が国債を取り扱う金融機関等に向け、第488回2年利付国債の発行条件を通知する文書です。表面利率は年1.7%、募集価格は額面100円につき100円05銭と決定しました。募集期間は令和8年9月2日から9月29日まで、発行日は同年10月9日です。申し込み単位は5万円以上5万円単位で、1回の上限は3億円となります。償還期限は令和10年9月1日、利払日は毎年3月と9月の各1日です。",
      "summary_status": "ok"
     },
@@ -208,7 +208,7 @@
      "url": "https://www.mof.go.jp/public_relations/conference/my20260828.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "片山財務大臣が、令和8年8月28日の閣議で決定された事項等を公表した文書です。\n大臣のG20財務大臣・中銀総裁会議等への出席とAI関連企業視察のための出張、および令和8年熊本地震の被災者生活・なりわい支援パッケージ実行のための総額1,478億円の予備費使用が本日閣議決定されました。予備費は避難生活環境の改善や住まいの確保、被災事業者や農林漁業者、観光関連産業の支援等に充てられます。",
      "summary_status": "ok"
     },
@@ -217,7 +217,7 @@
      "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20260828.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -226,7 +226,7 @@
      "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/soukai/proceedings/proceedings/20260821114114.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省は2026年6月10日、関税・外国為替等審議会第14回総会を開催しました。本総会では、対内直接投資審査の個別案件において、企業名等の紐付けによる株式市場への影響を防ぐため、必要に応じて会議や議事録等を非公開にできる旨の議事規則改正案が承認されました。また、外資特別部会設置要領の規定に「特定取得」を追加して明確化する改正案も承認されました。施行時期に関する記載はありません。",
      "summary_status": "ok"
     },
@@ -235,7 +235,7 @@
      "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20260821112328.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省国際局が令和8年6月10日に開催した「関税・外国為替等審議会 第69回外国為替等分科会」の議事録です。\n\n主な議題は、最近の国際金融情勢（IMF世界経済見通し、G7・G20、アジア開発銀行年次総会の報告等）および対内直接投資審査制度についてです。\n\n本文書は会議の議論を記録したものであり、制度の変更や新たな規制の開始時期など、実務上の変更点について決定・公表するものではありません。",
      "summary_status": "ok"
     },
@@ -244,7 +244,7 @@
      "url": "https://www.mof.go.jp/about_mof/constitution/agency/doppo/index.htm",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "酒類総合研究所、造幣局、国立印刷局などの独立行政法人関係者等に向けた、各法人の組織、業務、財務等に関する資料をまとめた文書です。令和5年度から8年度にかけての役職員の報酬・給与等、年度目標、業務実績評価、調達等合理化計画、組織・業務全般の見直し等の各資料が、令和6年3月から令和8年8月にかけて順次公表・更新されています。",
      "summary_status": "ok"
     },
@@ -253,7 +253,7 @@
      "url": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/press_release/260828.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が国債市場特別参加者に向けて公表した、令和8年9月28日16時開催の「第120回国債市場特別参加者会合」の日程案内です。会合では「最近の国債市場の状況と今後の見通し等」がテーマとなります。会合当日に資料、翌営業日に議事の要点、約1週間後に議事要旨が公表される予定です。",
      "summary_status": "ok"
     },
@@ -262,7 +262,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260828a.htm",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -271,7 +271,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260828.htm",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が国債市場特別参加者等に向けて公表した、令和8年8月28日入札の「2年利付国債（第488回）」の入札結果に関する文書です。表面利率年1.7％、発行日令和8年9月1日、償還期限令和10年9月1日として、価格競争入札（募入決定額2兆1,454億円）、非競争入札、第Ⅰ非価格競争入札の募入が決定されました。また、同日午後2時より国債市場特別参加者を対象に第Ⅱ非価格競争入札を実施します。",
      "summary_status": "ok"
     },
@@ -280,7 +280,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260828.htm",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が令和8年8月28日に公表した、同日に実施された国庫短期証券（第1403回）の価格競争入札及び国債市場特別参加者・第Ⅰ非価格競争入札の募入決定に関する文書です。発行日は令和8年8月31日、償還期限は令和8年11月30日です。価格競争入札の募入決定額は2兆8,381億7,000万円（平均利回り1.0794％）、非価格競争入札の募入決定額は8,618億円（発行価格99円73銭1厘6毛）となりました。",
      "summary_status": "ok"
     },
@@ -289,7 +289,7 @@
      "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "本文を取得できませんでした",
      "summary_status": "ok"
     },
@@ -298,7 +298,7 @@
      "url": "https://www.mof.go.jp/policy/budget/budger_workflow/budget/fy2026/km260828.pdf",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "令和８年熊本地震の被災者支援パッケージに基づく予備費使用に関する文書です。生活再建（避難生活環境改善、災害廃棄物処理等に計766億円）、なりわい再建（被災事業者、農林漁業者、観光関連産業支援に計379億円）、災害復旧等（公共施設、エネルギーインフラ、医療・福祉施設復旧等に計331億円）の3分野に対し、合計1,478億円の予備費が使用されます。対象者や開始時期の詳細は記載されていません。",
      "summary_status": "ok"
     },
@@ -307,7 +307,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260828.htm",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が国債の入札参加者に対し、令和8年8月28日に入札を実施する「2年利付国債（第488回）」の発行概要を通知した文書です。表面利率は年1.7％、発行予定額は2兆8,000億円程度、発行日は令和8年9月1日となります。入札方法は価格競争入札、非競争入札、国債市場特別参加者・第Ⅰ非価格競争入札で、申込締切は令和8年8月28日午前11時50分、払込期日は令和8年9月1日です。",
      "summary_status": "ok"
     },
@@ -316,7 +316,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260828.htm",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が国債市場の参加者等に向けて公表した、令和8年9月4日入札予定の「国庫短期証券（第1404回）」の発行予定額等の文書です。令和8年9月7日に発行、同年12月7日に償還予定で、発行予定額は額面金額で3兆5,000億円程度となります。なお、この発行予定額を変更する場合には、入札日の前日に再度公表される予定です。",
      "summary_status": "ok"
     },
@@ -325,7 +325,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260828.htm",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が入札参加者及び国債市場特別参加者へ発行した通知です。国庫短期証券（第1403回）の価格競争入札等の実施概要が示されています。発行予定額は額面金額で3兆7,000億円程度で、申込締切および募入決定通知日は令和8年8月28日です。発行（払込期）日は令和8年8月31日、償還期限は令和8年11月30日となっています。（171字）",
      "summary_status": "ok"
     },
@@ -334,7 +334,7 @@
      "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/yotaku20260828.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "本文書は財務省が公表したもので、令和8年9月1日以降に適用される財政融資資金預託金の利率に関する案内です。令和8年9月1日以降の財政融資資金預託金について、預託の約定期間に応じた利率が適用されることになります。詳細は添付されたPDFおよびExcelファイルに記載されており、理財局財政投融資総括課財務取引係が問い合わせ先となっています。",
      "summary_status": "ok"
     },
@@ -343,7 +343,7 @@
      "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/kashi20260828.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が財政融資資金の借り手に対し、令和8年9月1日以降に貸し付ける財政融資資金の貸付金利を公表した文書。貸付期間および据置期間に応じて適用される年利率が変更されます。適用開始日は令和8年9月1日です。詳しい利率の設定については、提示されたExcelおよびPDFファイルで確認できます。",
      "summary_status": "ok"
     },
@@ -352,7 +352,7 @@
      "url": "https://www.mof.go.jp/outside_link/20260827115110.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -655,6 +655,13 @@
      "is_new": false
     },
     {
+     "title": "証券検査,令和7年事務年度「証券モニタリングに関する基本指針」の一部改正（案）に対するパブリックコメントの結果等について",
+     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260701-1/20260701-1.html",
+     "date": "2026-07-01",
+     "first_seen": "2026-08-25",
+     "is_new": false
+    },
+    {
      "title": "証券検査,moomoo証券株式会社に対する検査結果に基づく勧告について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260605-2.html#60",
      "date": "2026-06-05",
@@ -677,7 +684,7 @@
      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "日本銀行が金融市場調節の対象先に対し、2026年7〜9月期の長期国債買入れ（利回り・価格入札方式）の実施予定を通知する文書です。2026年8月31日付で、9月分のオファー日程が更新されました。残存期間ごとの1回当たりおよび月間のオファー金額の目安、具体的な入札実施日が示されています。市場動向により回数や金額は変更される可能性がありますが、月間合計で2兆5,000億円規模の買入れが予定されています。",
      "summary_status": "ok"
     },
@@ -686,7 +693,7 @@
      "url": "http://www.boj.or.jp/about/bcp/fso/fso260831a.pdf",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "北陸財務局福井財務事務所と日本銀行金沢支店が、預貯金取扱金融機関、証券会社、生命保険会社、損害保険会社、少額短期保険業者、電子債権記録機関に対し発した要請です。令和8年8月27日からの大雨により災害救助法が適用された福井県内の被災者等に対し、通帳や印鑑紛失時の払戻し対応、保険料払込猶予、取引停止処分の配慮など、状況に応じた弾力的・迅速な金融上の措置を適切に講ずるよう求めています。",
      "summary_status": "ok"
     },
@@ -695,7 +702,7 @@
      "url": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2607.pdf",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "日本銀行決済機構局が2026年8月31日に公表した、同年7月の国内決済活動に関する統計資料です。日銀当座預金決済、日銀ネット利用先数、国債振決口座振替決済、全銀システム取扱高、外為円決済交換高、電子マネー、デビットカード等の主要指標がまとめられています。決済実務や市場動向を把握するための基礎資料であり、各決済システムの利用状況や取引金額・件数の推移を確認したい実務者が対象です。",
      "summary_status": "ok"
     },
@@ -704,7 +711,7 @@
      "url": "http://www.boj.or.jp/statistics/sj/sjhiq.pdf",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "日本銀行調査統計局が2026年8月31日に公表した、日米欧の資金循環統計を比較・分析するための実務者向け資料です。2026年3月末時点のデータに基づき、金融機関、家計、民間非金融法人企業の金融資産・負債構成や、主要部門の資金過不足（名目GDP比）の推移を掲載しています。制度や定義の差異を考慮した部門分類で比較されており、国際的な資金フローや資産構成の差異を把握する際に参照すべき文書です。",
      "summary_status": "ok"
     },
@@ -713,7 +720,7 @@
      "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2607.pdf",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "日本銀行金融機構局が、国内銀行や信用金庫等の金融機関を対象に、2026年7月における貸出約定平均金利の統計結果を公表した文書です。新規およびストックの貸出金利について、短期・長期・総合などの区分ごとに、2026年2月から7月までの推移が掲載されています。本資料は2026年8月31日に公表されたもので、金融機関の貸出金利動向を把握するための基礎資料として活用されます。",
      "summary_status": "ok"
     },
@@ -722,7 +729,7 @@
      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260828a.pdf",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "日本銀行が2026年8月28日に公表した、前日にさいたま市で開催された氷見野副総裁の記者会見要旨です。副総裁は、今後の金融政策運営において、経済・物価の見通しやリスクを点検しながら、次回会合を含む毎回の決定会合で利上げのタイミングやペースを議論・検討していく姿勢を示しました。また、金融システムへの影響や物価の上振れリスク、地域の経済状況などを踏まえ、総合的に判断していくと述べています。",
      "summary_status": "ok"
     },
@@ -1390,7 +1397,7 @@
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260831gaiisanyokyu.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "公正取引委員会は令和8年8月31日、令和9年度予算の概算要求を公表しました。総額148.5億円を要求し、取引適正化やデジタル市場対応を強化します。主な変更点は、1官房3局体制への移行や地方組織の改組、38人の増員です。実務面では、取適法やスマホ法の執行、フリーランス保護、全国17万社規模の優越的地位の濫用実態調査、47都道府県での説明会実施などが盛り込まれており、事業者への監視や周知が強まります。",
      "summary_status": "ok"
     },
@@ -1648,7 +1655,7 @@
      "url": "https://www.ppc.go.jp/news/press/2026/260831?ref=tninf",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -1657,7 +1664,7 @@
      "url": "https://www.ppc.go.jp/aboutus/budget/budget_R9?ref=tninf",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -1740,7 +1747,7 @@
      "url": "https://www.npa.go.jp/sosikihanzai/jafic/todoke/yousei.htm#p1",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融機関等の事業者に対し、警察庁などが疑わしい取引の届出等に関して要請・広報する文書です。国連安保理決議や閣議了解に基づき、タリバーン関係者リストの改正（令和8年7月14日、8月5日・19日・20日・28日等の外務省告示）、FATF声明（令和8年6月19日公表）、北朝鮮やイラン関連等の資産凍結対象者の追加・指定が更新され、本人確認や疑わしい取引の届出等の徹底が要請されています。",
      "summary_status": "ok"
     },
@@ -1844,7 +1851,7 @@
      "url": "http://www.moj.go.jp/hisho/kouhou/hisho08_00982.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "法務大臣は2026年8月28日の会見で、主に実務者や関係者へ以下を説明しました。\n\n1.更生保護の広報を目的としたネット番組とのタイアップを、被害者心情への配慮等の批判を受け中止しました。\n2.2028年度の電子渡航認証（JESTA）導入やDX推進、不法滞在者対策のため、在留許可手数料の引き上げによる財源を活用し、入管庁の体制を抜本的に強化する概算要求を行う方針です。\n3.法令に基づき退去強制手続を厳格に執行します。",
      "summary_status": "ok"
     },
@@ -1853,7 +1860,7 @@
      "url": "http://www.moj.go.jp/jinji/shihoushiken/jinji07_00288.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "令和8年司法試験予備試験の受験者に対し、論文式試験の試験会場に関する情報を通知するものです。令和8年8月31日に更新され、試験会場の一覧や、熊本会場に関する詳細が公表されました。受験者に対し、試験会場の施設・敷地内への無断立ち入りや下見を厳禁としています。また、同試験の実施日程や出願手続、デジタル化、Q&Aなどの関連情報についてもあわせて案内しています。",
      "summary_status": "ok"
     },
@@ -1862,7 +1869,7 @@
      "url": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "法務省の統計ページであり、検察統計、戸籍統計、供託統計などの各種統計表一覧や関連情報が掲載されているが、対象者、変更内容、時期に関する具体的な記載はない。",
      "summary_status": "ok"
     },
@@ -1871,7 +1878,7 @@
      "url": "https://www.moj.go.jp/hisho/kouhou/hisho06_01480.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "法務省が、令和8年7月29日・30日に開催した「こども霞が関見学デー」の実施結果を報告する文書です。小中学生等を対象に、クイズ、制服着用体験、落語会、模擬裁判、パラスポーツ体験などのプログラムを実施し、2日間で2,247名が参加しました。本ページはその開催報告（その1）であり、各イベントの様子を写真と共に紹介しています。実務上の変更点や新たな義務を課すものではありません。",
      "summary_status": "ok"
     },
@@ -1880,7 +1887,7 @@
      "url": "http://www.moj.go.jp/hisho/jouhoukanri/hisho09_00075.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "法務省行政手続等の関係者に向け、令和8年8月28日に掲載された令和7年度の調査結果を知らせる文書です。デジタル・ガバメント推進に伴う法務省における行政手続等の棚卸調査結果が公表され、解説資料や概要のPDF、調査結果のEXCELファイルが公開されました。これにより過去の調査結果とあわせて手続の実態やデータの棚卸状況を確認できるようになります。",
      "summary_status": "ok"
     },
@@ -1945,11 +1952,20 @@
    "errors": [],
    "items": [
     {
+     "title": "リビア国保健省との協力覚書に署名しました",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75921.html",
+     "date": "2026-08-31",
+     "first_seen": "2026-09-01",
+     "is_new": true,
+     "summary": "厚生労働省がリビア国保健省との間で、保健・医療分野における二国間関係の促進と水準向上を目的とした協力覚書を令和8年8月31日に署名したことを知らせる文書です。日・リビア保健当局間での協力覚書の作成は今回が初めてとなります。添付資料として、同日署名された協力覚書の英文および和文（仮訳）のPDFファイルが公表されています。",
+     "summary_status": "ok"
+    },
+    {
      "title": "令和９年度厚生労働省所管予算概算要求関係",
      "url": "https://www.mhlw.go.jp/wp/yosan/yosan/27syokan/index.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省所管の業務に関わる実務者等を対象に、令和９年度予算の概算要求に関する概要、主要事項、主要施策集、財政投融資資金計画等の要求内容を公表するものである。具体的な制度変更の内容や施行時期については言及されていない。",
      "summary_status": "ok"
     },
@@ -1958,7 +1974,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75852.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "本文を取得できませんでした",
      "summary_status": "ok"
     },
@@ -1967,7 +1983,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75755.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、令和８年度の「障害者雇用優良事業所等の厚生労働大臣表彰」等の受賞者を決定し、令和８年９月15日に都内で表彰式を開催する件に関する文書。実務上の制度変更や新たな義務付け等の記載はない。",
      "summary_status": "ok"
     },
@@ -1976,7 +1992,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75872.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、令和9年度に向けた同省の機構（組織）の新設・改編および定員（職員数）の増員要求の概要を公表したものです。主な内容は、行政課題に適切に対応するための組織体制の整備や人員確保に関する要求です。対象は同省の組織運営に関わる関係者や動向を注視する実務者となります。具体的な組織改編や増員の内容は、令和8年8月31日に取りまとめられた別添の概要資料に記載されています。",
      "summary_status": "ok"
     },
@@ -1985,7 +2001,7 @@
      "url": "https://www.mhlw.go.jp/stf/houdou/newpage_000009.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が報道関係者に対し、国内最高齢者の賀川滋子氏（115歳）が令和8年8月27日に逝去したことを通知する文書です。これに伴い、国内最高齢者が京都府京都市在住の岸本ふよ氏（114歳）になったことを公表しました。文書では、遺族への直接取材を控えるよう求めており、今後の取材については大和郡山市および京都市の各担当課へ問い合わせるよう案内しています。",
      "summary_status": "ok"
     },
@@ -1994,7 +2010,7 @@
      "url": "https://www.mhlw.go.jp/kinkyu/151106.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "本文を取得できませんでした",
      "summary_status": "ok"
     },
@@ -2003,7 +2019,7 @@
      "url": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省労働基準局が、全業種の事業場や安全衛生担当者に向けて公表した、労働災害発生状況の統計資料です。令和8年4月速報分より、従来のPDF形式に加え、データ分析に活用しやすいExcel形式での資料公表を新たに開始しました。本ページでは、平成30年から令和8年までの各月速報値および年間の確定値、報道発表資料が順次公開されており、最新の労働災害の発生傾向を確認できます。",
      "summary_status": "ok"
     },
@@ -2012,7 +2028,7 @@
      "url": "https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/kyufu/2026/05.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、介護保険事業に関わる実務者や行政担当者等に向け、令和８年５月審査分の介護給付費等実態統計月報を公表した。介護給付費明細書等の集計データに基づき、受給者数や費用額、サービス種類別の統計表などを提供するものであり、令和８年８月31日に公開された。",
      "summary_status": "ok"
     },
@@ -2021,7 +2037,7 @@
      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "本文を取得できませんでした",
      "summary_status": "ok"
     },
@@ -2030,7 +2046,7 @@
      "url": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2606.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が公表した、令和8年6月末時点の医療施設動態調査の概数結果。病院、一般診療所、歯科診療所について、種類別・開設者別・都道府県別の施設数及び病床数の増減状況をまとめた統計情報であり、制度の変更や新たな義務付けに関する記載はない。",
      "summary_status": "ok"
     },
@@ -2039,7 +2055,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75722.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が公表した「令和７年外国人雇用実態調査」結果の報告文書である。外国人労働者を雇用する事業所を対象に、雇用形態、賃金、雇用理由、課題や、労働者の入職経路、就労上のトラブルなどの実態をまとめた統計情報であり、制度やルールの変更はない。",
      "summary_status": "ok"
     },
@@ -2048,7 +2064,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75678.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が関係者に向けて、脳死下での臓器提供事例における法的脳死判定やあっせん業務の状況を検証する非公開の「第150回脳死下での臓器提供事例に係る検証会議」の開催を知らせる文書。日時は令和8年9月1日16時～18時で、Web会議により実施される。具体的な変更事項についての記載はない。",
      "summary_status": "ok"
     },
@@ -2057,7 +2073,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75898.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "報道関係者を対象に、上野厚生労働大臣による閣議後記者会見の実施をお知らせする文書です。会見への参加には基準があり、希望者は厚生労働記者会への問い合わせが必要です。日時は令和8年9月1日10時25分頃から、場所は省内会見室で行われます。",
      "summary_status": "ok"
     },
@@ -2066,7 +2082,7 @@
      "url": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省の実務者や関係者に向けた、令和8年8月31日付の幹部職員名簿です。大臣、副大臣、政務官をはじめ、事務次官、各局長、審議官、課長級までの氏名と官職が網羅されています。組織改編等の記述はなく、同日付の最新の配置状況を示す文書です。担当部署の責任者や決裁ラインの確認、連絡先の特定が必要な際に参照すべき情報となっています。令和8年8月31日より適用されます。",
      "summary_status": "ok"
     },
@@ -2075,7 +2091,7 @@
      "url": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "医師、医学生、歯科医師、歯학생を対象とした厚生労働省の医系技官採用に関する令和8年度後期半日見学会の受付開始、および令和8年度後期試験の実施が公表された。詳細の確認が必要。",
      "summary_status": "ok"
     },
@@ -2084,7 +2100,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75704.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が開催した第68回厚生科学審議会疾病対策部会指定難病検討委員会の配布資料ページです。指定難病に係る新規の疾病追加（令和10年度適用分）の検討、診断基準及び重症度分類等の一部改正案に関する意見募集結果とアップデートの検討、および告示病名の変更に関する情報提供等について掲載されています。",
      "summary_status": "ok"
     },
@@ -2093,7 +2109,7 @@
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-kagakubussitusinsasenmonin.html",
      "date": "2026-08-31",
      "first_seen": "2026-08-31",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省医薬局が薬剤師資格や化学等の専攻・実務経験者等を対象に、化審法に基づく化学物質の安全性評価業務を行う期間業務職員（化学物質審査専門員）を1名募集する文書。応募書類の郵送期限は令和8年9月28日必着、任期は令和8年11月1日から令和9年3月31日まで。",
      "summary_status": "ok"
     },
@@ -2102,7 +2118,7 @@
      "url": "https://www.mhlw.go.jp/topics/medias/year/25/gaiyou.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が公表した、医療保険・調剤業務の担当者や研究者等に向けた令和7年度の調剤医療費（電算処理分）の動向調査に関する集計結果や分析データなどの公表資料です。制度の変更や義務付けを行う文書ではなく、令和7年度の調剤医療費の動向、市町村別の後発医薬品割合、処方せん発行元別・制度別の分析表などの各種データファイルが提供されています。提示された本文から適用開始等の時期は読み取れません。",
      "summary_status": "ok"
     },
@@ -2111,7 +2127,7 @@
      "url": "https://www.mhlw.go.jp/topics/medias/year/25/shika_iryou_doukou_r07.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "この文書は、厚生労働省（医療保険分野）の政策に関心のある実務者等に向けた、令和7年度版の歯科医療費（電算処理分）の動向調査に関する集計結果（Excel・PDFデータ）です。ウェブページ上にはデータファイルが掲載されているのみで、制度や運用の変更点、および実施時期といった具体的な変更内容については読み取れません。",
      "summary_status": "ok"
     },
@@ -2120,7 +2136,7 @@
      "url": "https://www.mhlw.go.jp/topics/medias/year/25/index.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省保険局調査課が公表した、令和７年度の医療費の動向調査の結果概要に関する文書です。本ページには具体的に何が変わるかや対象者、適用時期の記載はなく、令和７年度における医療費の動向（MEDIAS）や概要資料のPDFファイルがダウンロードできるよう掲載されています。関係者は添付資料から詳細な状況を確認できます。",
      "summary_status": "ok"
     },
@@ -2129,7 +2145,7 @@
      "url": "https://www.mhlw.go.jp/topics/medias/c-med/2026/03/",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省保険局調査課が公表した、令和7年度3月号の最近の調剤医療費（電算処理分）の動向調査に関する集計結果文書です。ページ内には制度の変更点や具体的な施行時期についての記載はなく、概要や用語の解説、集計結果のデータ（xlsx形式およびPDF形式）をダウンロードして確認できる構成となっています。",
      "summary_status": "ok"
     },
@@ -2138,7 +2154,7 @@
      "url": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2026/03/",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が医療保険や歯科医療費の分析を行う実務者等に向けて公表した、令和7年度3月号の最近の歯科医療費（電算処理分）の動向に関する集計結果のPDF文書です。本ページにはファイルが添付されているのみで、具体的な制度や取扱いの変更点、変更の時期といった詳細な本文の内容については記載されていません。",
      "summary_status": "ok"
     },
@@ -2147,7 +2163,7 @@
      "url": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2026/03/",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "本ページは、厚生労働省が公表した令和7年度3月号の「最近の医科医療費（電算処理分）の動向」に関する集計結果のPDFファイルを配布するものです。医療保険データベースの医科医療費動向調査に基づく集計データが掲載されており、関係する実務者が資料を閲覧・ダウンロードするための情報が提供されています。制度変更や具体的な適用時期などの記載はありません。",
      "summary_status": "ok"
     },
@@ -2156,7 +2172,7 @@
      "url": "https://www.mhlw.go.jp/topics/medias/month/26/03.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "本文は厚生労働省による「最近の医療費の動向-MEDIAS-令和7年度3月号」の掲載ページです。主に医療保険業務や医療費の動向調査を担当する実務者に向け、令和7年度3月分の概算医療費および医療保険医療費に関する最新の調査結果データがPDF形式で公開されたことを知らせています。変更点や制度改正等の記載はなく、該当月の医療費動向データのダウンロードが可能となっています。",
      "summary_status": "ok"
     },
@@ -2165,7 +2181,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75788.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が輸入者に対して発出した、トーゴ産ごまの種子を対象とする食品衛生法に基づく検査命令の実施通知です。検疫所のモニタリング検査で基準違反となるカビ毒の総アフラトキシンが検出されたため、令和8年8月28日からトーゴ産ごまの種子の輸入届出ごとに、全ロットに対する総アフラトキシンの検査が義務づけられます。（156字）",
      "summary_status": "ok"
     },
@@ -2174,7 +2190,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/zenpan/ika_iryou_doukou_r07.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省による医療保険関係者や実務者に向けた公表資料です。令和7年度における医科医療費（電算処理分）の動向に関する集計結果や統計データをPDF形式で公開・提供しています。制度の変更点や具体的な適用時期、従来の数値からの変更内容については、提示された本文からは読み取れません。",
      "summary_status": "ok"
     },
@@ -2183,7 +2199,7 @@
      "url": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/06.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が国民や関係者に向けて公表した、令和8年6月分の人口動態統計速報に関する文書です。市区町村が作成した各種届出書等の調査票枚数に基づき、日本人および外国人等の出生、死亡、婚姻、離婚、死産の集計結果（令和8年8月28日公表）を示しています。規則や制度の変更を伝えるものではなく、当月分および過去1年間の動向を示す印刷用資料や図表データ、e-Statへのリンク等が掲載されています。",
      "summary_status": "ok"
     },
@@ -2192,7 +2208,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75864.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "文部科学省、厚生労働省、経済産業省は、人を対象とする生命科学・医学系研究を行う研究者等に向け、「人を対象とする生命科学・医学系研究に関する倫理指針」を一部改正しました。本改正は令和8年8月27日付で告示され、令和8年12月1日から適用されます。実務者は、改正後の指針本文や関連資料が厚生労働省のホームページに掲載されているため、詳細を確認する必要があります。",
      "summary_status": "ok"
     },
@@ -2201,7 +2217,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75846.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が報道関係者等に向け、令和7年度の輸入食品監視指導結果と統計を公表した文書です。令和7年度の輸入届出件数は約253万件で、実施した検査のうち791件を法違反として廃棄等の措置を講じました。また、モニタリング検査は計画に対し延べ10万件以上実施し、128件を法違反として回収等を行いました。本結果に基づき、違反の可能性が高い輸出国政府へ原因究明や再発防止策の確立を要請しています。",
      "summary_status": "ok"
     },
@@ -2210,7 +2226,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75817.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省年金局が、2026年9月4日に開催する「国民年金第3号被保険者制度等に関する検討会」の第1回会合に関する案内です。本検討会は、第3号被保険者制度の現状や実態調査について議論を行うものです。初回は座長の選出や現状把握が主な議題となります。年金制度の企画・立案や実態調査の運用に携わる担当者に関連する内容です。具体的な制度変更の決定ではなく、今後の検討に向けた現状分析から開始されます。",
      "summary_status": "ok"
     },
@@ -2219,7 +2235,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75727.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省による「令和８年度第５回化学物質管理に係る専門家検討会」開催の案内です。濃度基準値の検討や測定方法等を議題とし、令和8年9月4日14〜17時にオンライン併用で開催されます。傍聴登録の締め切りは9月2日12時までで、専用フォームからの事前申込が必要です。対象は化学物質管理に関心のある実務者や報道機関等で、定員は50名程度（多数時抽選）。資料は9月3日までに公開予定です。（196字）",
      "summary_status": "ok"
     },
@@ -2228,7 +2244,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75721.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が報道関係者等へ向け、令和8年度「地域雇用活性化推進事業」の採択地域8自治体（釧路市、北見市、ちちぶ地域、江津市、津山市、西予市、天草地域、奄美大島地域）の決定を公表した文書。本事業は雇用機会不足地域等の魅力ある雇用・人材維持等の取組を支援するもので、採択地域は計画に基づき令和8年10月から令和11年3月まで事業を実施する。各計画の詳細は添付資料等で確認できる。",
      "summary_status": "ok"
     },
@@ -2237,7 +2253,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75701.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、令和8年9月1日に開催する第68回指定難病検討委員会の案内です。議題は、令和10年度適用分の指定難病に係る新規疾病の個別検討やパブリックコメントの結果、告示病名の変更等です。会議はYouTubeでライブ配信され、会場での傍聴はありません。資料や配信URLは開催日前日までに同省ホームページに掲載予定です。難病対策や指定難病の追加・変更業務に携わる担当者に関連する内容です。",
      "summary_status": "ok"
     },
@@ -2246,7 +2262,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75607.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省労働基準局が、報道機関や関係者に対し、2026年9月4日に開催される「第37回特定石綿被害建設業務労働者等認定審査会専門委員会」を案内する文書です。会議では建設石綿給付金の請求事案の審査が行われます。会議は非公開ですが、冒頭のカメラ撮影（頭撮り）を希望する報道機関は、9月2日17時までに電子メールでの連絡が必要です。開催場所は東京都港区のビジョンセンター田町です。",
      "summary_status": "ok"
     },
@@ -2255,7 +2271,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75342.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省は、2026年9月4日に「第32回キャリアコンサルタント登録制度等に関する検討会」を開催します。議題は、同制度のあり方に係る専門事項の検討です。傍聴や冒頭のカメラ取材を希望する報道関係者等は、9月2日17時までに電子メールでの事前申し込みが必要です。当日の資料は同省ウェブサイトに掲載されます。会場には無線LANがないため、各自で通信環境や端末を用意する必要があります。",
      "summary_status": "ok"
     },
@@ -2264,7 +2280,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000128082_00003.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "社会保障審議会年金数理部会の関係者を対象に、年金数理部会の役割に関する資料および「2024年度の公的年金財政状況について」のPDF資料を追加・公表したものである。（102文字）",
      "summary_status": "ok"
     },
@@ -2273,7 +2289,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が公表した、2026年の新型コロナウイルス感染症（COVID-19）に関する発生状況の報道発表資料一覧ページ。各都道府県別の定点報告数の推移や、2026年1月13日から同年8月28日までの各日付における発生状況のPDF資料が掲載されている。",
      "summary_status": "ok"
     },
@@ -2282,7 +2298,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00023.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が国民や自治体、医療関係者等に向けて、2025/2026シーズンのインフルエンザ発生状況を公表した文書です。2025年9月12日から2026年8月28日にかけて、定点報告数に基づく全国および都道府県別の流行状況が順次更新・公表されています。直近では2026年8月28日に最新の発生状況が追加されました。感染症対策や流行予測を行う実務者は、最新の報告数を確認し対応を判断する必要があります。",
      "summary_status": "ok"
     },
@@ -2291,7 +2307,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、インフルエンザおよび新型コロナウイルス感染症の定点当たり報告数の推移を更新した。2025年第15週（4月7日〜13日）以降の数値については、急性呼吸器感染症サーベイランス開始に伴う定点医療機関設置基準の変更により定点数が変わるため、データの解釈に留意が必要となる。感染症対策の担当者等は、2023年第19週以降の最新の流行状況を確認し、今後の動向把握に活用することが求められる。",
      "summary_status": "ok"
     },
@@ -2300,7 +2316,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、インフルエンザの発生状況を注視する実務者や報道関係者等に向け、最新の流行状況を公表した文書です。9月から4月にかけて、毎週金曜日14時に定期的な報道発表が行われます。本ページでは、2024/2025シーズンを含む過去の発生状況や、流行入り・ピーク時期、報告数の推移等のサーベイランス情報が更新されており、最新の感染症発生動向調査を確認することが可能です。",
      "summary_status": "ok"
     },
@@ -2309,7 +2325,7 @@
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-ninki-seisakutoukatukan_ikuzi.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が求職者に対し、育児休業代替の任期付職員（非常勤職員）募集を知らせる文書。一般行政事務（人口動態調査の受付・審査等）を行う者1名を募集。勤務地は霞が関。採用条件は積極性やPC操作が可能であること等。任用期間は令和8年10月5日〜令和9年8月7日。給与は経歴等により決定（参考初任給23万2千円）。希望者は履歴書を令和8年9月11日必着で郵送して応募する。（187字）",
      "summary_status": "ok"
     },
@@ -2318,7 +2334,7 @@
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kokusaikakokusaihokenkyouryokusitsusyusa.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、大臣官房国際課国際保健・協力室の主査（任期付職員）1名を募集する文書です。国際保健分野の国際機関との会合や二国間協力、政策立案等の業務を担います。応募資格は大学卒以上で、関連分野の実務・研究経験が通算4年以上あること等が条件です。雇用期間は令和8年11月1日から1年間（更新の可能性あり）で、応募期間は令和8年8月28日から9月16日必着です。書類選考と面接により決定されます。",
      "summary_status": "ok"
     },
@@ -2327,7 +2343,7 @@
      "url": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/kanrieiyoushi/about.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "管理栄養士国家試験の受験者や養成施設等に向けた、第41回試験の実施に関する文書です。\n\n令和9年2月28日（日）に北海道や東京など9試験地で試験が実施されます。受験願書等は令和8年8月下旬から配布予定で、受付期間は令和8年11月2日（月）から12月4日（金）までです。受験資格に応じた提出書類や入手方法、受験手数料（6,800円）、障害等に伴う受験上の配慮申請（12月4日締切）などが定められています。",
      "summary_status": "ok"
     },
@@ -2336,7 +2352,7 @@
      "url": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、薬剤師国家試験の受験者や関係者に向けて試験日程等を公表したものです。令和9年（2027年）の薬剤師国家試験は2月20日・21日に実施され、合格発表は同年3月25日に行われます。あわせて医師、看護師、社会福祉士など各医療・福祉関連の国家試験の日程も一覧で掲載されており、実務者は担当職種の試験日や合格発表日、問い合わせ先を確認できます。",
      "summary_status": "ok"
     },
@@ -2345,7 +2361,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089299.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省による管理栄養士・栄養士の国家試験、免許申請、養成施設に関する情報をまとめたページです。主な対象は受験者、免許申請者、養成施設関係者です。内容は第41回国家試験の施行・実施（願書等）や第40回の試験問題・正答、免許申請の手続き、養成施設の定員数等について掲載されています。第41回試験の具体的な日程は明記されていませんが、試験の実施やガイドライン改定、免許交付に関する最新情報が更新されます。",
      "summary_status": "ok"
     },
@@ -2354,7 +2370,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、ハローワークにおける令和8年7月の求人・求職・就職状況をまとめた文書。有効求人倍率は1.18倍で前月と同水準、新規求人倍率は2.10倍で前月比0.06ポイント低下となった。令和8年8月28日に公表された統計情報であり、制度の変更や実務上の新たな義務等を課すものではない。",
      "summary_status": "ok"
     },
@@ -2448,17 +2464,10 @@
      "date": "2026-08-25",
      "first_seen": "2026-08-27",
      "is_new": false
-    },
-    {
-     "title": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75767.html",
-     "date": "2026-08-25",
-     "first_seen": "2026-08-25",
-     "is_new": false
     }
    ]
   }
  ],
  "errors": [],
- "summary_model": "gemini-3.6-flash"
+ "summary_model": ""
 }

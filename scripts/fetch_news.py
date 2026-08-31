@@ -250,14 +250,31 @@ def wareki_to_iso(text):
         return None
 
 
+# RFC822のタイムゾーン略称。Python の %Z は UTC / GMT と実行環境のローカル名
+# しか解釈できず、"JST" を渡すと解析に失敗する。金融庁とSESCのフィードが
+# JST 表記のため、そのままでは日付が全て None になっていた。
+TZ_ABBR = {
+    "JST": "+0900", "UTC": "+0000", "GMT": "+0000", "UT": "+0000",
+    "EST": "-0500", "EDT": "-0400", "CST": "-0600", "CDT": "-0500",
+    "MST": "-0700", "MDT": "-0600", "PST": "-0800", "PDT": "-0700",
+}
+
+
 def parse_rfc822(text):
     """RSSのpubDate(RFC822等)やISO日付をISO形式に変換。失敗したら None。"""
     if not text:
         return None
     text = text.strip()
+
+    # 末尾が略称なら数値オフセットに置き換えてから解析する
+    head, _, tail = text.rpartition(" ")
+    if head and tail.upper() in TZ_ABBR:
+        text = head + " " + TZ_ABBR[tail.upper()]
+
     for fmt in (
         "%a, %d %b %Y %H:%M:%S %z",
         "%a, %d %b %Y %H:%M:%S %Z",
+        "%a, %d %b %Y %H:%M:%S",
         "%Y-%m-%dT%H:%M:%S%z",
         "%Y-%m-%dT%H:%M:%S",
         "%Y-%m-%d",
@@ -305,7 +322,15 @@ def fetch_rss(url):
                 }
             )
     if not items:
-        raise ValueError("フィードから項目を取得できませんでした")
+        # 構造は正しいのに項目が無いことがある（SESCのその他広報など、
+        # 単に配信が空の期間）。解析できないのとは別物なので失敗にしない。
+        looks_like_feed = (
+            root.tag.endswith("rss")
+            or root.tag.endswith("RDF")
+            or any(x.tag.endswith("channel") for x in root.iter())
+        )
+        if not looks_like_feed:
+            raise ValueError("フィードを解析できませんでした")
     return items
 
 
@@ -476,6 +501,13 @@ def main():
         for it in merged:
             key = item_key(it)
             first_seen = seen.get(key)
+            if first_seen is None and it["date"]:
+                # 以前は日付が取れず "URL|" で記録されていた項目がある。
+                # 日付解析を直した結果キーが変わるので、旧キーを引き継いで
+                # 既読のものが一斉に新着へ戻るのを防ぐ。
+                first_seen = seen.pop(it["url"] + "|", None)
+                if first_seen is not None:
+                    seen[key] = first_seen
             if first_seen is None:
                 seen[key] = TODAY
                 first_seen = TODAY

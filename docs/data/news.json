@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02 05:31",
+ "generated_at": "2026-09-02 06:10",
  "generated_date": "2026-09-02",
  "previous_generated_at": "2026-09-01 07:17",
  "new_since": "2026-09-01",
@@ -1414,6 +1414,24 @@
    "errors": [],
    "items": [
     {
+     "title": "物価高の局面におけるカルテルに対する公正取引委員会の取組について",
+     "url": "https://www.jftc.go.jp/dk/shisaku/karuteru.html",
+     "date": "2026-09-01",
+     "first_seen": "2026-09-02",
+     "is_new": true,
+     "summary": "公正取引委員会が事業者に対し、物価高の局面でのカルテルへの厳正対処方針を示した文書。原材料費等の上昇分を価格に転嫁する際、事業者間で価格や値上げ時期を申し合わせる行為は独占禁止法違反の価格カルテルとなるため、独立して価格決定を行うよう注意を促している。疑いのある行為は速やかに取りやめて同委員会に報告することや、事業活動の事前相談を受け付けている旨を案内している。適用開始時期等の記載はない。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "島根県浜田市における有識者との懇談会の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260901_chugoku_miniminikon.html",
+     "date": "2026-09-01",
+     "first_seen": "2026-09-02",
+     "is_new": true,
+     "summary": "公正取引委員会中国支所が浜田商工会議所の役員等に向け、令和8年9月8日12時20分から同会議所で有識者との懇談会を開催する公表文書。公取委の最近の活動状況等の業務説明と意見交換を行う。何かが変わる変更点はない。当日の取材を希望する報道機関は、9月7日15時までに問い合わせ先（082-228-1501）へ連絡が必要で、取材は懇談前後のみとなる。",
+     "summary_status": "ok"
+    },
+    {
      "title": "公正取引委員会の令和9年度概算要求について",
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260831gaiisanyokyu.html",
      "date": "2026-08-31",
@@ -1507,15 +1525,15 @@
      "is_new": false
     },
     {
-     "title": "第233回　独占禁止懇話会の議事概要の公表について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_233dokkinkon.sample.html",
+     "title": "「大規模小売業者と納入業者との取引に関する実態調査」の開始について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_daikibokourichosa.html",
      "date": "2026-07-29",
      "first_seen": "2026-08-27",
      "is_new": false
     },
     {
-     "title": "「大規模小売業者と納入業者との取引に関する実態調査」の開始について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_daikibokourichosa.html",
+     "title": "第233回　独占禁止懇話会の議事概要の公表について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_233dokkinkon.sample.html",
      "date": "2026-07-29",
      "first_seen": "2026-08-27",
      "is_new": false
@@ -1587,13 +1605,6 @@
      "title": "付け　事務総長定例会見記録",
      "url": "https://www.jftc.go.jp/houdou/teirei/2026/260715.html",
      "date": "2026-07-15",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "ミネベアアクセスソリューションズ株式会社に対する勧告について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260710_kyuusyuu_toriteki.html",
-     "date": "2026-07-10",
      "first_seen": "2026-08-27",
      "is_new": false
     },
@@ -2531,5 +2542,5 @@
   }
  ],
  "errors": [],
- "summary_model": ""
+ "summary_model": "gemini-3.6-flash"
 }

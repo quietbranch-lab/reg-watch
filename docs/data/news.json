@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04 05:31",
+ "generated_at": "2026-09-04 06:49",
  "generated_date": "2026-09-04",
  "previous_generated_at": "2026-09-03 07:22",
  "new_since": "2026-09-03",
@@ -706,6 +706,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "採用,任期付職員の募集について（金融実務経験者：国際関連業務、市場監視に関する海外当局との連携及び国際的な取引に関する情報収集・分析等）",
+     "url": "https://www.fsa.go.jp/sesc/jobs/20260902_01.html",
+     "date": "2026-09-02",
+     "first_seen": "2026-09-03",
+     "is_new": false,
+     "summary": "金融関連業務の実務経験や専門知識、高い英語力を有する人を対象とした、証券取引等監視委員会事務局での任期付職員（常勤の国家公務員）の募集文書です。採用者は、証券分野における国際機関や外国当局との連携・協議、国際会議への参画等の国際関連業務に従事します。雇用期間は採用時から原則2年程度（勤務開始日は相談の上決定）で、応募締切は当面の間（募集人員に達し次第終了）となっています。",
+     "summary_status": "ok"
+    },
     {
      "title": "証券検査,「令和８事務年度　証券モニタリング基本方針」について",
      "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260731-2.html",
@@ -1497,6 +1506,42 @@
    "errors": [],
    "items": [
     {
+     "title": "株式会社ニチリンに対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260903_kinki_toriteki.html",
+     "date": "2026-09-03",
+     "first_seen": "2026-09-04",
+     "is_new": true,
+     "summary": "公正取引委員会が令和8年9月3日に株式会社ニチリンへ出した勧告です。同社は下請事業者25名に対し、長期間発注しない本件製品の金型等の保管費用を負担させ、改正前下請法に違反しました。勧告により、同社は保管費用相当額のうち未払い分を公取委の確認を得た上で速やかに支払うこと等が求められています。下請取引における不当な経済上の利益の提供要請（金型等の無償保管等）の取り締まりに関する情報です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "約束手形の利用廃止を踏まえたサプライチェーン全体での支払の適正化について",
+     "url": "https://www.jftc.go.jp/yakusokutegata_yousei.html",
+     "date": "2026-09-02",
+     "first_seen": "2026-09-04",
+     "is_new": true,
+     "summary": "公正取引委員会と中小企業庁が、各事業者団体および金融機関等に向け、支払適正化等を要請した文書です。取適法施行（令和8年1月1日）により手形支払等が禁止されるほか、独占禁止法上の支払告示施行（令和9年4月1日）により、対象外取引も含め給付受領等から60日以内の支払が義務付けられます。手形交換所の廃止に伴い多くの金融機関が設定する令和8年9月30日の振出期限に向け、電子的決済への移行等が求められます。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "日本郵便株式会社に対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260902_japanpost.html",
+     "date": "2026-09-02",
+     "first_seen": "2026-09-04",
+     "is_new": true,
+     "summary": "公正取引委員会が日本郵便株式会社に対し、フリーランス・事業者間取引適正化等法に基づき、令和8年9月2日に行った勧告です。同社が業務委託した特定受託事業者に対し取引条件の明示をしなかったことや、報酬の支払期日を定めず役務提供日までに支払わなかった違反事実を指摘しています。勧告では、今後の業務委託において直ちに取引条件を書面等で明示することや、定められた期日までに報酬を支払うこと等を求めました。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "北海道旭川市における有識者との懇談会の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260902_hokkaido_asahikawa_minimini.html",
+     "date": "2026-09-02",
+     "first_seen": "2026-09-04",
+     "is_new": true,
+     "summary": "公正取引委員会事務総局北海道事務所が、旭川商工会議所の役員等に向け発表した文書です。令和８年９月９日（水）に旭川商工会議所で非公開の懇談会を開催します。公正取引委員会の最近の活動状況等の業務説明を行い、公正取引委員会に対する意見・要望等の懇談を実施します。制度変更等の記述はありません。取材は不可で、問い合わせは同事務所総務課が対応します。",
+     "summary_status": "ok"
+    },
+    {
      "title": "物価高の局面におけるカルテルに対する公正取引委員会の取組について",
      "url": "https://www.jftc.go.jp/dk/shisaku/karuteru.html",
      "date": "2026-09-01",
@@ -1608,15 +1653,15 @@
      "is_new": false
     },
     {
-     "title": "「大規模小売業者と納入業者との取引に関する実態調査」の開始について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_daikibokourichosa.html",
+     "title": "第233回　独占禁止懇話会の議事概要の公表について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_233dokkinkon.sample.html",
      "date": "2026-07-29",
      "first_seen": "2026-08-27",
      "is_new": false
     },
     {
-     "title": "第233回　独占禁止懇話会の議事概要の公表について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_233dokkinkon.sample.html",
+     "title": "「大規模小売業者と納入業者との取引に関する実態調査」の開始について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_daikibokourichosa.html",
      "date": "2026-07-29",
      "first_seen": "2026-08-27",
      "is_new": false
@@ -1660,27 +1705,6 @@
      "title": "ＨＯＹＡ株式会社に対する勧告について",
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260721_hoya.html",
      "date": "2026-07-21",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "「企業結合審査に関する独占禁止法の運用指針」改定案に対する意見募集について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260717kiketsu.html",
-     "date": "2026-07-17",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "ダイヤモンド電機株式会社に対する勧告について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260717_chugoku_toriteki.html",
-     "date": "2026-07-17",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "天龍工業株式会社に対する勧告について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260716_chubu_toriteki_tenryu.html",
-     "date": "2026-07-16",
      "first_seen": "2026-08-27",
      "is_new": false
     },
@@ -2635,5 +2659,5 @@
   }
  ],
  "errors": [],
- "summary_model": ""
+ "summary_model": "gemini-3.6-flash"
 }

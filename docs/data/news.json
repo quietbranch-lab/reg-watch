@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-05 09:11",
- "generated_date": "2026-09-05",
- "previous_generated_at": "2026-09-04 07:22",
+ "generated_at": "2026-09-06 03:47",
+ "generated_date": "2026-09-06",
+ "previous_generated_at": "2026-09-05 09:11",
  "new_since": "2026-09-04",
  "agencies": [
   {
@@ -707,6 +707,13 @@
    "errors": [],
    "items": [
     {
+     "title": "その他,取引審査の実施状況及び情報受付状況を更新しました（７月末）",
+     "url": "https://www.fsa.go.jp/sesc/actions/shinsa.html",
+     "date": "2026-09-04",
+     "first_seen": "2026-08-25",
+     "is_new": false
+    },
+    {
      "title": "採用,任期付職員の募集について（金融実務経験者：国際関連業務、市場監視に関する海外当局との連携及び国際的な取引に関する情報収集・分析等）",
      "url": "https://www.fsa.go.jp/sesc/jobs/20260902_01.html",
      "date": "2026-09-02",
@@ -1165,34 +1172,6 @@
      "title": "金融政策決定会合議事要旨（6月15、16日開催分）",
      "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260616.pdf",
      "date": "2026-08-05",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "日本銀行が保有する国債の銘柄別残高",
-     "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260731.xlsx",
-     "date": "2026-08-04",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "日本銀行が受入れている担保の残高（7月末）",
-     "url": "http://www.boj.or.jp/statistics/boj/other/col/col2607.xlsx",
-     "date": "2026-08-04",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "（日銀レビュー）日本銀行による国債買入れ減額の国債市場への影響",
-     "url": "http://www.boj.or.jp/research/wps_rev/rev_2026/rev26j11.htm",
-     "date": "2026-08-04",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "営業毎旬報告（7月31日現在）",
-     "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260731.htm",
-     "date": "2026-08-04",
      "first_seen": "2026-08-25",
      "is_new": false
     }
@@ -2642,5 +2621,5 @@
   }
  ],
  "errors": [],
- "summary_model": "gemini-3.6-flash"
+ "summary_model": ""
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05 07:21",
+ "generated_at": "2026-09-05 09:11",
  "generated_date": "2026-09-05",
  "previous_generated_at": "2026-09-04 07:22",
  "new_since": "2026-09-04",
@@ -1523,6 +1523,15 @@
      "summary_status": "ok"
     },
     {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260902.html",
+     "date": "2026-09-02",
+     "first_seen": "2026-09-05",
+     "is_new": true,
+     "summary": "事業者に対し、公正取引委員会事務総長が物価高の局面における価格カルテル防止を注意喚起する会見記録です。原材料費等の高騰に伴う値上げの動きが強まる中、事業者間で価格や値上げ時期を申し合わせるカルテル行為は独占禁止法違反となるため、自主判断による価格設定の徹底と違反の疑いがある場合の速やかな自主報告を求めています。同委員会は9月から10月にかけ、SNS等で順次メッセージを発信し抑止を図ります。",
+     "summary_status": "ok"
+    },
+    {
      "title": "物価高の局面におけるカルテルに対する公正取引委員会の取組について",
      "url": "https://www.jftc.go.jp/dk/shisaku/karuteru.html",
      "date": "2026-09-01",
@@ -1749,13 +1758,6 @@
      "title": "付け　事務総長定例会見記録",
      "url": "https://www.jftc.go.jp/houdou/teirei/2026/260520.html",
      "date": "2026-05-20",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "付け　事務総長定例会見記録",
-     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260513.html",
-     "date": "2026-05-13",
      "first_seen": "2026-08-27",
      "is_new": false
     }
@@ -2640,5 +2642,5 @@
   }
  ],
  "errors": [],
- "summary_model": ""
+ "summary_model": "gemini-3.6-flash"
 }

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-06 07:21",
- "generated_date": "2026-09-06",
- "previous_generated_at": "2026-09-05 09:11",
+ "generated_at": "2026-09-07 03:44",
+ "generated_date": "2026-09-07",
+ "previous_generated_at": "2026-09-06 07:21",
  "new_since": "2026-09-04",
  "agencies": [
   {
@@ -1158,20 +1158,6 @@
      "title": "金融システムレポート別冊「金融機関における生成AIの利用状況とリスク管理」",
      "url": "http://www.boj.or.jp/research/brp/fsr/fsrb260806.htm",
      "date": "2026-08-06",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "日銀当座預金増減要因（8月見込み）",
-     "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2608.xlsx",
-     "date": "2026-08-05",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "金融政策決定会合議事要旨（6月15、16日開催分）",
-     "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260616.pdf",
-     "date": "2026-08-05",
      "first_seen": "2026-08-25",
      "is_new": false
     }

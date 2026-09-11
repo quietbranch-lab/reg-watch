@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12 03:47",
+ "generated_at": "2026-09-12 05:32",
  "generated_date": "2026-09-12",
  "previous_generated_at": "2026-09-11 07:21",
  "new_since": "2026-09-11",
@@ -13,6 +13,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
+     "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html",
+     "date": "2026-09-11",
+     "first_seen": "2026-09-12",
+     "is_new": true,
+     "summary": "金融庁が、令和8年熊本地震の被災者や事業者、金融機関等に向けて公表した関連情報の特設ページです。7月29日の相談ダイヤル開設や金融上の措置要請を皮切りに、8月6日には被災者の口座開設時の本人確認の特例や200万円以下の義援金送金時の取引時確認免除、9月11日には金融機関等の報告提出期限の特例措置などが順次適用・実施されます。住宅ローン免除や保険契約照会、資金繰り支援等の情報も掲載されています。",
+     "summary_status": "ok"
+    },
     {
      "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
      "url": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
@@ -29,15 +38,6 @@
      "first_seen": "2026-09-12",
      "is_new": true,
      "summary": "金融庁が保険会社向けに公表した「保険会社向けの総合的な監督指針」の一部改正（案）に関する文書です。有識者会議等の報告書を踏まえ、企業内代理店に関する規制の再構築、独占禁止法遵守態勢の構築、企業向け損害保険商品のモニタリングの高度化等に向けた改正を行うものです。本パブリックコメント（令和8年10月13日締切）の終了後、所要の手続を経て適用が開始される予定です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
-     "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html",
-     "date": "2026-09-11",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "金融庁が、令和8年熊本地震の被災者や事業者、金融機関等に向けて公表した関連情報の特設ページです。7月29日の相談ダイヤル開設や金融上の措置要請を皮切りに、8月6日には被災者の口座開設時の本人確認の特例や200万円以下の義援金送金時の取引時確認免除、9月11日には金融機関等の報告提出期限の特例措置などが順次適用・実施されます。住宅ローン免除や保険契約照会、資金繰り支援等の情報も掲載されています。",
      "summary_status": "ok"
     },
     {
@@ -769,483 +769,485 @@
    "items": [
     {
      "title": "日本銀行政策委員会月報（令和8年7月号）",
-     "url": "https://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2607.htm",
+     "url": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2607.htm",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
      "is_new": true,
-     "summary": "日本銀行が公表した、令和8年7月の政策委員会月報です。7月30・31日開催の金融政策決定会合において、金融市場調節方針や「当面の金融政策運営について」の公表、2027年の会合開催予定日等が議決されました。また、通常会合において議長職務代理者の決定や委員の選任等が議決されたほか、2025年度下期の検査結果や金融機関の業務運営動向とリスクの状況に関する定例報告などが報告されました。",
+     "summary": "日本銀行が公表した、令和8年7月の政策委員会における議決・報告事項をまとめた月報です。7月30・31日開催の金融政策決定会合において、金融市場調節方針や「当面の金融政策運営について」、「経済・物価情勢の展望（2026年7月）」の基本的見解、2027年の会合開催予定日などが決定されました。また、通常会合での役職決定や、2025年度下期の検査結果、金融機関の業務運営動向等の報告事項が掲載されています。",
      "summary_status": "ok"
     },
     {
      "title": "BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集: FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存: 課題およびリスク』に関するディスカッション・ペーパー」の公表について",
-     "url": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss260911a.htm",
+     "url": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss260911a.htm",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
      "is_new": true,
-     "summary": "日本銀行は、CPMIとIOSCOが2026年9月8日に公表した、金融市場インフラ（FMI）のサイバーレジリエンス実用ツール集およびサードパーティ業者への依存に関する課題とリスクのディスカッション・ペーパーという2件の市中協議文書を紹介しています。FMI関係者等を対象に、これら実務的考慮事項や課題等の内容が示されており、本文書に対するコメントを2026年12月1日までに英文で提出するよう求めています。",
+     "summary": "日本銀行は、金融市場インフラ（FMI）を対象としたCPMI及びIOSCOによる2件の市中協議文書を公表しました。内容は、サイバーレジリエンス向上のための実務的ツール集と、サードパーティ業者への依存に伴う課題・リスクに関する検討です。本文書は既存の指針を補完・具体化するもので、実務上の考慮事項が示されています。これらに対する意見募集（コメント）の締め切りは2026年12月1日までとなっています。",
      "summary_status": "ok"
     },
     {
      "title": "【記者会見】増審議委員（福井、9月10日分）",
-     "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260911a.pdf",
+     "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260911a.pdf",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
      "is_new": true,
-     "summary": "日本銀行が公表した、2026年9月10日に福井市で開催された増審議委員の記者会見の要約です。福井県内の経済金融情勢や、今後の金融政策（利上げのペースや中立金利へのアプローチなど）に関する質疑応答が収録されています。具体的な制度変更や開始時期の決定は示されておらず、今後の政策決定会合において、為替や物価、経済情勢を慎重に点検・検証しながら議論していく方針が示されています。",
+     "summary": "日本銀行の増審議委員による福井市での記者会見（2026年9月10日開催）の議事録。福井県内の経済情勢や金融政策、利上げ方針、物価・金利動向などに関する質疑応答が記載されており、制度の変更や新しい手続きの開始を告げる文書ではない。",
      "summary_status": "ok"
     },
     {
      "title": "企業物価指数（8月）",
-     "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
+     "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
      "is_new": true,
-     "summary": "日本銀行は9月11日、2026年8月の企業物価指数速報を公表しました。国内企業物価指数は前月比0.2％下落（前年比7.6％上昇）で、電力・都市ガスや石油製品、農林水産物が下落に寄与しました。輸出物価指数（円ベース）は前月比0.7％下落、輸入物価指数（同）は3.0％下落しました。輸入物価では石油・石炭・天然ガスが大きく下落しています。次回の速報公表は10月13日の予定です。",
+     "summary": "日本銀行は2026年9月11日、2026年8月の企業物価指数（速報）を公表した。国内企業物価指数は前月比▲0.2％（前年比＋7.6％）、輸出物価指数は円ベースで同▲0.7％（前年比＋17.9％）、輸入物価指数は円ベースで同▲3.0％（前年比＋24.8％）となった。次回公表日は2026年10月13日。",
      "summary_status": "ok"
     },
     {
      "title": "フェイルの発生状況（8月）",
-     "url": "https://www.boj.or.jp/statistics/set/bffail/sjgb2608.pdf",
+     "url": "http://www.boj.or.jp/statistics/set/bffail/sjgb2608.pdf",
      "date": "2026-09-10",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行金融市場局が、国債決済の直接参加者である金融機関等（244先）に対し、2026年8月における国債決済の不処理（フェイル）の発生状況を公表した文書です。8月のフェイル発生件数は429件、額面総額は1兆6,593億円で、前月より増加しました。平均フェイル期間は1.43営業日、最長期間は15営業日であり、バイ・インの実施はありませんでした。実務者は自社の決済状況との比較参照が可能です。",
+     "first_seen": "2026-09-11",
+     "is_new": false,
+     "summary": "日本銀行金融市場局が2026年9月10日に公表した、日銀ネット国債DVPシステムを利用する金融機関等（2026年7月末時点で244先）を対象とする文書です。2026年8月における国債決済の不処理（フェイル）の発生状況（合計件数429件、額面総額16,593億円、平均期間1.43営業日、最長期間15営業日、バイ・イン件数0件）および国債DVP決済の合計件数と額面総額の実績が公表されました。",
      "summary_status": "ok"
     },
     {
      "title": "「日銀夏休み親子見学会2026」を開催しました（8月20日＜木＞～25日＜火＞）",
-     "url": "https://www.boj.or.jp/about/pr_events/hontenkoho/hon260910.htm",
+     "url": "http://www.boj.or.jp/about/pr_events/hontenkoho/hon260910.htm",
      "date": "2026-09-10",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が小学校4年生から中学生とその保護者を対象に、2026年8月20日から25日に開催した「日銀夏休み親子見学会2026」の実施報告文書です。本館の来館見学やオンライン見学を通じて、日本銀行の仕事やお金、偽造防止技術について体験学習が行われました。次回は春休み期間中に開催予定であり、通常の本館見学は常時予約を受け付けています。",
+     "first_seen": "2026-09-11",
+     "is_new": false,
+     "summary": "日本銀行が、小学4年生から中学生の子どもと保護者を対象に、2026年8月20日から25日に開催した「日銀夏休み親子見学会2026」の実施報告文書です。本イベントでは、重要文化財である本館の来館見学や、お札の偽造防止技術の解説、お札の数え方体験のほか、オンラインでのバーチャルツアー等が実施されました。参加者からは好評の声が寄せられ、次回は春休み期間中に開催予定であることが示されています。（199字）",
      "summary_status": "ok"
     },
     {
      "title": "【挨拶】増審議委員「わが国の経済・物価情勢と金融政策」（福井）",
-     "url": "https://www.boj.or.jp/about/press/koen_2026/ko260910a.htm",
+     "url": "http://www.boj.or.jp/about/press/koen_2026/ko260910a.htm",
      "date": "2026-09-10",
-     "first_seen": "2026-09-12",
-     "is_new": true,
+     "first_seen": "2026-09-11",
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
     {
      "title": "デリバティブ取引に関する定例市場報告",
-     "url": "https://www.boj.or.jp/statistics/bis/yoshi/index.htm",
+     "url": "http://www.boj.or.jp/statistics/bis/yoshi/index.htm",
      "date": "2026-09-10",
-     "first_seen": "2026-09-12",
-     "is_new": true,
+     "first_seen": "2026-09-11",
+     "is_new": false,
      "summary": "日本銀行が公表した、デリバティブ取引に関する定例市場報告の日本分集計結果に関する文書です。2026年9月10日に、2026年6月末を公表対象期とする要旨・半期計数および時系列データが公表されました。また、同日付で「デリバティブ取引に関する定例市場報告」に係る計数訂正のお知らせが掲載されています。",
      "summary_status": "ok"
     },
     {
      "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（愛知県）",
-     "url": "https://www.boj.or.jp/about/bcp/fso/fso260909a.pdf",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260909a.pdf",
      "date": "2026-09-09",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "東海財務局と日本銀行名古屋支店は、令和8年9月9日、預貯金取扱金融機関、証券会社、生命保険会社、損害保険会社、少額短期保険業者、電子債権記録機関に対し、令和8年台風第24号等の大雨で災害救助法が適用された愛知県内の被災者等への金融上の措置を講ずるよう要請しました。通帳等の紛失時の払戻し、保険金等の迅速な支払い、保険料払込猶予期間の延長など、状況に応じた弾力的・迅速な対応を求めています。",
+     "first_seen": "2026-09-10",
+     "is_new": false,
+     "summary": "東海財務局と日本銀行名古屋支店は、令和8年9月9日、預貯金取扱金融機関、証券会社、生命保険会社、損害保険会社、少額短期保険業者、電子債権記録機関に対し、令和8年台風第24号等の大雨で災害救助法が適用された愛知県内の被災者等への金融上の措置を適切に講ずるよう要請しました。通帳や印鑑紛失時の払戻し、保険金支払いの迅速化、保険料払込猶予、取引停止処分の配慮など、弾力的・迅速な対応を求めています。",
      "summary_status": "ok"
     },
     {
      "title": "日本銀行やその役職員の関与を装った不審な連絡・勧誘・ウェブサイト・SNSアカウントなどにご注意ください",
-     "url": "https://www.boj.or.jp/about/organization/notice/index.htm",
+     "url": "http://www.boj.or.jp/about/organization/notice/index.htm",
      "date": "2026-09-09",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が、一般利用者や法人等に対し、同行やその役職員を装った不審な連絡や勧誘、偽サイト等への注意を呼びかける文書です。同行が個人情報の聴取や投資勧誘、口座開設を行うことは一切なく、これらは詐欺等の事案であるとしています。2025年8月時点でも役員を装う偽サイト等の発生が確認されており、不審な連絡を受けた際は警察等へ相談するよう求めています。実務上の変更点はありません。",
+     "first_seen": "2026-09-10",
+     "is_new": false,
+     "summary": "日本銀行が一般の個人や法人等に対し、日銀やその役職員の関与を装った不審な連絡や勧誘、偽のウェブサイトやSNSアカウント等に注意を呼びかける文書です。日銀の役職員が金品や口座情報、SNSパスワード等を聞き出したり、投資の勧誘をしたりすることは一切なく、個人等への預金口座開設も行いません。不審な連絡等を受けた場合は、最寄りの警察等へ相談するよう求めています。変更点や開始時期の記載はありません。",
      "summary_status": "ok"
     },
     {
      "title": "マネーストック（8月）",
-     "url": "https://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
+     "url": "http://www.boj.or.jp/statistics/money/ms/ms2608.pdf",
      "date": "2026-09-09",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が、金融機関や経済動向の分析者等に向けて公表した2026年8月のマネーストック統計速報です。M2の前年比伸び率は2.0％、M3は1.2％、広義流動性は4.4％となりました。また、2020年6月以降の計数について、時系列統計データ検索サイト上で訂正が行われたことが示されています。本統計は2026年9月9日に公表されました。",
+     "first_seen": "2026-09-10",
+     "is_new": false,
+     "summary": "日本銀行調査統計局が2026年9月9日に公表した、金融・経済実務者等向けの「マネーストック速報（2026年8月）」です。2026年8月におけるM2、M3、M1、広義流動性などの各通貨指標の平均残高および前年比伸び率（速報値）が示されています。また、2020年6月以降の計数について訂正が行われたことが公表されています。",
      "summary_status": "ok"
     },
     {
      "title": "貸出・預金動向（8月）",
-     "url": "https://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
+     "url": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
      "date": "2026-09-08",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が金融機関や経済動向の担当者向けに公表した、2026年8月の貸出・預金動向の速報です。都銀、地銀、信金等の貸出平均残高は前年比5.4%増、実質預金＋CD平均残高は1.6%増となりました。本資料は、2026年1月および5月の銀行合併に伴う統計上の不連続情報を含む、最新の資金需給状況を報告するものです。2026年9月8日に公表されました。",
+     "first_seen": "2026-09-09",
+     "is_new": false,
+     "summary": "日本銀行金融機構局が2026年9月8日に公表した、金融機関（都銀、地銀、信金等）を対象とする「貸出・預金動向 速報（2026年8月）」です。\n\n2026年8月における各業態の貸出平残および実質預金＋CD平残の前年比伸び率や平残高の速報値が示されています。制度等の変更を伴うものではなく、金融機関の貸出・預金動向に関する統計実績を報告する文書です。",
      "summary_status": "ok"
     },
     {
      "title": "コール市場残高（8月）",
-     "url": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+     "url": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
      "date": "2026-09-07",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が公表した、2024年8月中のコール市場残高に関する統計資料です。\n\n金融機関等の市場参加者を対象に、無担保および有担保コール市場の残高状況（月中平均、月末、最高・最低残高）を報告するものです。本資料は8月実績の集計結果であり、制度変更等を伴うものではありません。市場の実態把握や分析に活用されるデータです。",
+     "first_seen": "2026-09-08",
+     "is_new": false,
+     "summary": "本文を取得できませんでした。",
      "summary_status": "ok"
     },
     {
      "title": "消費活動指数",
-     "url": "https://www.boj.or.jp/research/research_data/cai/index.htm",
+     "url": "http://www.boj.or.jp/research/research_data/cai/index.htm",
      "date": "2026-09-07",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が、マクロの景気判断に関心がある利用者向けに、個人消費の動向を把握するための分析データ「消費活動指数」を公表するものです。各種販売・供給統計を基礎に、名目・実質値や形態別内訳等の系列を毎月第5営業日14時に更新します。2026年4月にはGDP統計の基準改定に伴う見直しが実施されました。商用目的の転載等は調査統計局への相談が必要ですが、短期的な消費活動の分析に活用可能な資料です。",
+     "first_seen": "2026-09-08",
+     "is_new": false,
+     "summary": "日本銀行が金融経済に関心のある利用者向けに、短期的な個人消費を把握するための分析データ「消費活動指数」を公表するページです。本指数は原則毎月第5営業日14時に公表されます。直近では、GDP統計の2020年基準への改定に伴う見直しが2026年4月に実施され、同年4月30日に見直しに関するお知らせが掲載されました。また、2026年9月7日に最新の図表とデータが公表されています。",
      "summary_status": "ok"
     },
     {
      "title": "令和8年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について（鹿児島県）",
-     "url": "https://www.boj.or.jp/about/bcp/fso/fso260907a.pdf",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260907a.pdf",
      "date": "2026-09-07",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "九州財務局と日本銀行は、令和8年台風第24号に伴う災害救助法適用地域の被災者等に対し、適切な金融上の措置を講ずるよう鹿児島県内の金融機関や保険会社等へ要請しました。2026年9月7日付の通知です。主な措置として、通帳・印鑑紛失時の本人確認による払戻し、定期預金の期限前払戻し、保険料払込猶予、融資審査の簡便化や返済猶予、不渡報告への配慮など、被災者の状況に応じた弾力的対応を求めています。",
+     "first_seen": "2026-09-08",
+     "is_new": false,
+     "summary": "九州財務局鹿児島財務事務所と日本銀行鹿児島支店が、預貯金取扱金融機関、証券会社、生命保険会社、損害保険会社、少額短期保険業者、電子債権記録機関に対し、令和8年9月7日に発した要請文書。令和8年台風第24号及び前線による大雨で災害救助法が適用された鹿児島県内の被災者等に対し、通帳等紛失時の本人確認による払戻しや保険料払込猶予など、状況に応じた金融上の措置を適切に講ずるよう求めています。",
      "summary_status": "ok"
     },
     {
      "title": "マネタリーベースと日本銀行の取引（8月）",
-     "url": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2608.pdf",
      "date": "2026-09-07",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が金融市場関係者等に向けて公表した、2026年8月末時点のマネタリーベースと日銀の取引実績に関する統計です。長期国債やＥＴＦ等の資産残高（ストック）と、月中の増減額（フロー）が示されています。8月末のマネタリーベースは543兆7,652億円となり、前月から減少しました。実務者は、日銀による国債買入や貸出支援基金等の各オペレーションの実施状況を把握できます。2026年9月7日公表。",
+     "first_seen": "2026-09-08",
+     "is_new": false,
+     "summary": "日本銀行企画局が公表した、金融市場関係者や研究者等に向けた2026年8月分の「マネタリーベースと日本銀行の取引」に関する統計データです。\n\n本公表により、2026年6月から8月における長期国債や共同担保オペなどの残高を示す「ストック表」と、同期間の月中増加・減少額を示す「フロー表」の最新実績値が明らかになります。制度や取引ルールの変更を伴うものではありません。",
      "summary_status": "ok"
     },
     {
      "title": "日本銀行の対政府取引（8月）",
-     "url": "https://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
+     "url": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2608.pdf",
      "date": "2026-09-07",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が公表した、2026年8月における政府との取引実績に関する統計資料です。主な内容は、政府短期証券の引受や国債整理基金・財政融資資金との売買・現先取引等の月末残高（ストック）および月中の増減額（フロー）の報告です。対国債整理基金の長期国債売現先残高が37兆3,738億円となる等の実績が示されています。本資料は2026年9月7日に公表されました。",
+     "first_seen": "2026-09-08",
+     "is_new": false,
+     "summary": "日本銀行企画局が2026年9月7日に公表した、2026年8月における日本銀行の対政府取引実績に関する文書です。政府短期証券や割引短期国債の引受残高、対国債整理基金および対財政融資資金との取引残高（ストック表）や、月中増減額（フロー表）の具体的な統計数値が示されています。実務者が2026年8月時点の取引状況や残高を把握するための情報が掲載されています。",
      "summary_status": "ok"
     },
     {
      "title": "オペレーション（8月）",
-     "url": "https://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
+     "url": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2608.xlsx",
      "date": "2026-09-07",
-     "first_seen": "2026-09-12",
-     "is_new": true,
+     "first_seen": "2026-09-08",
+     "is_new": false,
      "summary": "本文を取得できませんでした。",
      "summary_status": "ok"
     },
     {
      "title": "【記者会見】植田総裁（G20、9月1日分）",
-     "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260904a.pdf",
+     "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260904a.pdf",
      "date": "2026-09-04",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行の植田総裁が、2026年9月1日に米国で開催されたG20財務大臣・中央銀行総裁会議後の記者会見で述べた発言録です。主な内容は、今後の金融政策の運営方針についてです。7月公表の経済・物価見通しに沿ったデータが確認されており、基本的な考え方に変更はないと説明。物価の上振れ・下振れ両方のリスクを点検しつつ、上振れリスクの一つとして為替動向も注視しながら、慎重に政策判断を行う姿勢を示しました。",
+     "first_seen": "2026-09-05",
+     "is_new": false,
+     "summary": "日本銀行が公表した、2026年9月1日に米国で開催されたG20終了後の植田総裁の記者会見の要旨です。\n\n今後の金融政策について、7月会合で示された基本的な考え方に変更はなく、中東情勢、AI関連の動き、為替相場の影響を重視し、経済・物価情勢を点検しながら次回会合を含め議論していくと説明。また、基調的な物価上昇率が2％に近づく中、政策金利を引き続き引き上げつつ緩和度合いを調整していく方針を示しました。",
      "summary_status": "ok"
     },
     {
      "title": "【記者会見】高田審議委員（札幌、9月2日分）",
-     "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260903a.pdf",
+     "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260903a.pdf",
      "date": "2026-09-03",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行の高田審議委員が2026年9月2日の記者会見で、金融政策運営の考え方を説明した文書です。世界的な利上げ局面への移行やAI需要等の環境変化を受け、従来の固定的な頻度や幅に囚われず、機動的に金利調整を行う方針を示しました。今後は特定の利上げ間隔に固執せず、内外の経済・物価情勢を注視しながら、局面の変化に応じて柔軟に対応していくとしています。",
+     "first_seen": "2026-09-04",
+     "is_new": false,
+     "summary": "日本銀行の高田審議委員が2026年9月2日の記者会見で、金融政策の運営方針を説明した。世界的な利上げ局面への移行を受け、利上げの間隔や幅に囚",
      "summary_status": "ok"
     },
     {
      "title": "「市場調節に関する意見交換会」の開催について",
-     "url": "https://www.boj.or.jp/paym/market/mkt260903a.pdf",
+     "url": "http://www.boj.or.jp/paym/market/mkt260903a.pdf",
      "date": "2026-09-03",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行金融市場局は、2026年10月14日に「市場調節に関する意見交換会」を開催します。対象は、日銀本店を売買店・貸付店とするオペレーション対象先の市場部門担当役員や実務責任者です。会合では、最近の金融市場動向や市場調節の運営、国債市場の流動性、短期金融市場サーベイの結果等について意見交換が行われます。対象先向けの詳細な案内は、金融市場オンラインに掲載されています。",
+     "first_seen": "2026-09-04",
+     "is_new": false,
+     "summary": "日本銀行金融市場局が、日本銀行本店を売買店・貸付店とするオペレーション対象先の市場部門担当役員・実務責任者を対象に、2026年10月14日17時30分から日本銀行本店で開催する「市場調節に関する意見交換会」の案内です。会合では、最近の金融市場の動向や市場調節の運営、国債市場の流動性・機能度、わが国短期金融市場の動向（26年8月の東京短期金融市場サーベイ結果）について意見交換が行われます。",
      "summary_status": "ok"
     },
     {
      "title": "日銀当座預金増減要因（9月見込み）",
-     "url": "https://www.boj.or.jp/statistics/boj/fm/juqp/juqp2609.xlsx",
+     "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2609.xlsx",
      "date": "2026-09-03",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が公表した、金融機関や市場関係者向けの「日銀当座預金増減要因」の2024年9月見込みに関する文書です。\n\n2024年9月における、財政等要因や銀行券要因による日銀当座預金の増減予測値が示されています。これにより、市場の資金過不足の状態や、日本銀行による金融調節の指針を把握することが可能です。実務者は、今後の短期金融市場の資金需給や金利動向を予測する判断材料として活用できます。",
+     "first_seen": "2026-09-04",
+     "is_new": false,
+     "summary": "本文を取得できませんでした。",
      "summary_status": "ok"
     },
     {
      "title": "日本銀行が保有する国債の銘柄別残高",
-     "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
      "date": "2026-09-02",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が公表した、日本銀行が保有する国債の銘柄別残高（2024年10月31日時点）に関する文書です。\n\n本文書は、市場参加者や金融実務者に対し、日銀が保有する利付国債（2年、5年、10年、20年、30年、40年）、物価連動債、変動利付債の各銘柄ごとの額面残高を報告するものです。前回公表分からの更新として、最新の保有状況が銘柄別に詳細に示されています。",
+     "first_seen": "2026-09-03",
+     "is_new": false,
+     "summary": "本文を取得できませんでした。",
      "summary_status": "ok"
     },
     {
      "title": "日本銀行が受入れている担保の残高（8月末）",
-     "url": "https://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
+     "url": "http://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
      "date": "2026-09-02",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が、取引先金融機関から受け入れている担保の残高（2024年8月末時点）を公表した文書です。\n\n主な内容は、国債、社債、受入証書などの種類別担保残高の報告です。前月末比で国債等の残高が減少し、総額は約100兆円となっています。\n\n本情報は、日銀の金融調節や担保政策に関わる金融機関の実務担当者を対象としています。制度変更等の告知ではなく、定期的な実績公表です。",
+     "first_seen": "2026-09-03",
+     "is_new": false,
+     "summary": "本文を取得できませんでした。",
      "summary_status": "ok"
     },
     {
      "title": "営業毎旬報告（8月31日現在）",
-     "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260831.htm",
+     "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260831.htm",
      "date": "2026-09-02",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が公表した、令和8年8月31日時点の資産・負債および純資産の状況に関する報告です。金融機関や市場関係者等を対象に、日銀が保有する国債、社債、ETF、REITの残高や、当座預金、発行銀行券の状況、各種資金供給オペレーションによる貸付金の内訳などを開示しています。旬ごとの財務状況を報告するもので、制度変更を伴うものではありません。2026年9月2日に公表されました。",
+     "first_seen": "2026-09-03",
+     "is_new": false,
+     "summary": "日本銀行が公表した、令和8年8月31日現在における同行の資産、負債および純資産の状況を示す「営業毎旬報告」です。金地金や国債、貸付金などの資産合計、発行銀行券や当座預金などの負債・純資産合計が千円単位で報告されています。また、資産項目中の国債の内訳や貸出支援基金の内訳、特定のオペレーションによる貸付金残高なども別表で示されています。制度の変更等に関する記載はありません。",
      "summary_status": "ok"
     },
     {
      "title": "マネタリーベース（8月）",
-     "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
      "date": "2026-09-02",
-     "first_seen": "2026-09-12",
-     "is_new": true,
+     "first_seen": "2026-09-03",
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
     {
      "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
-     "url": "https://www.boj.or.jp/intl_finance/meeting/group/gro260901a.htm",
+     "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro260901a.htm",
      "date": "2026-09-01",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "金融安定理事会（FSB）がG20財務大臣・中央銀行総裁へ宛てた、2024年8月31日付のレターに関する文書です。中東情勢による金融安定リスクや、ソブリン債市場、プライベートクレジット、株式市場のレバレッジ拡大等の脆弱性を指摘しています。また、AIによるサイバーリスクや金融システムの頑健性強化の重要性にも言及しており、金融実務者はこれらリスク認識の変化に留意する必要があります。",
+     "first_seen": "2026-09-02",
+     "is_new": false,
+     "summary": "金融安定理事会（FSB）がG20財務大臣・中央銀行総裁へ宛てた、2024年8月31日付のレターに関する文書です。中東情勢に伴う金融安定リスクや、ソブリン債市場、プライベートクレジット、株式市場のレバレッジ拡大等の脆弱性を指摘しています。また、フロンティアAIによるサイバーリスクや金融システムの頑健性強化の重要性にも言及しており、金融機関や市場監視の担当者に関連する内容となっています。",
      "summary_status": "ok"
     },
     {
      "title": "債券市場サーベイ（2026年8月調査）",
-     "url": "https://www.boj.or.jp/paym/bond/bond_list/bond2608.pdf",
+     "url": "http://www.boj.or.jp/paym/bond/bond_list/bond2608.pdf",
      "date": "2026-09-01",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が国債売買オペ対象先や大手機関投資家を対象に実施した、2026年8月時点の債券市場の機能度や金利見通しに関する調査結果です。前回調査と比較して、市場の機能度判断DIは改善したものの、注文量や取引頻度のDIは低下しました。また、2028年度末にかけて長期金利が緩やかに上昇するとの見通しが示されています。本結果は2026年9月1日に公表されました。",
+     "first_seen": "2026-09-02",
+     "is_new": false,
+     "summary": "日本銀行が、国債売買オペ対象先や大手機関投資家等の計77先を対象に実施した、2026年8月時点の債券市場の機能度や流動性、長期金利の見通しに関する調査結果です。前回調査と比較して、市場の機能度判断DIは改善が止まり横ばいとなったほか、注文量や取引頻度のDIが低下しました。また、2028年度末にかけての各年限の国債利回り見通しなどの予測値が公表されています。2026年9月1日に公表されました。",
      "summary_status": "ok"
     },
     {
      "title": "日銀当座預金増減要因と金融調節（8月実績）",
-     "url": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf08.xlsx",
+     "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf08.xlsx",
      "date": "2026-09-01",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "本文を取得できませんでした",
+     "first_seen": "2026-09-02",
+     "is_new": false,
+     "summary": "日本銀行が金融機関や市場関係者に向けて公表した、2024年8月における日銀当座預金の増減要因と金融調節の実績値に関する文書です。\n\n主な内容は、財政等要因や銀行券要因による当座預金の不足・余剰に対し、日銀がどのようなオペレーション（共通担保資金供給や国債買入等）を通じて資金需給を調節したかの実績報告です。8月の金融市場における資金需給の全体像と日銀の調節姿勢を確認できます。",
      "summary_status": "ok"
     },
     {
      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年7～9月）［日程更新］",
-     "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
+     "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
      "date": "2026-08-31",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行金融市場局が市場参加者等を対象に公表した、2026年7～9月の長期国債買入れ（利回り・価格入札方式）の四半期予定の日程更新に関する文書である。残存期間別の1回当たりおよび月間のオファー金額や、7～9月のオファー日程（下線部更新）が示されている。次期（10～12月分）の公表は2026年9月30日17時の予定。",
+     "first_seen": "2026-08-31",
+     "is_new": false,
+     "summary": "日本銀行が金融市場調節の対象先に対し、2026年7〜9月期の長期国債買入れ（利回り・価格入札方式）の実施予定を通知する文書です。2026年8月31日付で、9月分のオファー日程が更新されました。残存期間ごとの1回当たりおよび月間のオファー金額の目安、具体的な入札実施日が示されています。市場動向により回数や金額は変更される可能性がありますが、月間合計で2兆5,000億円規模の買入れが予定されています。",
      "summary_status": "ok"
     },
     {
      "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（福井県）",
-     "url": "https://www.boj.or.jp/about/bcp/fso/fso260831a.pdf",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260831a.pdf",
      "date": "2026-08-31",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "北陸財務局と日本銀行金沢支店が、金融機関や保険会社等に対し、令和8年8月27日からの大雨災害にかかる金融上の措置（預金の柔軟な払戻し、保険金の迅速な支払い、保険料払込の猶予、手形・不渡りへの配慮、融資の簡便化・迅速化など）を要請した文書。対象は福井県内の被災者等。",
+     "first_seen": "2026-08-31",
+     "is_new": false,
+     "summary": "北陸財務局福井財務事務所と日本銀行金沢支店が、預貯金取扱金融機関、証券会社、生命保険会社、損害保険会社、少額短期保険業者、電子債権記録機関に対し発した要請です。令和8年8月27日からの大雨により災害救助法が適用された福井県内の被災者等に対し、通帳や印鑑紛失時の払戻し対応、保険料払込猶予、取引停止処分の配慮など、状況に応じた弾力的・迅速な金融上の措置を適切に講ずるよう求めています。",
      "summary_status": "ok"
     },
     {
      "title": "決済動向（7月）",
-     "url": "https://www.boj.or.jp/statistics/set/kess/release/2026/kess2607.pdf",
+     "url": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2607.pdf",
      "date": "2026-08-31",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行決済機構局が公表した、2026年7月の国内決済動向に関する統計データ。日銀当座預金決済、民間決済システム、電子マネー、デビットカード等の主要指標の件数や金額を網羅する。2026年8月31日公表。",
+     "first_seen": "2026-08-31",
+     "is_new": false,
+     "summary": "日本銀行決済機構局が2026年8月31日に公表した、同年7月の国内決済活動に関する統計資料です。日銀当座預金決済、日銀ネット利用先数、国債振決口座振替決済、全銀システム取扱高、外為円決済交換高、電子マネー、デビットカード等の主要指標がまとめられています。決済実務や市場動向を把握するための基礎資料であり、各決済システムの利用状況や取引金額・件数の推移を確認したい実務者が対象です。",
      "summary_status": "ok"
     },
     {
      "title": "資金循環（日米欧比較）（2026年第1四半期）",
-     "url": "https://www.boj.or.jp/statistics/sj/sjhiq.pdf",
+     "url": "http://www.boj.or.jp/statistics/sj/sjhiq.pdf",
      "date": "2026-08-31",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行調査統計局が2026年8月31日に公表した、2026年3月末現在のデータに基づく日米欧の資金循環統計の比較資料。金融機関、家計、民間非金融法人企業の資産・負債構成や、主要部門の資金過不足（名目GDP比）、投資信託・年金基金・保険の資産構成を図表で掲載している。制度変更や期日の記載はない。",
+     "first_seen": "2026-08-31",
+     "is_new": false,
+     "summary": "日本銀行調査統計局が2026年8月31日に公表した、日米欧の資金循環統計を比較・分析するための実務者向け資料です。2026年3月末時点のデータに基づき、金融機関、家計、民間非金融法人企業の金融資産・負債構成や、主要部門の資金過不足（名目GDP比）の推移を掲載しています。制度や定義の差異を考慮した部門分類で比較されており、国際的な資金フローや資産構成の差異を把握する際に参照すべき文書です。",
      "summary_status": "ok"
     },
     {
      "title": "貸出約定平均金利（7月）",
-     "url": "https://www.boj.or.jp/statistics/dl/loan/yaku/yaku2607.pdf",
+     "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2607.pdf",
      "date": "2026-08-31",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "日本銀行が金融機関等を対象に公表した、2026年7月の貸出約定平均金利の推移に関する統計文書。国内銀行や信用金庫等の新規およびストックの貸出金利（短期、長期、総合、当座貸越）の月次データが記載されている。対外公表は2026年8月31日8時50分。",
+     "first_seen": "2026-08-31",
+     "is_new": false,
+     "summary": "日本銀行金融機構局が、国内銀行や信用金庫等の金融機関を対象に、2026年7月における貸出約定平均金利の統計結果を公表した文書です。新規およびストックの貸出金利について、短期・長期・総合などの区分ごとに、2026年2月から7月までの推移が掲載されています。本資料は2026年8月31日に公表されたもので、金融機関の貸出金利動向を把握するための基礎資料として活用されます。",
      "summary_status": "ok"
     },
     {
      "title": "【記者会見】氷見野副総裁（埼玉、8月27日分）",
-     "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk260828a.pdf",
+     "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk260828a.pdf",
      "date": "2026-08-28",
      "first_seen": "2026-08-29",
-     "is_new": false
+     "is_new": false,
+     "summary": "日本銀行が2026年8月28日に公表した、前日にさいたま市で開催された氷見野副総裁の記者会見要旨です。副総裁は、今後の金融政策運営において、経済・物価の見通しやリスクを点検しながら、次回会合を含む毎回の決定会合で利上げのタイミングやペースを議論・検討していく姿勢を示しました。また、金融システムへの影響や物価の上振れリスク、地域の経済状況などを踏まえ、総合的に判断していくと述べています。",
+     "summary_status": "ok"
     },
     {
      "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（富山県）",
-     "url": "https://www.boj.or.jp/about/bcp/fso/fso260827b.pdf",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260827b.pdf",
      "date": "2026-08-27",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-28",
      "is_new": false
     },
     {
      "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（石川県）",
-     "url": "https://www.boj.or.jp/about/bcp/fso/fso260827a.pdf",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260827a.pdf",
      "date": "2026-08-27",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-28",
      "is_new": false
     },
     {
      "title": "企業向けサービス価格指数（7月）",
-     "url": "https://www.boj.or.jp/statistics/pi/cspi_release/sppi2607.pdf",
+     "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2607.pdf",
      "date": "2026-08-26",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-27",
      "is_new": false
     },
     {
      "title": "（金研ニュースレター）情報セキュリティ・セミナー「生体認証技術の現在地」",
-     "url": "https://www.boj.or.jp/about/release_2026/rel260825a.htm",
+     "url": "http://www.boj.or.jp/about/release_2026/rel260825a.htm",
      "date": "2026-08-25",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "消費者物価のコア指標",
-     "url": "https://www.boj.or.jp/research/research_data/cpi/index.htm",
+     "url": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
      "date": "2026-08-25",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "日本銀行が保有する国債の銘柄別残高",
-     "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260820.xlsx",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260820.xlsx",
      "date": "2026-08-24",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "営業毎旬報告（8月20日現在）",
-     "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260820.htm",
+     "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260820.htm",
      "date": "2026-08-24",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "FSBレポ統計の日本分集計結果",
-     "url": "https://www.boj.or.jp/statistics/bis/repo/index.htm",
+     "url": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
      "date": "2026-08-24",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "実質輸出入の動向",
-     "url": "https://www.boj.or.jp/research/research_data/reri/index.htm",
+     "url": "http://www.boj.or.jp/research/research_data/reri/index.htm",
      "date": "2026-08-21",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "令和8年7月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について（栃木県）",
-     "url": "https://www.boj.or.jp/about/bcp/fso/fso260821a.pdf",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260821a.pdf",
      "date": "2026-08-21",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "基準外国為替相場及び裁定外国為替相場（9月分）",
-     "url": "https://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2609.htm",
+     "url": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2609.htm",
      "date": "2026-08-20",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "報告省令レート（9月分）",
-     "url": "https://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2609.htm",
+     "url": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2609.htm",
      "date": "2026-08-20",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "展望レポートのハイライト （2026年7月）",
-     "url": "https://www.boj.or.jp/mopo/outlook/highlight/ten202607.htm",
+     "url": "http://www.boj.or.jp/mopo/outlook/highlight/ten202607.htm",
      "date": "2026-08-17",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "業態別の日銀当座預金残高（7月）",
-     "url": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+     "url": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
      "date": "2026-08-17",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "令和8年8月13日からの大雨に伴う災害等に対する金融上の措置について（千葉県）",
-     "url": "https://www.boj.or.jp/about/bcp/fso/fso260814a.pdf",
+     "url": "http://www.boj.or.jp/about/bcp/fso/fso260814a.pdf",
      "date": "2026-08-14",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "被災地金融機関を支援するための資金供給オペレーションの実施結果",
-     "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260814a.pdf",
+     "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260814a.pdf",
      "date": "2026-08-14",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "（リサーチラボ）生産性向上が賃金上昇に反映されなかったのはなぜか：わが国のデフレ期からの教訓",
-     "url": "https://www.boj.or.jp/research/wps_rev/lab/lab26j02.htm",
+     "url": "http://www.boj.or.jp/research/wps_rev/lab/lab26j02.htm",
      "date": "2026-08-14",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "日本銀行が保有する国債の銘柄別残高",
-     "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260810.xlsx",
+     "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260810.xlsx",
      "date": "2026-08-13",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "フェイルの発生状況（7月）",
-     "url": "https://www.boj.or.jp/statistics/set/bffail/sjgb2607.pdf",
+     "url": "http://www.boj.or.jp/statistics/set/bffail/sjgb2607.pdf",
      "date": "2026-08-13",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "営業毎旬報告（8月10日現在）",
-     "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260810.htm",
+     "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260810.htm",
      "date": "2026-08-13",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "企業物価指数（7月）",
-     "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2607.pdf",
+     "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2607.pdf",
      "date": "2026-08-13",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "（論文）サプライチェーンを介した企業の支出行動の連関",
-     "url": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j10.htm",
+     "url": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j10.htm",
      "date": "2026-08-12",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "（論文）企業間取引データを用いたわが国製造業サプライチェーンの可視化",
-     "url": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j09.htm",
+     "url": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j09.htm",
      "date": "2026-08-12",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     },
     {
      "title": "マネーストック（7月）",
-     "url": "https://www.boj.or.jp/statistics/money/ms/ms2607.pdf",
+     "url": "http://www.boj.or.jp/statistics/money/ms/ms2607.pdf",
      "date": "2026-08-12",
-     "first_seen": "2026-08-29",
+     "first_seen": "2026-08-25",
      "is_new": false
     }
    ]
@@ -2178,91 +2180,117 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_75983.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "厚生労働省は、令和8年9月14日に第266回社会保障審議会介護給付費分科会をWeb会議で開催します。対象は介護保険サービスに関わる実務者や関係団体です。議題は令和9年度介護報酬改定に向けた関係団体等との意見交換会で、会議の様子はYouTubeでライブ配信されます。資料は同日8時までに同省HPに掲載予定です。傍聴は不可ですが、報道関係者向けに同日18時頃からWebブリーフィングが行われます。",
+     "summary_status": "ok"
     },
     {
      "title": "第211回労働政策審議会労働条件分科会　開催案内",
      "url": "https://www.mhlw.go.jp/stf/newpage_75967.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "本文を取得できませんでした。",
+     "summary_status": "ok"
     },
     {
      "title": "「食品衛生監視部会伝達性海綿状脳症対策に関する小委員会」の開催について",
      "url": "https://www.mhlw.go.jp/stf/other-kenkou_128610_00042.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "厚生労働省が報道関係者等を対象に、牛海綿状脳症（BSE）対策の見直し等を議題とする「食品衛生監視部会伝達性海綿状脳症対策に関する小委員会」を令和8年9月18日に開催する旨の通知。会場での傍聴は報道関係者のみ、一般はYouTubeによるライブ配信となる。",
+     "summary_status": "ok"
     },
     {
      "title": "樺太等残留邦人11名が集団一時帰国します",
      "url": "https://www.mhlw.go.jp/stf/newpage_75938.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "厚生労働省が報道関係者向けに発表した、樺太等残留邦人等の集団一時帰国に関するお知らせである。墓参や親族訪問等のため、樺太等残留邦人11名と介護人11名の計22名が、令和8年9月13日から9月19日まで集団一時帰国する。",
+     "summary_status": "ok"
     },
     {
      "title": "「令和７年度使用者による障害者虐待の状況等」の結果を公表します",
      "url": "https://www.mhlw.go.jp/stf/houdou/0000172598_00013.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "厚生労働省が、障害者を雇用する事業主や職場の上司などの「使用者」による障害者虐待の令和７年度の状況を取りまとめ、公表した文書である。通報・届出のあった事業所数や対象障害者数は増加した一方、虐待が認められた事業所数・障害者数は減少した。虐待の種別では経済的虐待が最多であった。新規の制度変更や実施時期についての記載はない。",
+     "summary_status": "ok"
     },
     {
      "title": "インフルエンザに関する報道発表資料を更新しました",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "インフルエンザ対策を担当する部署等を対象に、2026年9月11日時点のインフルエンザの発生状況に関する情報を公表するもの。都道府県別の定点報告数の推移などが確認できる。（106文字）",
+     "summary_status": "ok"
     },
     {
      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "医療・感染症対策の担当者向けに、2026年の新型コロナウイルス感染症（COVID-19）の発生状況に関する報道発表資料（各都道府県別の定点報告数の推移など）を掲載・更新したことを知らせる文書である。変更内容や施行日に関する記載はない。",
+     "summary_status": "ok"
     },
     {
      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "医療機関等の実務者向けに、2025年第15週（4月7日～13日）以降、急性呼吸器感染症サーベイランス開始による定点医療機関設置基準の変更に伴い定点数が変更されるため、インフルエンザ・新型コロナウイルス感染症の定点当たり報告数データの解釈に留意するよう周知する文書である。",
+     "summary_status": "ok"
     },
     {
      "title": "インフルエンザの発生状況を更新しました",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "保健衛生行政等の担当者向けに、インフルエンザの発生状況に関する報道発表資料の更新情報を伝える文書である。9月から4月にかけて、毎週金曜日14時に発生状況の報道発表が行われる旨が記載されている。",
+     "summary_status": "ok"
     },
     {
      "title": "「第１回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）",
      "url": "https://www.mhlw.go.jp/stf/newpage_76042.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "本文を取得できませんでした",
+     "summary_status": "ok"
     },
     {
      "title": "薬事工業生産動態統計令和8年6月分月報について",
      "url": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "厚生労働省が医薬品等の関係者を対象に「薬事工業生産動態統計令和8年6月分月報」を公表した。月報の概要や統計表を確認できる。変更点や実施時期についての記載はない。",
+     "summary_status": "ok"
     },
     {
      "title": "採用情報（期間業務職員（健康・生活衛生局）募集情報）",
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-kenkou_seikatueiseikyoku01.html",
      "date": "2026-09-11",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "厚生労働省健康・生活衛生局難病対策課移植医療対策推進室の期間業務職員（造血幹細胞移植に関する行政事務等）の募集文書。応募資格は造血幹細胞移植に関する専門知識や関連機関での勤務経験等を有する者。任期は令和８年１０月１日から令和９年３月３１日まで。応募締切は令和８年９月２５日必着。",
+     "summary_status": "ok"
     },
     {
      "title": "第25回医薬品等行政評価・監視委員会を開催します",
      "url": "https://www.mhlw.go.jp/stf/newpage_76113.html",
      "date": "2026-09-09",
      "first_seen": "2026-09-12",
-     "is_new": true
+     "is_new": true,
+     "summary": "厚生労働省が医薬品等行政評価・監視委員会の関係者を対象に、令和8年9月17日に第25回会合を開催する。タブネオスカプセル10mgに係る対応や副作用等報告症例の評価手法等を議題とし、会議の模様はYouTubeでライブ配信される。",
+     "summary_status": "ok"
     },
     {
      "title": "第27回臓器移植推進国民大会が開催されます",

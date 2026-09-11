@@ -2516,5 +2516,107 @@
 "status": "ok",
 "model": "gemini-3.5-flash-lite",
 "at": "2026-09-12"
+},
+"http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2607.htm|2026-09-11": {
+"summary": "日本銀行が公表した、令和8年7月の政策委員会における議決・報告事項をまとめた月報です。7月30・31日開催の金融政策決定会合において、金融市場調節方針や「当面の金融政策運営について」、「経済・物価情勢の展望（2026年7月）」の基本的見解、2027年の会合開催予定日などが決定されました。また、通常会合での役職決定や、2025年度下期の検査結果、金融機関の業務運営動向等の報告事項が掲載されています。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-12"
+},
+"http://www.boj.or.jp/paym/intlact_pm/cpss/cpss260911a.htm|2026-09-11": {
+"summary": "日本銀行は、金融市場インフラ（FMI）を対象としたCPMI及びIOSCOによる2件の市中協議文書を公表しました。内容は、サイバーレジリエンス向上のための実務的ツール集と、サードパーティ業者への依存に伴う課題・リスクに関する検討です。本文書は既存の指針を補完・具体化するもので、実務上の考慮事項が示されています。これらに対する意見募集（コメント）の締め切りは2026年12月1日までとなっています。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-09-12"
+},
+"http://www.boj.or.jp/about/press/kaiken_2026/kk260911a.pdf|2026-09-11": {
+"summary": "日本銀行の増審議委員による福井市での記者会見（2026年9月10日開催）の議事録。福井県内の経済情勢や金融政策、利上げ方針、物価・金利動向などに関する質疑応答が記載されており、制度の変更や新しい手続きの開始を告げる文書ではない。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2608.pdf|2026-09-11": {
+"summary": "日本銀行は2026年9月11日、2026年8月の企業物価指数（速報）を公表した。国内企業物価指数は前月比▲0.2％（前年比＋7.6％）、輸出物価指数は円ベースで同▲0.7％（前年比＋17.9％）、輸入物価指数は円ベースで同▲3.0％（前年比＋24.8％）となった。次回公表日は2026年10月13日。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/newpage_75983.html|2026-09-11": {
+"summary": "厚生労働省は、令和8年9月14日に第266回社会保障審議会介護給付費分科会をWeb会議で開催します。対象は介護保険サービスに関わる実務者や関係団体です。議題は令和9年度介護報酬改定に向けた関係団体等との意見交換会で、会議の様子はYouTubeでライブ配信されます。資料は同日8時までに同省HPに掲載予定です。傍聴は不可ですが、報道関係者向けに同日18時頃からWebブリーフィングが行われます。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/newpage_75967.html|2026-09-11": {
+"summary": "本文を取得できませんでした。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/other-kenkou_128610_00042.html|2026-09-11": {
+"summary": "厚生労働省が報道関係者等を対象に、牛海綿状脳症（BSE）対策の見直し等を議題とする「食品衛生監視部会伝達性海綿状脳症対策に関する小委員会」を令和8年9月18日に開催する旨の通知。会場での傍聴は報道関係者のみ、一般はYouTubeによるライブ配信となる。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/newpage_75938.html|2026-09-11": {
+"summary": "厚生労働省が報道関係者向けに発表した、樺太等残留邦人等の集団一時帰国に関するお知らせである。墓参や親族訪問等のため、樺太等残留邦人11名と介護人11名の計22名が、令和8年9月13日から9月19日まで集団一時帰国する。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/houdou/0000172598_00013.html|2026-09-11": {
+"summary": "厚生労働省が、障害者を雇用する事業主や職場の上司などの「使用者」による障害者虐待の令和７年度の状況を取りまとめ、公表した文書である。通報・届出のあった事業所数や対象障害者数は増加した一方、虐待が認められた事業所数・障害者数は減少した。虐待の種別では経済的虐待が最多であった。新規の制度変更や実施時期についての記載はない。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html|2026-09-11": {
+"summary": "インフルエンザ対策を担当する部署等を対象に、2026年9月11日時点のインフルエンザの発生状況に関する情報を公表するもの。都道府県別の定点報告数の推移などが確認できる。（106文字）",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html|2026-09-11": {
+"summary": "医療・感染症対策の担当者向けに、2026年の新型コロナウイルス感染症（COVID-19）の発生状況に関する報道発表資料（各都道府県別の定点報告数の推移など）を掲載・更新したことを知らせる文書である。変更内容や施行日に関する記載はない。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html|2026-09-11": {
+"summary": "医療機関等の実務者向けに、2025年第15週（4月7日～13日）以降、急性呼吸器感染症サーベイランス開始による定点医療機関設置基準の変更に伴い定点数が変更されるため、インフルエンザ・新型コロナウイルス感染症の定点当たり報告数データの解釈に留意するよう周知する文書である。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html|2026-09-11": {
+"summary": "保健衛生行政等の担当者向けに、インフルエンザの発生状況に関する報道発表資料の更新情報を伝える文書である。9月から4月にかけて、毎週金曜日14時に発生状況の報道発表が行われる旨が記載されている。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/newpage_76042.html|2026-09-11": {
+"summary": "本文を取得できませんでした",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/toukei/list/105-1c.html|2026-09-11": {
+"summary": "厚生労働省が医薬品等の関係者を対象に「薬事工業生産動態統計令和8年6月分月報」を公表した。月報の概要や統計表を確認できる。変更点や実施時期についての記載はない。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-kenkou_seikatueiseikyoku01.html|2026-09-11": {
+"summary": "厚生労働省健康・生活衛生局難病対策課移植医療対策推進室の期間業務職員（造血幹細胞移植に関する行政事務等）の募集文書。応募資格は造血幹細胞移植に関する専門知識や関連機関での勤務経験等を有する者。任期は令和８年１０月１日から令和９年３月３１日まで。応募締切は令和８年９月２５日必着。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
+},
+"https://www.mhlw.go.jp/stf/newpage_76113.html|2026-09-09": {
+"summary": "厚生労働省が医薬品等行政評価・監視委員会の関係者を対象に、令和8年9月17日に第25回会合を開催する。タブネオスカプセル10mgに係る対応や副作用等報告症例の評価手法等を議題とし、会議の模様はYouTubeでライブ配信される。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-12"
 }
 }

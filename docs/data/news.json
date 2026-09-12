@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12 07:22",
+ "generated_at": "2026-09-12 09:23",
  "generated_date": "2026-09-12",
  "previous_generated_at": "2026-09-11 07:21",
  "new_since": "2026-09-11",
@@ -13,15 +13,6 @@
    "status": "ok",
    "errors": [],
    "items": [
-    {
-     "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
-     "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html",
-     "date": "2026-09-11",
-     "first_seen": "2026-09-12",
-     "is_new": true,
-     "summary": "金融庁が、令和8年熊本地震の被災者や事業者、金融機関等に向けて公表した関連情報の特設ページです。7月29日の相談ダイヤル開設や金融上の措置要請を皮切りに、8月6日には被災者の口座開設時の本人確認の特例や200万円以下の義援金送金時の取引時確認免除、9月11日には金融機関等の報告提出期限の特例措置などが順次適用・実施されます。住宅ローン免除や保険契約照会、資金繰り支援等の情報も掲載されています。",
-     "summary_status": "ok"
-    },
     {
      "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
      "url": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
@@ -38,6 +29,15 @@
      "first_seen": "2026-09-12",
      "is_new": true,
      "summary": "金融庁が保険会社向けに公表した「保険会社向けの総合的な監督指針」の一部改正（案）に関する文書です。有識者会議等の報告書を踏まえ、企業内代理店に関する規制の再構築、独占禁止法遵守態勢の構築、企業向け損害保険商品のモニタリングの高度化等に向けた改正を行うものです。本パブリックコメント（令和8年10月13日締切）の終了後、所要の手続を経て適用が開始される予定です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
+     "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html",
+     "date": "2026-09-11",
+     "first_seen": "2026-09-12",
+     "is_new": true,
+     "summary": "金融庁が、令和8年熊本地震の被災者や事業者、金融機関等に向けて公表した関連情報の特設ページです。7月29日の相談ダイヤル開設や金融上の措置要請を皮切りに、8月6日には被災者の口座開設時の本人確認の特例や200万円以下の義援金送金時の取引時確認免除、9月11日には金融機関等の報告提出期限の特例措置などが順次適用・実施されます。住宅ローン免除や保険契約照会、資金繰り支援等の情報も掲載されています。",
      "summary_status": "ok"
     },
     {
@@ -1541,6 +1541,51 @@
    "errors": [],
    "items": [
     {
+     "title": "公正取引委員会における令和8年度の政策評価結果の公表について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260910r8seisakuhyouka.html",
+     "date": "2026-09-10",
+     "first_seen": "2026-09-12",
+     "is_new": true,
+     "summary": "公正取引委員会が国民や関係事業者等に対し公表した文書です。同委が定めた令和8年度の政策評価対象施策（競争政策の基礎強化、政府規制分野の調査・評価、デジタル市場の競争環境整備）の評価結果が取りまとめられました。これに伴い、当該評価結果に対する意見募集（パブリックコメント）が開始されています。電子メールまたは郵送での意見提出が可能で、提出期限は令和8年10月9日18時必着となっています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "山口県下関市における「一日公正取引委員会」の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260910_chugoku_onedaykoutori.html",
+     "date": "2026-09-10",
+     "first_seen": "2026-09-12",
+     "is_new": true,
+     "summary": "公正取引委員会中国支所が発注機関、事業者、フリーランス、学生等を対象に開催する「一日公正取引委員会」の案内です。令和8年10月27日に海峡メッセ下関で、官製談合防止法、価格転嫁・取引適正化ルール、フリーランス法の各説明会や学生向け説明会、個別相談コーナーが実施されます。法令等の普及啓発や相談対応の一層の充実を図るもので、プログラムに応じた予約（先着順等）が必要となります。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "株式会社トリドールホールディングスに対する勧告について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260909_toridollholdings.html",
+     "date": "2026-09-09",
+     "first_seen": "2026-09-12",
+     "is_new": true,
+     "summary": "公正取引委員会が令和8年9月9日、食品販売等を行う株式会社トリドールホールディングスに対し、改正前下請法および改正後取適法に基づき行った勧告です。同社が卸売業者を介し受注者37名に食品製造を委託した際、令和6年8月〜8年7月にシステム利用料名目で代金の1.1%を一律減額した違反事実に対し、公正取引委員会の確認を得て、減額した代金全額および不当減額分の遅延利息を速やかに支払うよう求めています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260909.html",
+     "date": "2026-09-09",
+     "first_seen": "2026-09-12",
+     "is_new": true,
+     "summary": "公正取引委員会が弁護士・エコノミストなどの専門人材や応募検討者等に向け、任期付職員の募集開始を発表した会見記録です。独占禁止法やスマホソフトウェア競争促進法等の執行・政策立案・分析業務に従事する任期付職員（弁護士39名、エコノミスト若干名）の募集を公表日である令和8年9月9日から開始しました。詳細は同委員会のウェブサイトに掲載されており、担当窓口は官房人事課です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "広告業界の取引適正化のための対象者別ポイント動画３本（広告業者、広告制作業者、広告主向け）を公開しました※クリックするとYouTubeに遷移します。",
+     "url": "https://www.youtube.com/playlist?list=PLJBnJnyz7EOg",
+     "date": "2026-09-08",
+     "first_seen": "2026-09-12",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
      "title": "株式会社ニチリンに対する勧告について",
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260903_kinki_toriteki.html",
      "date": "2026-09-03",
@@ -1721,34 +1766,6 @@
      "title": "「最新！価格転嫁・取引適正化ルールの説明会ー取適法・新告示・ガイドラインから官公需取引まで丸ごと説明ー」の開催について",
      "url": "https://www.jftc.go.jp/event/kousyukai/r8toriteki.html",
      "date": "2026-07-27",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "スマホソフトウェア競争促進法に基づく遵守報告書の公表について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260727_sumaho_junshuhoukoku.html",
-     "date": "2026-07-27",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "イリソ電子工業株式会社に対する勧告について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260724_irisodenshi.html",
-     "date": "2026-07-24",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "公正取引委員会広報動画を公開しました（【広報担当が聞く】改正物流特殊指定　着荷主への新たな規制、契約外の荷待ちなどが規制対象に）※クリックするとYouTube動画に遷移します。",
-     "url": "https://youtu.be/a8Vt2z93f8s",
-     "date": "2026-07-22",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "ＨＯＹＡ株式会社に対する勧告について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260721_hoya.html",
-     "date": "2026-07-21",
      "first_seen": "2026-08-27",
      "is_new": false
     },
@@ -2665,5 +2682,5 @@
   }
  ],
  "errors": [],
- "summary_model": ""
+ "summary_model": "gemini-3.6-flash"
 }

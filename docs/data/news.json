@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-13 07:31",
- "generated_date": "2026-09-13",
- "previous_generated_at": "2026-09-12 09:23",
+ "generated_at": "2026-09-14 03:47",
+ "generated_date": "2026-09-14",
+ "previous_generated_at": "2026-09-13 07:31",
  "new_since": "2026-09-11",
  "agencies": [
   {
@@ -1226,27 +1226,6 @@
      "title": "企業物価指数（7月）",
      "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2607.pdf",
      "date": "2026-08-13",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "（論文）サプライチェーンを介した企業の支出行動の連関",
-     "url": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j10.htm",
-     "date": "2026-08-12",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "（論文）企業間取引データを用いたわが国製造業サプライチェーンの可視化",
-     "url": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j09.htm",
-     "date": "2026-08-12",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "マネーストック（7月）",
-     "url": "http://www.boj.or.jp/statistics/money/ms/ms2607.pdf",
-     "date": "2026-08-12",
      "first_seen": "2026-08-25",
      "is_new": false
     }
@@ -2682,5 +2661,5 @@
   }
  ],
  "errors": [],
- "summary_model": "gemini-3.6-flash"
+ "summary_model": ""
 }

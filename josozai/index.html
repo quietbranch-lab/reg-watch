@@ -1,0 +1,332 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>除草剤 5種比較</title>
+<meta name="description" content="除草剤5商品を、液/粒・内容量・効き目・持続期間・散布面積で比較できる一覧ページ。">
+<style>
+  * { box-sizing: border-box; }
+  :root {
+    --bg: #ffffff;
+    --text: #16191a;
+    --muted: #6d7478;
+    --line: #e6e9ea;
+    --line-soft: #f0f2f3;
+    --orange: #ff9900;
+    --orange-dark: #e88b00;
+    --orange-text: #1f1500;
+    --liquid-bg: #e7f1fd;
+    --liquid-text: #1462a8;
+    --liquid-line: #bcd9f7;
+    --granule-bg: #e9f5e6;
+    --granule-text: #2f6b26;
+    --granule-line: #c3e4ba;
+  }
+  html { background: var(--bg); -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP",
+                 "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.5;
+  }
+  main {
+    width: min(720px, 100%);
+    margin: 0 auto;
+    padding: 18px 14px 40px;
+  }
+  h1 {
+    margin: 0 0 4px;
+    font-size: 21px;
+    line-height: 1.3;
+    letter-spacing: -.02em;
+  }
+  .sub {
+    margin: 0 0 18px;
+    color: var(--muted);
+    font-size: 12px;
+  }
+  .list { display: grid; gap: 14px; }
+
+  .card {
+    display: grid;
+    grid-template-columns: 112px 1fr;
+    gap: 14px;
+    padding: 14px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+  }
+  /* 液/粒 を左端のラインでも色分けして、スクロール中に一目で分かるようにする */
+  .card.is-liquid { border-left: 4px solid var(--liquid-text); }
+  .card.is-granule { border-left: 4px solid var(--granule-text); }
+
+  .thumb {
+    width: 112px;
+    height: 150px;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid var(--line-soft);
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+  }
+  .thumb img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  /* 画像ファイルが無い場合の正直な空表示（商品パッケージの再現ではありません） */
+  .thumb .pending {
+    display: none;
+    width: 100%;
+    height: 100%;
+    place-items: center;
+    align-content: center;
+    gap: 3px;
+    background: #f5f6f7;
+    color: #9aa1a5;
+    font-size: 11px;
+    text-align: center;
+    line-height: 1.35;
+  }
+  .thumb img[data-missing] { display: none; }
+  .thumb img[data-missing] + .pending { display: grid; }
+
+  .content { min-width: 0; display: flex; flex-direction: column; }
+  .title-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  h2 {
+    margin: 0;
+    flex: 1;
+    font-size: 16px;
+    line-height: 1.35;
+    letter-spacing: -.01em;
+  }
+  .type {
+    flex: 0 0 auto;
+    display: inline-grid;
+    place-items: center;
+    min-width: 32px;
+    height: 26px;
+    padding: 0 7px;
+    border-radius: 7px;
+    font-size: 13px;
+    font-weight: 800;
+    border: 1px solid transparent;
+  }
+  .liquid { background: var(--liquid-bg); color: var(--liquid-text); border-color: var(--liquid-line); }
+  .granule { background: var(--granule-bg); color: var(--granule-text); border-color: var(--granule-line); }
+
+  .facts {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .fact { min-width: 0; padding: 8px 10px; }
+  .fact:nth-child(odd) { border-right: 1px solid var(--line); }
+  .fact:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
+  .fact span {
+    display: block;
+    color: var(--muted);
+    font-size: 11px;
+    line-height: 1.2;
+    margin-bottom: 3px;
+  }
+  .fact strong {
+    display: block;
+    font-size: 13.5px;
+    line-height: 1.35;
+    font-weight: 700;
+  }
+  .fn { font-size: 9px; font-weight: 400; color: var(--muted); vertical-align: super; line-height: 0; }
+  .stars { letter-spacing: -.5px; white-space: nowrap; color: #f0a500; }
+  .stars i { color: #d8dcde; font-style: normal; }
+
+  .price {
+    display: flex;
+    align-items: baseline;
+    gap: 7px;
+    margin-top: 9px;
+    padding: 0 2px;
+  }
+  .price span { color: var(--muted); font-size: 11px; }
+  .price strong { font-size: 19px; font-weight: 800; letter-spacing: -.02em; }
+  .price strong i { font-size: 12px; font-weight: 700; font-style: normal; margin-left: 1px; }
+  .amazon {
+    margin-top: 10px;
+    min-height: 44px;
+    border-radius: 10px;
+    background: var(--orange);
+    border: 1px solid var(--orange-dark);
+    color: var(--orange-text);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+  }
+  .amazon:active { background: var(--orange-dark); }
+  .amazon i { font-style: normal; font-size: 18px; line-height: 1; }
+
+  .note {
+    margin: 18px 2px 0;
+    padding-top: 14px;
+    border-top: 1px solid var(--line);
+    color: var(--muted);
+    font-size: 11px;
+    line-height: 1.6;
+  }
+  .note p { margin: 0 0 6px; }
+  .note p:last-child { margin-bottom: 0; }
+
+  @media (max-width: 480px) {
+    main { padding: 14px 11px 32px; }
+    h1 { font-size: 19px; }
+    .card { grid-template-columns: 100px 1fr; gap: 11px; padding: 11px; }
+    .thumb { width: 100px; height: 138px; }
+    h2 { font-size: 15px; }
+    .fact { padding: 7px 8px; }
+    .fact strong { font-size: 13px; }
+  }
+  @media (max-width: 360px) {
+    .card { grid-template-columns: 86px 1fr; }
+    .thumb { width: 86px; height: 122px; }
+    .fact strong { font-size: 12px; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>除草剤 5種比較</h1>
+  <p class="sub">液＝薄めて撒くタイプ／粒＝そのまま撒くタイプ</p>
+
+  <section class="list">
+
+    <article class="card is-liquid">
+      <a class="thumb" href="https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%88%90%E8%BE%B2%E6%9D%90+%E3%82%B5%E3%83%B3%E3%83%95%E3%83%BC%E3%83%AD%E3%83%B3+500ml" target="_blank" rel="noopener noreferrer">
+        <img src="assets/sunfulon.webp" alt="サンフーロン 500mL" loading="lazy" onerror="this.setAttribute('data-missing','')">
+        <span class="pending" aria-hidden="true">商品画像<br>未取得</span>
+      </a>
+      <div class="content">
+        <div class="title-row">
+          <h2>サンフーロン 500mL</h2>
+          <span class="type liquid">液</span>
+        </div>
+        <div class="facts">
+          <div class="fact"><span>内容量</span><strong>500mL</strong></div>
+          <div class="fact"><span>効き目</span><strong class="stars">★★★★<i>★</i></strong></div>
+          <div class="fact"><span>持続期間</span><strong>予防効果なし</strong></div>
+          <div class="fact"><span>散布面積</span><strong>約250〜1,000㎡</strong></div>
+        </div>
+        <div class="price"><span>参考価格</span><strong>925<i>円</i></strong></div>
+        <a class="amazon" href="https://www.amazon.co.jp/s?k=%E5%A4%A7%E6%88%90%E8%BE%B2%E6%9D%90+%E3%82%B5%E3%83%B3%E3%83%95%E3%83%BC%E3%83%AD%E3%83%B3+500ml" target="_blank" rel="noopener noreferrer">Amazonで見る<i>›</i></a>
+      </div>
+    </article>
+
+    <article class="card is-liquid">
+      <a class="thumb" href="https://www.amazon.co.jp/dp/B001GHEY9Y" target="_blank" rel="noopener noreferrer">
+        <img src="assets/roundup.webp" alt="ラウンドアップ マックスロード 1L" loading="lazy" onerror="this.setAttribute('data-missing','')">
+        <span class="pending" aria-hidden="true">商品画像<br>未取得</span>
+      </a>
+      <div class="content">
+        <div class="title-row">
+          <h2>ラウンドアップ マックスロード 1L</h2>
+          <span class="type liquid">液</span>
+        </div>
+        <div class="facts">
+          <div class="fact"><span>内容量</span><strong>1L</strong></div>
+          <div class="fact"><span>効き目</span><strong class="stars">★★★★★</strong></div>
+          <div class="fact"><span>持続期間</span><strong>予防効果なし</strong></div>
+          <div class="fact"><span>散布面積</span><strong>約500〜2,000㎡</strong></div>
+        </div>
+        <div class="price"><span>参考価格</span><strong>3,391<i>円</i></strong></div>
+        <a class="amazon" href="https://www.amazon.co.jp/dp/B001GHEY9Y" target="_blank" rel="noopener noreferrer">Amazonで見る<i>›</i></a>
+      </div>
+    </article>
+
+    <article class="card is-granule">
+      <a class="thumb" href="https://www.amazon.co.jp/s?k=%E3%82%AF%E3%82%B5%E3%83%8E%E3%83%B3GT%E7%B2%92%E5%89%A4+800g" target="_blank" rel="noopener noreferrer">
+        <img src="assets/kusanon.webp" alt="クサノンGT粒剤 800g" loading="lazy" onerror="this.setAttribute('data-missing','')">
+        <span class="pending" aria-hidden="true">商品画像<br>未取得</span>
+      </a>
+      <div class="content">
+        <div class="title-row">
+          <h2>クサノンGT粒剤 800g</h2>
+          <span class="type granule">粒</span>
+        </div>
+        <div class="facts">
+          <div class="fact"><span>内容量</span><strong>800g</strong></div>
+          <div class="fact"><span>効き目</span><strong class="stars">★★★★★</strong></div>
+          <div class="fact"><span>持続期間</span><strong>最長 約1年</strong></div>
+          <div class="fact"><span>散布面積</span><strong>約27〜160㎡</strong></div>
+        </div>
+        <div class="price"><span>参考価格</span><strong>1,536<i>円</i></strong></div>
+        <a class="amazon" href="https://www.amazon.co.jp/s?k=%E3%82%AF%E3%82%B5%E3%83%8E%E3%83%B3GT%E7%B2%92%E5%89%A4+800g" target="_blank" rel="noopener noreferrer">Amazonで見る<i>›</i></a>
+      </div>
+    </article>
+
+    <article class="card is-granule">
+      <a class="thumb" href="https://www.amazon.co.jp/s?k=%E3%83%8D%E3%82%B3%E3%82%BD%E3%82%AE%E3%83%88%E3%83%83%E3%83%97F%E7%B2%92%E5%89%A4+800g" target="_blank" rel="noopener noreferrer">
+        <img src="assets/nekosogi-top.webp" alt="ネコソギトップF粒剤 800g" loading="lazy" onerror="this.setAttribute('data-missing','')">
+        <span class="pending" aria-hidden="true">商品画像<br>未取得</span>
+      </a>
+      <div class="content">
+        <div class="title-row">
+          <h2>ネコソギトップF粒剤 800g</h2>
+          <span class="type granule">粒</span>
+        </div>
+        <div class="facts">
+          <div class="fact"><span>内容量</span><strong>800g</strong></div>
+          <div class="fact"><span>効き目</span><strong class="stars">★★★★★</strong></div>
+          <div class="fact"><span>持続期間</span><strong>約5〜9か月</strong></div>
+          <div class="fact"><span>散布面積</span><strong>約20〜160㎡</strong></div>
+        </div>
+        <div class="price"><span>参考価格</span><strong>1,482<i>円</i></strong></div>
+        <a class="amazon" href="https://www.amazon.co.jp/s?k=%E3%83%8D%E3%82%B3%E3%82%BD%E3%82%AE%E3%83%88%E3%83%83%E3%83%97F%E7%B2%92%E5%89%A4+800g" target="_blank" rel="noopener noreferrer">Amazonで見る<i>›</i></a>
+      </div>
+    </article>
+
+    <article class="card is-granule">
+      <a class="thumb" href="https://www.amazon.co.jp/s?k=%E3%83%8D%E3%82%B3%E3%82%BD%E3%82%AE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AFV%E7%B2%92%E5%89%A4+600g" target="_blank" rel="noopener noreferrer">
+        <img src="assets/nekosogi-block.webp" alt="ネコソギブロックV粒剤 600g" loading="lazy" onerror="this.setAttribute('data-missing','')">
+        <span class="pending" aria-hidden="true">商品画像<br>未取得</span>
+      </a>
+      <div class="content">
+        <div class="title-row">
+          <h2>ネコソギブロックV粒剤 600g</h2>
+          <span class="type granule">粒</span>
+        </div>
+        <div class="facts">
+          <div class="fact"><span>内容量</span><strong>600g</strong></div>
+          <div class="fact"><span>効き目</span><strong class="stars">★★★★<i>★</i></strong></div>
+          <div class="fact"><span>持続期間</span><strong>約4〜6か月</strong></div>
+          <div class="fact"><span>散布面積</span><strong>約15〜120㎡</strong></div>
+        </div>
+        <div class="price"><span>参考価格</span><strong>1,414<i>円</i></strong></div>
+        <a class="amazon" href="https://www.amazon.co.jp/s?k=%E3%83%8D%E3%82%B3%E3%82%BD%E3%82%AE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AFV%E7%B2%92%E5%89%A4+600g" target="_blank" rel="noopener noreferrer">Amazonで見る<i>›</i></a>
+      </div>
+    </article>
+
+  </section>
+
+  <div class="note">
+    <p>「効き目」の★は、この5製品内での相対的な目安です。</p>
+    <p>価格は2026年9月時点の参考価格です。販売店や時期によって変動します。</p>
+    <p>持続期間・散布面積は、雑草の種類・草丈・使用量・土壌・天候によって変わります。使用時は必ず製品ラベルの適用場所・使用量に従ってください。</p>
+  </div>
+</main>
+</body>
+</html>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17 05:32",
+ "generated_at": "2026-09-17 06:10",
  "generated_date": "2026-09-17",
  "previous_generated_at": "2026-09-16 07:22",
  "new_since": "2026-09-16",
@@ -1667,6 +1667,13 @@
      "is_new": false
     },
     {
+     "title": "那覇市における有識者との懇談会の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819_okinawa_minimini.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-27",
+     "is_new": false
+    },
+    {
      "title": "北海道室蘭市における有識者との懇談会の開催について",
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819_hokkaido_muroran_minimini.html",
      "date": "2026-08-19",
@@ -1676,13 +1683,6 @@
     {
      "title": "愛知労働局・公正取引委員会中部事務所が合同でフリーランス法説明会を実施します！",
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819chubu_fl.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "那覇市における有識者との懇談会の開催について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819_okinawa_minimini.html",
      "date": "2026-08-19",
      "first_seen": "2026-08-27",
      "is_new": false
@@ -2668,5 +2668,5 @@
   }
  ],
  "errors": [],
- "summary_model": ""
+ "summary_model": "gemini-3.6-flash"
 }

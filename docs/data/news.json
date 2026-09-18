@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19 03:46",
+ "generated_at": "2026-09-19 05:31",
  "generated_date": "2026-09-19",
  "previous_generated_at": "2026-09-18 07:21",
  "new_since": "2026-09-18",
@@ -2423,42 +2423,54 @@
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-seisakutoukatsukantsukiiryouzyouhoukibantantousanzikanshitsu01.html",
      "date": "2026-09-18",
      "first_seen": "2026-09-19",
-     "is_new": true
+     "is_new": true,
+     "summary": "厚生労働省政策統括官付医療情報基盤担当参事官室が、期間業務職員1名を募集する文書です。対象はPC操作が可能で意欲のある方です。職務内容は来客対応、経理・人事給与事務、文書作成等の一般行政事務補助です。任用期間は令和8年11月1日から令和9年3月31日までで、再採用の可能性があります。応募は履歴書を令和8年10月2日必着で郵送する必要があります。勤務地は東京都千代田区の霞が関です。",
+     "summary_status": "ok"
     },
     {
      "title": "第136回社会保障審議会介護保険部会の資料について",
      "url": "https://www.mhlw.go.jp/stf/newpage_76225.html",
      "date": "2026-09-18",
      "first_seen": "2026-09-19",
-     "is_new": true
+     "is_new": true,
+     "summary": "本資料は、介護保険制度に関わる自治体や介護サービス事業者等に向けた、令和6年9月18日開催の審議会資料です。主な内容は、第1号保険料の在り方や給付と負担の持続可能性確保に関する検討、介護情報基盤の整備、経営情報の調査分析、給付適正化、事業者間の連携強化に関する報告です。今後の制度改正や運用に向けた議論の進捗状況が示されており、実務への具体的な影響時期は明記されていません。",
+     "summary_status": "ok"
     },
     {
      "title": "社会保障審議会（介護保険部会）",
      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
      "date": "2026-09-18",
      "first_seen": "2026-09-19",
-     "is_new": true
+     "is_new": true,
+     "summary": "社会保障審議会（介護保険部会）の開催状況や議事録、配付資料を掲載しているページ。第90回（2020年2月21日）から第136回（2026年9月18日）までの開催日、議題、議事録、資料の案内を提供している。",
+     "summary_status": "ok"
     },
     {
      "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第８回）の資料について",
      "url": "https://www.mhlw.go.jp/stf/newpage_76302.html",
      "date": "2026-09-17",
      "first_seen": "2026-09-19",
-     "is_new": true
+     "is_new": true,
+     "summary": "有料老人ホームの関係者を対象に、登録制の施行に向けた対応等について議論した令和8年9月18日開催の第9回検討会における、構成員名簿、登録制の施行に向けた対応、登録基準に関する案と現行の標準指導指針等との比較などの配付資料を公表する文書である。",
+     "summary_status": "ok"
     },
     {
      "title": "第１回創薬力向上のための官民協議会 施策検討・推進部会　資料",
      "url": "https://www.mhlw.go.jp/stf/newpage_76243.html",
      "date": "2026-09-15",
      "first_seen": "2026-09-19",
-     "is_new": true
+     "is_new": true,
+     "summary": "本文を取得できませんでした。",
+     "summary_status": "ok"
     },
     {
      "title": "「2040年に向けた地域医療構想」について",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000080850_00017.html",
      "date": "2026-09-14",
      "first_seen": "2026-09-19",
-     "is_new": true
+     "is_new": true,
+     "summary": "都道府県、自治体、医療機関等を対象に、2040年に向けた地域医療構想の推進や病床機能・外来機能の分化・連携、医療機関の再編統合に関するデータ見える化、財政支援、税制優遇、関連通知等の情報を提供する厚生労働省の案内ページである。具体的な変更時期の記載はない。",
+     "summary_status": "ok"
     },
     {
      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",

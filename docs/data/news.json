@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19 05:31",
+ "generated_at": "2026-09-19 06:10",
  "generated_date": "2026-09-19",
  "previous_generated_at": "2026-09-18 07:21",
  "new_since": "2026-09-18",
@@ -1596,6 +1596,33 @@
    "errors": [],
    "items": [
     {
+     "title": "沖電気工業株式会社、株式会社日立製作所及び日立チャネルソリューションズ株式会社によるＡＴＭ、営業店端末等の事業の統合に関する審査結果について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260918kiketsu_oh.html",
+     "date": "2026-09-18",
+     "first_seen": "2026-09-19",
+     "is_new": true,
+     "summary": "公正取引委員会が、沖電気工業、日立製作所、日立チャネルソリューションズの当事会社に対し公表した文書。当事会社によるATMや営業店端末等の事業統合について、届出を受け審査した結果、申出の措置が講じられる前提で競争を実質的に制限するとはいえないと判断し、令和8年9月18日に排除措置命令を行わない旨の通知を行った。本件統合により当事会社の事業承継や株式取得が行われる。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "「最新！価格転嫁・取引適正化ルールの説明会（徳島会場） ～ 徳島会場は、価格転嫁・取引適正化の新ルール説明会と価格交渉講習会を同日開催！ ～」の開催について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260918_toritekihousetumeikai_tokushima1.html",
+     "date": "2026-09-18",
+     "first_seen": "2026-09-19",
+     "is_new": true,
+     "summary": "公正取引委員会四国支所と四国経済産業局等が、適切な価格転嫁と取引適正化に向けた法令や取組を説明するため、事業者向けに説明会を開催します。未定だった徳島会場（定員100名、先着順、無料）の日時が令和8年10月23日13時〜15時15分に決定し、申込受付が始まりました。当日は専門家による価格交渉講習会も同会場で開催されます。参加希望者は各局等のウェブサイトから申込みが可能です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "付け　事務総長定例会見記録",
+     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260916.html",
+     "date": "2026-09-16",
+     "first_seen": "2026-09-19",
+     "is_new": true,
+     "summary": "公正取引委員会が全国の事業者（経営者、法務・コンプライアンス担当者）に向けて公表した会見記録です。\n\n独占禁止法違反を防ぐ社内体制の整備・運用方法を解説するオンライン研修「30分でわかる独占禁止法コンプライアンス講座」を令和8年10月から実施します。入門編、リスク評価・対応編、社内規程編などの30分の講座で、11月以降も継続予定です。申込は公式サイト等から電子メールで行えます。",
+     "summary_status": "ok"
+    },
+    {
      "title": "公正取引委員会における令和8年度の政策評価結果の公表について",
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/sep/260910r8seisakuhyouka.html",
      "date": "2026-09-10",
@@ -1727,13 +1754,6 @@
      "is_new": false
     },
     {
-     "title": "愛知労働局・公正取引委員会中部事務所が合同でフリーランス法説明会を実施します！",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819chubu_fl.html",
-     "date": "2026-08-19",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
      "title": "那覇市における有識者との懇談会の開催について",
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819_okinawa_minimini.html",
      "date": "2026-08-19",
@@ -1743,6 +1763,13 @@
     {
      "title": "北海道室蘭市における有識者との懇談会の開催について",
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819_hokkaido_muroran_minimini.html",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-27",
+     "is_new": false
+    },
+    {
+     "title": "愛知労働局・公正取引委員会中部事務所が合同でフリーランス法説明会を実施します！",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/aug/260819chubu_fl.html",
      "date": "2026-08-19",
      "first_seen": "2026-08-27",
      "is_new": false
@@ -1790,13 +1817,6 @@
      "is_new": false
     },
     {
-     "title": "青森市における「一日公正取引委員会」の開催について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260731_tohoku_ichinichi.html",
-     "date": "2026-07-31",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
      "title": "「大規模小売業者と納入業者との取引に関する実態調査」の開始について",
      "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_daikibokourichosa.html",
      "date": "2026-07-29",
@@ -1820,13 +1840,6 @@
     {
      "title": "「最新！価格転嫁・取引適正化ルールの説明会ー取適法・新告示・ガイドラインから官公需取引まで丸ごと説明ー」の開催について",
      "url": "https://www.jftc.go.jp/event/kousyukai/r8toriteki.html",
-     "date": "2026-07-27",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "スマホソフトウェア競争促進法に基づく遵守報告書の公表について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260727_sumaho_junshuhoukoku.html",
      "date": "2026-07-27",
      "first_seen": "2026-08-27",
      "is_new": false
@@ -1877,13 +1890,6 @@
      "title": "付け　事務総長定例会見記録",
      "url": "https://www.jftc.go.jp/houdou/teirei/2026/260603.html",
      "date": "2026-06-03",
-     "first_seen": "2026-08-27",
-     "is_new": false
-    },
-    {
-     "title": "付け　事務総長定例会見記録",
-     "url": "https://www.jftc.go.jp/houdou/teirei/2026/260527.html",
-     "date": "2026-05-27",
      "first_seen": "2026-08-27",
      "is_new": false
     }
@@ -2737,5 +2743,5 @@
   }
  ],
  "errors": [],
- "summary_model": ""
+ "summary_model": "gemini-3.6-flash"
 }

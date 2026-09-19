@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20 05:31",
+ "generated_at": "2026-09-20 06:10",
  "generated_date": "2026-09-20",
  "previous_generated_at": "2026-09-19 07:22",
  "new_since": "2026-09-18",
@@ -1817,15 +1817,15 @@
      "is_new": false
     },
     {
-     "title": "「大規模小売業者と納入業者との取引に関する実態調査」の開始について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_daikibokourichosa.html",
+     "title": "第233回　独占禁止懇話会の議事概要の公表について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_233dokkinkon.sample.html",
      "date": "2026-07-29",
      "first_seen": "2026-08-27",
      "is_new": false
     },
     {
-     "title": "第233回　独占禁止懇話会の議事概要の公表について",
-     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_233dokkinkon.sample.html",
+     "title": "「大規模小売業者と納入業者との取引に関する実態調査」の開始について",
+     "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/jul/260729_daikibokourichosa.html",
      "date": "2026-07-29",
      "first_seen": "2026-08-27",
      "is_new": false
@@ -2743,5 +2743,5 @@
   }
  ],
  "errors": [],
- "summary_model": ""
+ "summary_model": "gemini-3.6-flash"
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21 06:10",
+ "generated_at": "2026-09-21 09:13",
  "generated_date": "2026-09-21",
  "previous_generated_at": "2026-09-20 07:21",
  "new_since": "2026-09-18",
@@ -1295,13 +1295,6 @@
      "title": "令和8年7月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について（栃木県）",
      "url": "http://www.boj.or.jp/about/bcp/fso/fso260821a.pdf",
      "date": "2026-08-21",
-     "first_seen": "2026-08-25",
-     "is_new": false
-    },
-    {
-     "title": "基準外国為替相場及び裁定外国為替相場（9月分）",
-     "url": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2609.htm",
-     "date": "2026-08-20",
      "first_seen": "2026-08-25",
      "is_new": false
     }
@@ -2743,5 +2736,5 @@
   }
  ],
  "errors": [],
- "summary_model": "gemini-3.6-flash"
+ "summary_model": ""
 }

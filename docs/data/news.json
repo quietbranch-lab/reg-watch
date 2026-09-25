@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25 08:15",
+ "generated_at": "2026-09-25 09:32",
  "generated_date": "2026-09-25",
  "previous_generated_at": "2026-09-24 09:28",
  "new_since": "2026-09-24",
@@ -160,6 +160,15 @@
    "errors": [],
    "items": [
     {
+     "title": "国債金利情報(令和8年9月24日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-09-25",
+     "first_seen": "2026-09-25",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月18日(金曜日))",
      "url": "https://www.mof.go.jp/public_relations/conference/my20260918.html",
      "date": "2026-09-24",
@@ -230,15 +239,6 @@
      "is_new": true,
      "summary": "本文書は金融機関等の入札参加者に向け、財務省が公表した交付税及び譲与税配付金特別会計における借入金の入札予定です。令和8年10月1日の午前10時20分から11時30分にかけて、約1兆2,000億円の借入金に対する競争及び非競争入札が実施されます。借入日は令和8年10月9日、償還期限は令和9年4月9日の一括償還で、入札方式や一口の応募金額、決定方法等の変更を含む募集条件の概要が示されています。",
      "summary_status": "ok"
-    },
-    {
-     "title": "国債金利情報(令和8年9月18日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-     "date": "2026-09-24",
-     "first_seen": "2026-09-25",
-     "is_new": true,
-     "summary": null,
-     "summary_status": "unavailable"
     },
     {
      "title": "財政投融資分科会（令和8年9月18日開催）資料一覧",
@@ -785,6 +785,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "BIS国際資金取引統計および国際与信統計の日本分集計結果",
+     "url": "http://www.boj.or.jp/statistics/bis/ibs/index.htm",
+     "date": "2026-09-25",
+     "first_seen": "2026-09-25",
+     "is_new": true,
+     "summary": "日本銀行が公表した「BIS国際資金取引統計および国際与信統計の日本分集計結果」に関するページです。2026年9月25日より、2026年6月末の四半期計数（資金取引統計、与信統計）および為替調整済前期差のデータが新たに",
+     "summary_status": "ok"
+    },
     {
      "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（千葉県、東京都）",
      "url": "http://www.boj.or.jp/about/bcp/fso/fso260924a.pdf",
@@ -2199,7 +2208,7 @@
    "errors": [],
    "items": [
     {
-     "title": "ＵＨＣナレッジハブの第四回調整委員会の開催について",
+     "title": "ＵＨＣナレッジハブの第六回調整委員会の開催について",
      "url": "https://www.mhlw.go.jp/stf/newpage_76368.html",
      "date": "2026-09-24",
      "first_seen": "2026-09-25",

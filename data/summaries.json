@@ -3858,5 +3858,16 @@
 "status": "ok",
 "model": "gemini-3.5-flash",
 "at": "2026-09-25"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-09-25": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-09-25"
+},
+"http://www.boj.or.jp/statistics/bis/ibs/index.htm|2026-09-25": {
+"summary": "日本銀行が公表した「BIS国際資金取引統計および国際与信統計の日本分集計結果」に関するページです。2026年9月25日より、2026年6月末の四半期計数（資金取引統計、与信統計）および為替調整済前期差のデータが新たに",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-25"
 }
 }

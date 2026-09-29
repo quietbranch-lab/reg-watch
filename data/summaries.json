@@ -4334,5 +4334,40 @@
 "summary": null,
 "status": "unavailable",
 "at": "2026-09-29"
+},
+"https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/20260928103657.html|2026-09-29": {
+"summary": "財務省が、外国為替及び外国貿易法に基づき資産凍結等の措置（支払等の許可義務）の対象となっている者との間で資金移転を行う取引関係者等に対し公表した文書です。令和8年9月29日の閣議了解に基づき、シリアのアル・アサド大統領及びその関係者等として指定されている16団体を対象から削除し、当該者に対する資産凍結等の措置を同日付で解除します。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-29"
+},
+"https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260929.htm|2026-09-29": {
+"summary": "財務省が国債入札参加者に対し、令和8年9月29日に入札を実施する「40年利付国債（第19回）」の発行概要を通知した文書です。表面利率は年3.8％、発行予定額は3,000億円程度、発行日は令和8年9月30日、償還期限は令和48年3月20日となります。入札は利回り競争入札によるダッチ方式で、申込締切は令和8年9月29日午前11時50分です。同日午後2時より国債市場特別参加者向け入札も実施予定です。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-29"
+},
+"https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260929.htm|2026-09-29": {
+"summary": "財務省が国債市場特別参加者等に向けて公表した、令和8年10月債の10年利付国債の発行予定額等に関する文書です。令和8年10月6日に入札、10月7日に発行を予定しており、発行予定額は額面金額で2兆6,000億円程度となります。また、入札予定日の午後2時より、国債市場特別参加者を対象とした第Ⅱ非価格競争入札を実施する予定であることが示されています。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-29"
+},
+"https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/yotaku20260929.html|2026-09-29": {
+"summary": "財務省が財政融資資金の預託者に対して公表した文書です。令和8年10月1日以降の財政融資資金預託金について、預託の約定期間に応じた金利（利率）が適用されるよう変更されます。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-29"
+},
+"https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/kashi20260929.html|2026-09-29": {
+"summary": "財務省が財政融資資金の借入主体に対して公表した文書です。令和8年10月1日以降に貸し付ける財政融資資金の貸付金について、貸付期間及び据置期間に応じた新たな利率（年利）が適用されます。詳細な金利は添付のExcelおよびPDFファイルに掲載されています。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-29"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-09-29": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-09-29"
 }
 }

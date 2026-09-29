@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29 08:28",
+ "generated_at": "2026-09-29 09:25",
  "generated_date": "2026-09-29",
  "previous_generated_at": "2026-09-28 09:42",
  "new_since": "2026-09-28",
@@ -157,6 +157,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "貿易統計(令和8年9月上旬分速報)【税関ホームページ】",
+     "url": "https://www.mof.go.jp/outside_link/20260928112846.html",
+     "date": "2026-09-29",
+     "first_seen": "2026-09-29",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
     {
      "title": "国債市場特別参加者会合（第120回）議事の要点",
      "url": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/proceedings/260928pd.html",
@@ -686,15 +695,6 @@
      "first_seen": "2026-09-15",
      "is_new": false,
      "summary": "財務省が発注する工事等の入札・落札結果に関する情報です。対象は、同省本庁舎や合同庁舎、公務員宿舎等の電気・空調・内装整備、修繕工事等を請け負う事業者です。令和8年4月から9月にかけて公告された各案件の調達ポータルサイトへのリンクや、過去の落札結果、低入札価格調査の概要、変更契約等の情報が掲載されています。実務者は自社の受注案件や関連する工種の入札状況を確認できます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月11日(金曜日))",
-     "url": "https://www.mof.go.jp/public_relations/conference/my20260911.html",
-     "date": "2026-09-11",
-     "first_seen": "2026-09-12",
-     "is_new": false,
-     "summary": "片山財務大臣が、2027年国際園芸博覧会記念貨幣（額面千円の銀貨幣）の発行を定める政令等の閣議決定を発表した、一般向けの文書です。表面にマスコット、裏面に公式ロゴをあしらった銀貨幣を、税込33,500円で4万枚発行します。販売申し込みの受付開始は令和8年12月頃を予定しています。また、為替相場の動向や日米協調介入、米国財務長官の発言等に関する記者からの質問に対し、大臣の見解を述べています。",
      "summary_status": "ok"
     }
    ]

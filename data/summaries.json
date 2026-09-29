@@ -4329,5 +4329,10 @@
 "status": "ok",
 "model": "gemini-3.5-flash",
 "at": "2026-09-29"
+},
+"https://www.mof.go.jp/outside_link/20260928112846.html|2026-09-29": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-09-29"
 }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01 06:10",
+ "generated_at": "2026-10-01 07:34",
  "generated_date": "2026-10-01",
  "previous_generated_at": "2026-09-30 10:16",
  "new_since": "2026-09-30",
@@ -708,6 +708,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "証券検査,「令和８事務年度　証券モニタリング基本方針」について",
+     "url": "https://www.fsa.go.jp/sesc/news/c_2026/2026/20260731-2.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-10-01",
+     "is_new": true,
+     "summary": "証券取引等監視委員会が、証券市場の関係者等に向けて「令和８事務年度 証券モニタリング基本方針」を策定し、令和8年7月31日に公表した文書です。本ページには基本方針の具体的な変更内容や適用開始時期などの詳細は記載されておらず、基本方針、英語版、およびそのポイントをまとめたPDFファイルが別紙として添付されています。",
+     "summary_status": "ok"
+    },
     {
      "title": "情報発信,「市場へのメッセージ（令和８年９月17日）」を掲載しました",
      "url": "https://www.fsa.go.jp/sesc/message/20260917.html",
@@ -2782,5 +2791,5 @@
   }
  ],
  "errors": [],
- "summary_model": "gemini-3.6-flash"
+ "summary_model": ""
 }

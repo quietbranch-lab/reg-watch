@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30 08:47",
+ "generated_at": "2026-09-30 10:16",
  "generated_date": "2026-09-30",
  "previous_generated_at": "2026-09-29 10:54",
  "new_since": "2026-09-29",
@@ -156,6 +156,51 @@
    "errors": [],
    "items": [
     {
+     "title": "障害者活躍推進計画",
+     "url": "https://www.mof.go.jp/about_mof/introduction/personnel/jinji-activities/shougai_katsuyaku.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": "財務省が、障害者雇用促進法等に基づき作成した「障害者活躍推進計画」とその取組の実施状況を公表した文書です。対象は財務省の職員や関係者です。本計画により、障害者の活躍の場の拡大に向けた自律的なPDCAサイクルを確立するための取組が実施されます。計画期間は令和2年度から令和6年度、および令和7年度から令和11年度までであり、各年度の取組の実施状況もあわせて公表されています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "障害者である職員の任免状況について",
+     "url": "https://www.mof.go.jp/about_mof/introduction/personnel/jinji-activities/ninnmennjjoukyou.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": "財務省が、障害者雇用促進法に基づき厚生労働省へ通報した「障害者である職員の任免状況」を公表するものです。対象は財務省の職員で、令和5年6月1日から令和8年6月1日までの各時点における任免状況がPDF形式で掲載されています。同省における障害者雇用の実数や法定雇用率の達成状況が更新されており、人事・採用担当者や統計調査に関わる実務者が、最新の雇用実績を確認するための文書です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "政府調達情報",
+     "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": "調達業務や政府調達に関わる担当者を対象に、財務省の入札公告、意見招請、随意契約、落札者等の政府調達情報を調達ポータルサイトや官報掲載日とともに提供するページである。調達案件ごとの具体的な変更内容や時期は記載されていない。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "国債の償還予定額（令和8年10月分）",
+     "url": "https://www.mof.go.jp/insideLink/20260928154738.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
+     "title": "国債金利情報(令和8年9月29日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月29日(火曜日))",
      "url": "https://www.mof.go.jp/public_relations/conference/my20260929.html",
      "date": "2026-09-29",
@@ -280,15 +325,6 @@
      "is_new": false,
      "summary": "財務省が財政融資資金の借入主体に対して公表した文書です。令和8年10月1日以降に貸し付ける財政融資資金の貸付金について、貸付期間及び据置期間に応じた新たな利率（年利）が適用されます。詳細な金利は添付のExcelおよびPDFファイルに掲載されています。",
      "summary_status": "ok"
-    },
-    {
-     "title": "国債金利情報(令和8年9月28日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-     "date": "2026-09-29",
-     "first_seen": "2026-09-29",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
     },
     {
      "title": "貿易統計(令和8年9月上旬分速報)【税関ホームページ】",
@@ -615,15 +651,6 @@
      "summary_status": "ok"
     },
     {
-     "title": "政府調達情報",
-     "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
-     "date": "2026-09-18",
-     "first_seen": "2026-09-19",
-     "is_new": false,
-     "summary": "財務省が公示した政府調達情報です。入札を検討する事業者に対し、令和8年度の予算編成支援システムや官庁会計システム、外債取引等管理システム等の運用・保守、機器更改、調査研究に関する資料提供依頼や入札公告、意見招請、落札結果を伝えています。直近では令和8年9月15日に予算編成支援システムの意見招請、9月18日に官庁会計システムの調査研究の入札公告が掲載されており、順次手続きが開始されます。",
-     "summary_status": "ok"
-    },
-    {
      "title": "入札、落札結果情報（物品・役務）",
      "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
      "date": "2026-09-18",
@@ -667,33 +694,6 @@
      "is_new": false,
      "summary": "財務省が2026年9月17日に公表した、令和8年7月末時点の「オフショア勘定残高」に関する報道発表資料です。\n\n本資料は、令和8年7月末時点における資産（預け金・コール、有価証券、貸付金、本支店勘定）および負債（預り金・コール、借入金、本支店勘定）の総残高、外貨建・円貨建の内訳、対非居住者の残高、ならびに対前月比伸率をまとめたものです。制度変更等の変更点に関する記載はありません。",
      "summary_status": "ok"
-    },
-    {
-     "title": "片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要(令和8年9月15日(火曜日))",
-     "url": "https://www.mof.go.jp/public_relations/conference/my20260915.html",
-     "date": "2026-09-16",
-     "first_seen": "2026-09-17",
-     "is_new": false,
-     "summary": "財務省が事業者や国民等に向け、令和8年9月15日に公表した記者会見概要です。主な変更点は以下の通りです。\n\n- **消費税率の臨時引下げ等**: 令和9年4月1日から2年間、飲食料品の消費税率を臨時的に引き下げ、支援金制度と組み合わせます。本則課税移行や簡易課税等の特例も設けます。\n- **その他**: マレーシアとの通貨スワップ契約署名等を9月15日に公表。金融行政方針を同日公表予定。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "「外国為替及び外国貿易法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令」等について",
-     "url": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/press_release/20260908204517.html",
-     "date": "2026-09-16",
-     "first_seen": "2026-09-17",
-     "is_new": false,
-     "summary": "財務省が外為法改正に伴う関係政令等の公布とパブリックコメントの結果を公表した文書です。対象は外為法に関連する実務者等で、法改正に伴う関係政令、省令、告示が整備・公布されました。本政省令・告示の施行は令和9年1月4日、全面適用は同年2月3日を予定しています。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "片山大臣とロバートソン駐日英国大使との面会（令和8年9月16日（水））",
-     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260916094525.html",
-     "date": "2026-09-16",
-     "first_seen": "2026-09-17",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
     }
    ]
   },
@@ -2107,6 +2107,42 @@
    "errors": [],
    "items": [
     {
+     "title": "令和７年度分年報公表（登記統計（登録免許税・登記手数料））",
+     "url": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": "本文を取得できませんでした。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "施設課オリジナル業務説明会を実施します",
+     "url": "http://www.moj.go.jp/shisetsu/shomu/shisetsu02_00017_08_00005.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": "法務省大臣官房施設課が、一般職試験（高卒者）技術・選択A（電気・情報系）の受験者を対象に、業務内容や魅力を紹介する「オリジナル業務説明会」を開催します。日程は10月2日から11月27日までの毎週金曜日17時からです。対面またはWEB方式を選択でき、参加希望日前々日の17時までにメールでの申し込みが必要です。なお、本説明会は採用選考活動とは一切関係ありません。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "【施設課】一般職試験（高卒者／技術系）官庁訪問",
+     "url": "http://www.moj.go.jp/shisetsu/shomu/shisetsu02_00017_09_00002.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": "法務省大臣官房施設課が、2026年度国家公務員採用一般職試験（高卒者試験／技術系）の第1次試験合格者を対象に、官庁訪問の受付を開始する文書です。対象の試験区分は技術・選択A（電気・情報系）です。受付は令和8年10月1日から開始し、官庁訪問は10月8日から対面またはWEBで随時実施されます。希望者は訪問前々日までにメール予約を行い、前日までに面接カードを送信する必要があります。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "採用情報（総合職試験（技術系区分））",
+     "url": "http://www.moj.go.jp/shisetsu/shomu/shisetsu02_00017_10.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": "法務省大臣官房施設課が、国家公務員採用総合職試験（技術系区分・工学）の受験者や志望者に対し、2026年度の採用予定数（2名）や官庁訪問、業務説明会の案内を公開している。本府省合同業務説明会は令和8年4月6日〜9日に開催され、申込〆切は同年4月3日正午。業務説明会は随時実施され、希望日時の1週間前までにメールで予約が必要。",
+     "summary_status": "ok"
+    },
+    {
      "title": "大臣就任に当たっての山下法務大臣訓示ー令和８年９月１８日（金）",
      "url": "http://www.moj.go.jp/hisho/kouhou/hisho06_01492.html",
      "date": "2026-09-29",
@@ -2131,15 +2167,6 @@
      "first_seen": "2026-09-29",
      "is_new": false,
      "summary": "令和8年9月18日の山下法務大臣初登庁後記者会見の概要。国民や関係者に対し、総理からの指示（外国人材の受入・在留管理徹底、旧氏単記を可能とする法整備の検討、再審制度の適正運用、法制度全体の総点検など11項目）に基づき法務行政を推進する方針を表明。来年4月開始の育成就労制度を含む外国人施策の着実な推進や、女性活躍・共生社会推進に向けた環境整備に取り組むとし、今後の施策方針を示している。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "令和８年７月分月報公表（訟務事件統計、登記統計、検察統計、矯正統計、少年矯正統計、保護統計及び人権侵犯事件統計）",
-     "url": "http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html",
-     "date": "2026-09-25",
-     "first_seen": "2026-09-26",
-     "is_new": false,
-     "summary": "法務省が、令和8年7月分の各種統計月報（訟務事件、登記、検察、矯正、少年矯正、保護、人権侵犯事件）を公表したことを知らせるものです。対象は、各統計に関連する実務担当者や調査研究者等です。本公表により、令和8年7月時点の最新の統計データが更新されました。なお、婦人補導統計については2024年3月の調査をもって終了したことが併せて示されています。",
      "summary_status": "ok"
     },
     {
@@ -2188,33 +2215,6 @@
      "summary_status": "ok"
     },
     {
-     "title": "法制審議会第２０６回会議（令和８年９月１４日開催）",
-     "url": "http://www.moj.go.jp/shingi1/shingi03500044_00016.html",
-     "date": "2026-09-15",
-     "first_seen": "2026-09-16",
-     "is_new": false,
-     "summary": "法制審議会が令和8年9月14日に開催した第206回会議に関する文書です。法務大臣から発せられた「民事訴訟制度の見直しに関する諮問第131号」について、事務当局から経緯や趣旨の説明が行われました。この諮問は、新設される「民事訴訟法（証拠収集等関係）部会」に付託して審議し、部会からの報告後に改めて総会で審議することが決定されました。いつから制度が変わるかなどの時期は記載されていません。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "事務補佐員の募集(大臣官房人事課・令和８年１１月採用)",
-     "url": "http://www.moj.go.jp/jinji/shihoushiken/jinji08_00303.html",
-     "date": "2026-09-15",
-     "first_seen": "2026-09-16",
-     "is_new": false,
-     "summary": "法務省大臣官房人事課が、令和8年11月27日から12月8日までの期間、一般行政事務の補助的業務（郵送業務等）を行う非常勤の事務補佐員を募集する文書です。応募資格は日本国籍を有し、令和8年司法試験等に自身や3親等内の親族が出願していないこと、法科大学院に在籍（予定）でないこと、予備校等に関与していないこと等です。応募締切は令和8年10月1日必着で、書類と面接による選考が行われます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "法務大臣閣議後記者会見の概要－令和８年９月１１日（金）",
-     "url": "http://www.moj.go.jp/hisho/kouhou/hisho08_01175.html",
-     "date": "2026-09-14",
-     "first_seen": "2026-09-16",
-     "is_new": false,
-     "summary": "法務大臣は、不動産所有者等に対し、令和9年3月末に迫る相続登記の義務履行期限に向け、9月14日からテレビCM等で周知を行うと発表しました。また、出",
-     "summary_status": "ok"
-    },
-    {
      "title": "日本女子大学において法教育の講義を実施しました！！",
      "url": "http://www.moj.go.jp/housei/shihouseido/housei10_00132.html",
      "date": "2016-06-28",
@@ -2232,6 +2232,24 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "営繕技官募集案内【係長級】",
+     "url": "https://www.mhlw.go.jp/general/saiyo/eizen_kakariin.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": "厚生労働省が、中途採用の営繕技官（係長級）を募集する案内です。採用者は、厚生労働省や環境省、国立病院機構などの施設において、建築・電気設備・機械設備の専門分野ごとに設計・積算、工事監督、検査等の業務を担います。採用時期は令和9年4月です。採用後は2〜4年ごとに異動があり、他省庁や法人への出向も経験しながらキャリアを形成します。問い合わせは大臣官房会計課施設整備室で受け付けています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "令和７年度　看護職員の資質の向上に係る研修事業等の実施状況",
+     "url": "https://www.mhlw.go.jp/stf/newpage_76107.html",
+     "date": "2026-09-30",
+     "first_seen": "2026-09-30",
+     "is_new": true,
+     "summary": "本文を取得できませんでした",
+     "summary_status": "ok"
+    },
     {
      "title": "労働災害発生状況",
      "url": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
@@ -2752,24 +2770,6 @@
      "first_seen": "2026-09-19",
      "is_new": false,
      "summary": "労災保険の指定を受けている、または今後受ける予定のあん摩マッサージ指圧師、はり師、きゅう師に対する通知です。令和8年9月17日付で労災保険の施術料金算定基準が改定されました。この改定は、令和8年10月1日以降の施術分から適用されます。具体的な改定内容は、同日付の通知「基発0917第2号」および別紙の算定基準に基づき、施術料金の算定方法や単価が変更されます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "労災保険柔道整復師施術料金算定基準について（令和８年度）",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai_shinryouhi/kaitei0604_00013.html",
-     "date": "2026-09-18",
-     "first_seen": "2026-09-19",
-     "is_new": false,
-     "summary": "労災保険を取り扱う柔道整復師を対象に、労災保険柔道整復師施術料金算定基準が令和８年９月17日に改定された。令和８年10月１日以降の施術分に適用される。（110字）",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第227回労働政策審議会職業安定分科会を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_021225156_00114.html",
-     "date": "2026-09-18",
-     "first_seen": "2026-09-19",
-     "is_new": false,
-     "summary": "厚生労働省が報道関係者や一般を対象に、第227回労働政策審議会職業安定分科会の開催を知らせる文書。雇用保険法施行規則の改正案諮問や、助成金の対応方針、ハローワークの業務評価等を審議・報告する。開催日時は令和8年9月25日16時から18時まで。",
      "summary_status": "ok"
     }
    ]

@@ -4771,5 +4771,69 @@
 "status": "ok",
 "model": "gemini-3-flash-preview",
 "at": "2026-09-30"
+},
+"https://www.mof.go.jp/about_mof/introduction/personnel/jinji-activities/shougai_katsuyaku.html|2026-09-30": {
+"summary": "財務省が、障害者雇用促進法等に基づき作成した「障害者活躍推進計画」とその取組の実施状況を公表した文書です。対象は財務省の職員や関係者です。本計画により、障害者の活躍の場の拡大に向けた自律的なPDCAサイクルを確立するための取組が実施されます。計画期間は令和2年度から令和6年度、および令和7年度から令和11年度までであり、各年度の取組の実施状況もあわせて公表されています。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-30"
+},
+"https://www.mof.go.jp/about_mof/introduction/personnel/jinji-activities/ninnmennjjoukyou.html|2026-09-30": {
+"summary": "財務省が、障害者雇用促進法に基づき厚生労働省へ通報した「障害者である職員の任免状況」を公表するものです。対象は財務省の職員で、令和5年6月1日から令和8年6月1日までの各時点における任免状況がPDF形式で掲載されています。同省における障害者雇用の実数や法定雇用率の達成状況が更新されており、人事・採用担当者や統計調査に関わる実務者が、最新の雇用実績を確認するための文書です。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-09-30"
+},
+"https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm|2026-09-30": {
+"summary": "調達業務や政府調達に関わる担当者を対象に、財務省の入札公告、意見招請、随意契約、落札者等の政府調達情報を調達ポータルサイトや官報掲載日とともに提供するページである。調達案件ごとの具体的な変更内容や時期は記載されていない。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-30"
+},
+"https://www.mof.go.jp/insideLink/20260928154738.html|2026-09-30": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-09-30"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-09-30": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-09-30"
+},
+"http://www.moj.go.jp/housei/toukei/toukei_ichiran_index.html|2026-09-30": {
+"summary": "本文を取得できませんでした。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-30"
+},
+"http://www.moj.go.jp/shisetsu/shomu/shisetsu02_00017_08_00005.html|2026-09-30": {
+"summary": "法務省大臣官房施設課が、一般職試験（高卒者）技術・選択A（電気・情報系）の受験者を対象に、業務内容や魅力を紹介する「オリジナル業務説明会」を開催します。日程は10月2日から11月27日までの毎週金曜日17時からです。対面またはWEB方式を選択でき、参加希望日前々日の17時までにメールでの申し込みが必要です。なお、本説明会は採用選考活動とは一切関係ありません。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-09-30"
+},
+"http://www.moj.go.jp/shisetsu/shomu/shisetsu02_00017_09_00002.html|2026-09-30": {
+"summary": "法務省大臣官房施設課が、2026年度国家公務員採用一般職試験（高卒者試験／技術系）の第1次試験合格者を対象に、官庁訪問の受付を開始する文書です。対象の試験区分は技術・選択A（電気・情報系）です。受付は令和8年10月1日から開始し、官庁訪問は10月8日から対面またはWEBで随時実施されます。希望者は訪問前々日までにメール予約を行い、前日までに面接カードを送信する必要があります。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-30"
+},
+"http://www.moj.go.jp/shisetsu/shomu/shisetsu02_00017_10.html|2026-09-30": {
+"summary": "法務省大臣官房施設課が、国家公務員採用総合職試験（技術系区分・工学）の受験者や志望者に対し、2026年度の採用予定数（2名）や官庁訪問、業務説明会の案内を公開している。本府省合同業務説明会は令和8年4月6日〜9日に開催され、申込〆切は同年4月3日正午。業務説明会は随時実施され、希望日時の1週間前までにメールで予約が必要。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-30"
+},
+"https://www.mhlw.go.jp/general/saiyo/eizen_kakariin.html|2026-09-30": {
+"summary": "厚生労働省が、中途採用の営繕技官（係長級）を募集する案内です。採用者は、厚生労働省や環境省、国立病院機構などの施設において、建築・電気設備・機械設備の専門分野ごとに設計・積算、工事監督、検査等の業務を担います。採用時期は令和9年4月です。採用後は2〜4年ごとに異動があり、他省庁や法人への出向も経験しながらキャリアを形成します。問い合わせは大臣官房会計課施設整備室で受け付けています。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-09-30"
+},
+"https://www.mhlw.go.jp/stf/newpage_76107.html|2026-09-30": {
+"summary": "本文を取得できませんでした",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-09-30"
 }
 }

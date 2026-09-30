@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01 07:34",
+ "generated_at": "2026-10-01 08:57",
  "generated_date": "2026-10-01",
  "previous_generated_at": "2026-09-30 10:16",
  "new_since": "2026-09-30",
@@ -157,6 +157,24 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "新型窓口販売方式による2年利付国債（第489回）の発行条件等",
+     "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20261001.htm",
+     "date": "2026-10-01",
+     "first_seen": "2026-10-01",
+     "is_new": true,
+     "summary": "財務省が公表した、新型窓口販売方式による2年利付国債（第489回）の発行条件等に関する文書です。購入を検討する実務者等に対し、募集期間を令和8年10月5日から10月28日まで、表面利率を年2.0%、募集価格を額面100円につき100円14銭、発行日を令和8年11月10日とすることなどが示されました。申込単位は最低5万円から5万円単位で、1回の上限額は3億円です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
+     "date": "2026-10-01",
+     "first_seen": "2026-10-01",
+     "is_new": true,
+     "summary": "財務省が2026年10月1日に公表した、指定報告機関（銀行や証券会社等）ベースの週次統計です。令和8年9月20日から9月26日までの対外・対内証券売買状況が更新されました。対外投資では居住者が株式等を3週連続で買い越す一方、中長期債は2週連続の売り越しです。対内投資では非居住者が株式・中長期債・短期債のすべてで売り越しに転じており、市場参加者の資金動向を把握するための資料です。",
+     "summary_status": "ok"
+    },
     {
      "title": "外国為替平衡操作の実施状況(令和8年8月27日～令和8年9月28日)",
      "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20260930.html",
@@ -678,24 +696,6 @@
      "is_new": false,
      "summary": "財務省が2024年9月に公表した広報誌「ファイナンス」9月号の目次情報です。主な内容は、日本産酒類輸出促進コンソーシアムを活用した事業者の海外進出事例の特集、令和7年度概算要求基準の概要、税関中長期構想2030、FATF第5次対日相互審査への対応、自治体の生成AI活用事例などです。財務省の最新施策や予算、税制、国際金融、地域経済の動向に関心のある実務者や自治体関係者が対象となります。",
      "summary_status": "ok"
-    },
-    {
-     "title": "国庫歳入歳出状況（令和8年度　令和8年7月分）",
-     "url": "https://www.mof.go.jp/insideLink/20260910134835.html",
-     "date": "2026-09-18",
-     "first_seen": "2026-09-19",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
-    },
-    {
-     "title": "国庫歳入歳出状況（令和7年度　令和8年7月分）",
-     "url": "https://www.mof.go.jp/insideLink/20260910134741.html",
-     "date": "2026-09-18",
-     "first_seen": "2026-09-19",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
     }
    ]
   },
@@ -778,6 +778,24 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "金融政策決定会合における主な意見（9月17、18日開催分）",
+     "url": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
+     "date": "2026-10-01",
+     "first_seen": "2026-10-01",
+     "is_new": true,
+     "summary": "日本銀行が2026年10月1日に公表した、9月17・18日開催の金融政策決定会合における政策委員等の意見書です。基調的な物価上昇率が2％目標に接近し、経済・物価情勢が概ね想定通りであることから、多くの委員が政策金利を引き上げ、緩和の度合いを調整することが適当との見解を示しました。一方で、足元の経済状況から据え置きが望ましいとの意見もあり、今後の機動的な金利調整の必要性が議論されています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "短観（9月）＜概要、要旨＞",
+     "url": "http://www.boj.or.jp/statistics/tk/tankan09a.htm",
+     "date": "2026-10-01",
+     "first_seen": "2026-10-01",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
     {
      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）",
      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260930a.pdf",
@@ -1296,24 +1314,6 @@
      "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2609.xlsx",
      "date": "2026-09-03",
      "first_seen": "2026-09-04",
-     "is_new": false,
-     "summary": "本文を取得できませんでした。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "日本銀行が保有する国債の銘柄別残高",
-     "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
-     "date": "2026-09-02",
-     "first_seen": "2026-09-03",
-     "is_new": false,
-     "summary": "本文を取得できませんでした。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "日本銀行が受入れている担保の残高（8月末）",
-     "url": "http://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
-     "date": "2026-09-02",
-     "first_seen": "2026-09-03",
      "is_new": false,
      "summary": "本文を取得できませんでした。",
      "summary_status": "ok"

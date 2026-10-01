@@ -5456,5 +5456,27 @@
 "status": "ok",
 "model": "gemini-3.5-flash",
 "at": "2026-10-02"
+},
+"http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2608.pdf|2026-10-02": {
+"summary": "日本銀行金融機構局が2026年10月2日に公表した、金融機関等向けの「貸出約定平均金利の推移（2026年8月）」に関する文書です。国内銀行や信用金庫における新規およびストックの貸出約定平均金利（短期、長期、総合等）の2026年8月までの推移データが更新されました。時系列統計データ検索サイトへの掲載は翌営業日以降となります。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-02"
+},
+"http://www.boj.or.jp/statistics/boj/other/mb/mb.htm|2026-10-02": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-02"
+},
+"http://www.boj.or.jp/statistics/tk/tankan09b.htm|2026-10-02": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-02"
+},
+"https://www.mhlw.go.jp/stf/newpage_76397.html|2026-10-02": {
+"summary": "厚生労働省が、ハローワークにおける令和8年8月の求人・求職・就職状況をまとめた統計を10月2日に公表しました。有効求人倍率は1.18倍で前月と同水準、新規求人倍率は2.06倍で前月より0.04ポイント低下しました。産業別では製造業や情報通信業で新規求人が増加した一方、宿泊・飲食サービス業や卸売・小売業などは減少しました。雇用情勢を把握する実務者向けの月次報告です。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-02"
 }
 }

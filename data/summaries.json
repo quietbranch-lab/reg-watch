@@ -5716,5 +5716,21 @@
 "status": "ok",
 "model": "gemini-3.5-flash",
 "at": "2026-10-03"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-10-05": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-05"
+},
+"http://www.boj.or.jp/about/press/koen_2026/ko261005a.htm|2026-10-05": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-05"
+},
+"http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx|2026-10-05": {
+"summary": "日本銀行が公表した、2024年10月における日銀当座預金の増減要因と金融調節の見込みに関する文書です。\n\n資金の過不足や、銀行券要因、財政等要因による当座預金残高の増減見込み額が示されています。実務者は、10月中における市場の資金需給バランスや日銀の金融調節方針を予測・把握することができます。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-05"
 }
 }

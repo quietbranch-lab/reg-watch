@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05 08:17",
+ "generated_at": "2026-10-05 09:53",
  "generated_date": "2026-10-05",
  "previous_generated_at": "2026-10-04 09:35",
  "new_since": "2026-10-02",
@@ -160,6 +160,15 @@
    "errors": [],
    "items": [
     {
+     "title": "国債金利情報(令和8年10月2日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-10-05",
+     "first_seen": "2026-10-05",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月2日(金曜日))",
      "url": "https://www.mof.go.jp/public_relations/conference/my20261002.html",
      "date": "2026-10-02",
@@ -266,15 +275,6 @@
      "is_new": false,
      "summary": "財務省の政府調達に関する公示情報です。主にITシステム開発・保守、機器賃貸借、調査研究等の案件を対象とする事業者向けの内容です。令和8年4月から10月にかけて、官庁会計システムや外債取引管理システム等の運用保守、プログラム改修、クラウド移行、什器購入などの入札公告、意見招請、落札結果が順次公表されています。各案件の詳細は調達ポータルサイトへのリンクから確認可能です。",
      "summary_status": "ok"
-    },
-    {
-     "title": "国債金利情報(令和8年10月1日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-     "date": "2026-10-02",
-     "first_seen": "2026-10-02",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
     },
     {
      "title": "国債の落札順位",
@@ -773,6 +773,24 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "【挨拶】内田副総裁「AI、ビッグデータと金融政策」（ECONDAT 2026 Fall Meetingにおける開会挨拶の邦訳）",
+     "url": "http://www.boj.or.jp/about/press/koen_2026/ko261005a.htm",
+     "date": "2026-10-05",
+     "first_seen": "2026-10-05",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
+     "title": "日銀当座預金増減要因（10月見込み）",
+     "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2610.xlsx",
+     "date": "2026-10-05",
+     "first_seen": "2026-10-05",
+     "is_new": true,
+     "summary": "日本銀行が公表した、2024年10月における日銀当座預金の増減要因と金融調節の見込みに関する文書です。\n\n資金の過不足や、銀行券要因、財政等要因による当座預金残高の増減見込み額が示されています。実務者は、10月中における市場の資金需給バランスや日銀の金融調節方針を予測・把握することができます。",
+     "summary_status": "ok"
+    },
     {
      "title": "日本銀行が保有する国債の銘柄別残高",
      "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260930.xlsx",
@@ -1293,24 +1311,6 @@
      "first_seen": "2026-09-10",
      "is_new": false,
      "summary": "日本銀行調査統計局が2026年9月9日に公表した、金融・経済実務者等向けの「マネーストック速報（2026年8月）」です。2026年8月におけるM2、M3、M1、広義流動性などの各通貨指標の平均残高および前年比伸び率（速報値）が示されています。また、2020年6月以降の計数について訂正が行われたことが公表されています。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "貸出・預金動向（8月）",
-     "url": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
-     "date": "2026-09-08",
-     "first_seen": "2026-09-09",
-     "is_new": false,
-     "summary": "日本銀行金融機構局が2026年9月8日に公表した、金融機関（都銀、地銀、信金等）を対象とする「貸出・預金動向 速報（2026年8月）」です。\n\n2026年8月における各業態の貸出平残および実質預金＋CD平残の前年比伸び率や平残高の速報値が示されています。制度等の変更を伴うものではなく、金融機関の貸出・預金動向に関する統計実績を報告する文書です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "コール市場残高（8月）",
-     "url": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
-     "date": "2026-09-07",
-     "first_seen": "2026-09-08",
-     "is_new": false,
-     "summary": "本文を取得できませんでした。",
      "summary_status": "ok"
     }
    ]

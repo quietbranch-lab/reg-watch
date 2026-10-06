@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06 10:20",
+ "generated_at": "2026-10-06 11:16",
  "generated_date": "2026-10-06",
  "previous_generated_at": "2026-10-05 09:53",
  "new_since": "2026-10-05",
@@ -159,6 +159,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "10年利付国債（第384回）の入札発行（令和8年10月6日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261006.htm",
+     "date": "2026-10-06",
+     "first_seen": "2026-10-06",
+     "is_new": true,
+     "summary": "財務省が国債入札参加者に対し、令和8年10月6日に入札を実施する「10年利付国債（第384回）」の発行を通知した文書です。表面利率は年3.1％、発行予定額は2兆6,000億円程度で、発行日および払込期日は令和8年10月7日です。入札方法は価格競争入札、非競争入札、国債市場特別参加者・第Ⅰ非価格競争入札で、申込締切は令和8年10月6日午前11時50分、同日午後に第Ⅱ非価格競争入札も予定されています。",
+     "summary_status": "ok"
+    },
     {
      "title": "国債金利情報(令和8年10月5日)",
      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
@@ -689,15 +698,6 @@
      "is_new": false,
      "summary": "財務省が財政融資資金の借入主体に対して公表した文書です。令和8年10月1日以降に貸し付ける財政融資資金の貸付金について、貸付期間及び据置期間に応じた新たな利率（年利）が適用されます。詳細な金利は添付のExcelおよびPDFファイルに掲載されています。",
      "summary_status": "ok"
-    },
-    {
-     "title": "貿易統計(令和8年9月上旬分速報)【税関ホームページ】",
-     "url": "https://www.mof.go.jp/outside_link/20260928112846.html",
-     "date": "2026-09-29",
-     "first_seen": "2026-09-29",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
     }
    ]
   },

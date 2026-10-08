@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08 09:15",
+ "generated_at": "2026-10-08 10:53",
  "generated_date": "2026-10-08",
  "previous_generated_at": "2026-10-07 10:30",
  "new_since": "2026-10-07",
@@ -160,6 +160,42 @@
    "errors": [],
    "items": [
     {
+     "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月8日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261008.htm",
+     "date": "2026-10-08",
+     "first_seen": "2026-10-08",
+     "is_new": true,
+     "summary": "財務省が公表した、交付税及び譲与税配付金特別会計の借入金入札に参加する事業者向けの文書です。令和8年10月15日に、借入予定額1兆2,000億円程度、借入日を同年10月23日、償還期限を令和9年4月23日とする借入利率競争入札及び非競争入札が実施されます。申込受付日時は令和8年10月15日の午前10時20分から午前11時30分までで、国庫の資金繰りにより借入予定額が変更される場合があります。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "30年利付国債（第92回）の入札発行（令和8年10月8日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261008.htm",
+     "date": "2026-10-08",
+     "first_seen": "2026-10-08",
+     "is_new": true,
+     "summary": "財務省が国債の入札参加者に対し、令和8年10月8日に入札を実施する「30年利付国債（第92回）」の発行概要を通知した文書です。表面利率は年4.2％、発行予定額は6,000億円程度で、入札方法は価格競争入札等です。申込締切は令和8年10月8日午前11時50分、払込期日（発行日）は令和8年10月9日です。同日午後2時より国債市場特別参加者を対象とした第Ⅱ非価格競争入札も予定されています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "国庫短期証券（第1411回）の入札発行",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261008.htm",
+     "date": "2026-10-08",
+     "first_seen": "2026-10-08",
+     "is_new": true,
+     "summary": "財務省は2026年10月8日、入札参加者に対し「国庫短期証券（第1411回）」の入札発行を通知しました。発行予定額は3兆円程度で、同日に価格競争入札および非価格競争入札が実施されます。発行日は2026年10月13日、償還期限は2027年4月12日です。実務上の申込締切は10月8日午前11時30分、払込期日は10月13日となります。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "国債金利情報(令和8年10月7日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-10-08",
+     "first_seen": "2026-10-08",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
      "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
      "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
      "date": "2026-10-08",
@@ -261,15 +297,6 @@
     {
      "title": "入札、落札結果情報（物品・役務）",
      "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
-     "date": "2026-10-07",
-     "first_seen": "2026-10-07",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
-    },
-    {
-     "title": "国債金利情報(令和8年10月6日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
      "date": "2026-10-07",
      "first_seen": "2026-10-07",
      "is_new": false,
@@ -671,33 +698,6 @@
      "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
-    },
-    {
-     "title": "ディスカッション・ペーパーを掲載しました「所得税データを用いた日本の可処分所得の上位所得シェア：2023～2024年」",
-     "url": "https://www.mof.go.jp/insideLink/20260929150539.html",
-     "date": "2026-09-30",
-     "first_seen": "2026-10-01",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
-    },
-    {
-     "title": "エネルギー対策特別会計の借入金の入札予定（令和8年9月30日公表）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer260930.htm",
-     "date": "2026-09-30",
-     "first_seen": "2026-10-01",
-     "is_new": false,
-     "summary": "財務省が、借入金入札の応募者に対し、令和8年10月7日に実施するエネルギー対策特別会計の借入金入札の概要を通知する文書。利率競争入札（コンベンショナル方式）で、借入予定額は5,415億円程度、申込受付は令和8年10月7日午前10時20分～11時30分。借入日は令和8年10月20日、償還期限は令和9年10月20日の一括償還となる。国庫の資金繰りにより借入予定額が変更される場合がある。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "2年利付国債（第489回）の入札発行（令和8年9月30日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260930.htm",
-     "date": "2026-09-30",
-     "first_seen": "2026-10-01",
-     "is_new": false,
-     "summary": "財務省が入札参加者に対し、令和8年9月30日に入札を実施する2年利付国債（第489回）の発行について通知した文書です。表面利率年2.0%、発行予定額2兆8,000億円程度で、価格競争入札や非競争入札等を行います。申込締切は令和8年9月30日午前11時50分で、発行日および払込期日は令和8年10月1日、償還期限は令和10年10月1日となります。入札結果に基づき同日午後より第Ⅱ非価格競争入札も実施予定です。（199字）",
-     "summary_status": "ok"
     }
    ]
   },
@@ -2175,6 +2175,15 @@
    "errors": [],
    "items": [
     {
+     "title": "令和８年司法試験予備試験論文式試験の受験状況について",
+     "url": "http://www.moj.go.jp/jinji/shihoushiken/jinji07_00315.html",
+     "date": "2026-10-08",
+     "first_seen": "2026-10-08",
+     "is_new": true,
+     "summary": "法務省が公表した、令和8年司法試験予備試験の論文式試験における受験状況に関する資料です。司法試験予備試験の受験者や実務担当者に向け、出願状況や短答式試験・論文式試験の受験者数等の統計データがPDF形式で公開されました。令和8年の試験結果に係る最新の実施状況が示されています。具体的な数値等の詳細は、ページ内の各リンク先から確認することが可能です。",
+     "summary_status": "ok"
+    },
+    {
      "title": "法務大臣閣議後記者会見の概要－令和８年１０月６日（火）",
      "url": "http://www.moj.go.jp/hisho/kouhou/hisho08_01181.html",
      "date": "2026-10-07",
@@ -2265,15 +2274,6 @@
      "summary_status": "ok"
     },
     {
-     "title": "採用情報（総合職試験（技術系区分））",
-     "url": "http://www.moj.go.jp/shisetsu/shomu/shisetsu02_00017_10.html",
-     "date": "2026-09-30",
-     "first_seen": "2026-09-30",
-     "is_new": false,
-     "summary": "法務省大臣官房施設課が、国家公務員採用総合職試験（技術系区分・工学）の受験者や志望者に対し、2026年度の採用予定数（2名）や官庁訪問、業務説明会の案内を公開している。本府省合同業務説明会は令和8年4月6日〜9日に開催され、申込〆切は同年4月3日正午。業務説明会は随時実施され、希望日時の1週間前までにメールで予約が必要。",
-     "summary_status": "ok"
-    },
-    {
      "title": "日本女子大学において法教育の講義を実施しました！！",
      "url": "http://www.moj.go.jp/housei/shihouseido/housei10_00132.html",
      "date": "2016-06-28",
@@ -2291,6 +2291,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
+     "url": "https://www.mhlw.go.jp/kokoro/mental_health_day/",
+     "date": "2026-10-08",
+     "first_seen": "2026-10-08",
+     "is_new": true,
+     "summary": "厚生労働省が一般国民や関係者に向けて、2026年10月10日の「世界メンタルヘルスデー」に合わせて開催する啓発イベントの特設サイトです。「つながる、どこでも、だれにでも」をテーマに、こころの不調への気づきや相談、周囲への声かけを促し、支援の輪を広げることを目的としています。2026年7月17日より順次情報が更新されており、10月の当日を中心にメンタルヘルスへの理解を深める取り組みが行われます。",
+     "summary_status": "ok"
+    },
     {
      "title": "採用情報（期間業務職員（大臣官房会計課）募集情報",
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-daijinkanboukaikeika-kanrieiyoushi01.html",
@@ -2820,15 +2829,6 @@
      "first_seen": "2026-10-01",
      "is_new": false,
      "summary": "厚生労働省が、令和8年8月23日に実施した第58回社会保険労務士試験の受験者や合格者等に対し、その結果を公表するものです。今回の合格者数は3,961人で、合格率は9.3%でした。合格者は、2年以上の実務経験や指定講習の修了を経て名簿登録を行うことで、社会保険労務士として活動が可能になります。ページ内には試験地別の合格者受験番号一覧や、合格基準の考え方などの参考資料が掲載されています。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "地域ブロック別の職種別平均手数料及び離職率について",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/36163_00001.html",
-     "date": "2026-09-30",
-     "first_seen": "2026-10-01",
-     "is_new": false,
-     "summary": "厚生労働省が、職業紹介事業者を選択する医療・介護・保育分野の事業者等に向けて公表した文書です。令和6年度実績の地域ブロック別・職種別平均手数料と、令和5年度実績の離職率に関する資料が新たに示されました。これにより、事業者が紹介事業者を選ぶ際の参考情報が更新されました。公表日は明記されていません。",
      "summary_status": "ok"
     }
    ]

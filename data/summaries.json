@@ -6229,5 +6229,40 @@
 "status": "ok",
 "model": "gemini-3.5-flash",
 "at": "2026-10-08"
+},
+"https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf|2026-10-08": {
+"summary": "財務省が令和8年10月8日に公表した、指定報告機関（財務大臣が指定した銀行や金融商品取引業者等）向けの文書です。令和8年9月27日から10月3日における対外及び対内証券売買契約等の状況が示されています。対外証券投資では株式・投資ファンド持分が1兆3,246億円の取得超、対内証券投資では同持分が2兆1,919億円の取得超となるなど、居住者・非居住者による各種証券の取得・処分状況が更新されました。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-08"
+},
+"https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf|2026-10-08": {
+"summary": "財務省が令和8年10月8日に公表した、指定報告機関（財務大臣が指定した銀行や金融商品取引業者等）を対象とする文書です。令和8年9月中における、居住者による対外証券投資および非居住者による対内証券投資の株式・投資ファンド持分、中長期債、短期債の取得・処分・ネットの状況、ならびに投資家部門別の対外証券投資の状況が示されています。制度やルールの変更に関する記載はありません。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-08"
+},
+"https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202608.htm|2026-10-08": {
+"summary": "財務省が令和8年10月8日に公表した、令和8年8月中の国際収支状況（速報）の概要に関する文書です。\n\n経常収支は、第一次所得収支の黒字幅拡大等により、4兆620億円の黒字（前年同月比4,339億円の黒字幅拡大）となりました。一方、貿易・サービス収支は、貿易収支が赤字に転化したこと等から8,035億円の赤字（同6,507億円の赤字幅拡大）となっています。金融収支は、純資産が2兆2,183億円増加しました。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-08"
+},
+"http://www.boj.or.jp/statistics/br/bop_06/bpdata/diiqcy.htm|2026-10-08": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-08"
+},
+"https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-daijinkanboukaikeika-kanrieiyoushi01.html|2026-10-08": {
+"summary": "厚生労働省が、管理栄養士の資格と特定保健指導の実務経験が概ね1年以上ある人を対象に募集する、大臣官房会計課ヘルスケア推進室の期間業務職員（非常勤の管理栄養士1名）の採用情報です。採用されると、職員用診療室での特定保健指導や栄養指導等に従事します。任用期間は令和9年1月1日（以降で調整）から令和9年3月31日までで、再採用の可能性があります。応募締め切りは令和8年11月4日必着です。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-08"
+},
+"https://www.mhlw.go.jp/stf/newpage_76578.html|2026-10-07": {
+"summary": "厚生労働省は、2026年7月29日開催の薬事審議会安全対策調査会にて、がん化学療法に伴う悪心・嘔吐（CINV）治療に用いる「オランザピン（経口剤）」について、糖尿病患者等への禁忌解除を審議しました。\n\n入院下での頻回な血糖モニタリングや緊急時対応体制の整備、関連学会による医療機関等への情報提供資材の作成・配布などを条件に、CINV治療時に限り禁忌から削除する方針が提案され、審議されました。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-08"
 }
 }

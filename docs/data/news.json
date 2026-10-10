@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-10 10:44",
- "generated_date": "2026-10-10",
- "previous_generated_at": "2026-10-09 11:06",
+ "generated_at": "2026-10-11 06:10",
+ "generated_date": "2026-10-11",
+ "previous_generated_at": "2026-10-10 10:44",
  "new_since": "2026-10-09",
  "agencies": [
   {
@@ -2882,5 +2882,5 @@
   }
  ],
  "errors": [],
- "summary_model": ""
+ "summary_model": "gemini-3.6-flash"
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14 08:45",
+ "generated_at": "2026-10-14 10:11",
  "generated_date": "2026-10-14",
  "previous_generated_at": "2026-10-13 12:01",
  "new_since": "2026-10-13",
@@ -160,6 +160,15 @@
    "errors": [],
    "items": [
     {
+     "title": "国債金利情報(令和8年10月13日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-10-14",
+     "first_seen": "2026-10-14",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月13日(火曜日))",
      "url": "https://www.mof.go.jp/public_relations/conference/my20261013.html",
      "date": "2026-10-13",
@@ -203,15 +212,6 @@
      "is_new": false,
      "summary": "財務省の物品・役務に関する調達案件に応札する事業者等に向け、入札公告や落札結果の情報を一覧で掲載した文書です。\n\n令和8年4月から10月にかけて公告・契約締結された、システム構築・運用、調査研究、広報・印刷、研修、物品購入等の案件一覧が掲載されています。各案件の入札公告日をクリックすることで調達ポータルサイトへ移動し、詳細情報を確認できます。制度変更等の記述はありません。",
      "summary_status": "ok"
-    },
-    {
-     "title": "国債金利情報(令和8年10月9日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-     "date": "2026-10-13",
-     "first_seen": "2026-10-13",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
     },
     {
      "title": "片山財務大臣の世銀・IMF合同開発委員会次期議長指名について（令和8年10月13日）",
@@ -792,6 +792,24 @@
    "errors": [],
    "items": [
     {
+     "title": "営業毎旬報告（10月10日現在）",
+     "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261010.htm",
+     "date": "2026-10-14",
+     "first_seen": "2026-10-14",
+     "is_new": true,
+     "summary": "日本銀行が2026年10月14日に公表した、令和8年10月10日現在の営業毎旬報告です。関係者向けに、日本銀行の資産（国債や貸付金等、計624兆6327億円）と負債・純資産（発行銀行券や当座預金等、同額）の財務状況、および国債や貸出支援基金等の詳細な内訳を開示しています。制度等の変更や開始時期に関する記載はありません。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "マネーストック（9月）",
+     "url": "http://www.boj.or.jp/statistics/money/ms/ms2609.pdf",
+     "date": "2026-10-14",
+     "first_seen": "2026-10-14",
+     "is_new": true,
+     "summary": "日本銀行が2026年10月14日に公表した、2026年9月のマネーストック統計速報です。金融機関や経済調査担当者向けに、国内の通貨供給量（M2、M3、広義流動性等）の残高と伸び率を報告しています。9月のM2平均残高は前年比2.0％増、M3は同1.2％増となりました。また、2026年1月以降の計数に訂正が入っており、最新の数値は時系列統計データ検索サイトで確認するよう求めています。",
+     "summary_status": "ok"
+    },
+    {
      "title": "金融安定理事会による「グローバル・ステーブルコイン（GSC）：クロスボーダーの脆弱性と金融安定のモニタリング」の公表について",
      "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261013c.htm",
      "date": "2026-10-13",
@@ -1311,24 +1329,6 @@
      "first_seen": "2026-09-24",
      "is_new": false,
      "summary": "本文書は、金融市場のレポ取引に関わる実務者に対し、日本銀行が「FSBレポ統計の日本分集計結果」を公表するものです。金融安定理事会（FSB）の勧告に基づき、わが国レポ市場の透明性向上を目的として2020年1月から公表が開始されました。直近では2026年8月分のデータが同年9月24日に掲載されています。市場全体の取引動向や統計データの訂正情報が更新されており、自社の取引状況との比較等に活用できます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "総裁記者会見（9月18日）動画の配信開始",
-     "url": "http://www.boj.or.jp/about/release/sousaidouga.htm",
-     "date": "2026-09-18",
-     "first_seen": "2026-09-19",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
-    },
-    {
-     "title": "「補完当座預金制度基本要領」の一部改正について",
-     "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
-     "date": "2026-09-18",
-     "first_seen": "2026-09-19",
-     "is_new": false,
-     "summary": "日本銀行は、金融市場調節方針の変更に伴い、日本銀行に当座預金口座を持つ金融機関等を対象とした「補完当座預金制度基本要領」の一部改正を決定しました。この改正により、同制度における適用利率が「年1.25％」に改定されます。実施日は令和8年9月24日です。本件は、令和8年9月17・18日の政策委員会・金融政策決定会合での決定に基づくものです。",
      "summary_status": "ok"
     }
    ]

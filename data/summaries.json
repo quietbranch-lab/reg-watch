@@ -6953,5 +6953,22 @@
 "status": "ok",
 "model": "gemini-3.5-flash-lite",
 "at": "2026-10-14"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-10-14": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-14"
+},
+"http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261010.htm|2026-10-14": {
+"summary": "日本銀行が2026年10月14日に公表した、令和8年10月10日現在の営業毎旬報告です。関係者向けに、日本銀行の資産（国債や貸付金等、計624兆6327億円）と負債・純資産（発行銀行券や当座預金等、同額）の財務状況、および国債や貸出支援基金等の詳細な内訳を開示しています。制度等の変更や開始時期に関する記載はありません。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-14"
+},
+"http://www.boj.or.jp/statistics/money/ms/ms2609.pdf|2026-10-14": {
+"summary": "日本銀行が2026年10月14日に公表した、2026年9月のマネーストック統計速報です。金融機関や経済調査担当者向けに、国内の通貨供給量（M2、M3、広義流動性等）の残高と伸び率を報告しています。9月のM2平均残高は前年比2.0％増、M3は同1.2％増となりました。また、2026年1月以降の計数に訂正が入っており、最新の数値は時系列統計データ検索サイトで確認するよう求めています。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-14"
 }
 }

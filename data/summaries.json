@@ -7084,5 +7084,22 @@
 "status": "ok",
 "model": "gemini-3.5-flash-lite",
 "at": "2026-10-15"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-10-15": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-15"
+},
+"https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20261015.htm|2026-10-15": {
+"summary": "財務省が国債購入者等に向け、新型窓口販売方式による5年利付国債（第188回）の発行条件等を公表した文書です。募集期間は令和8年10月19日から10月30日までで、発行日は令和8年11月12日です。表面利率は年2.4%、募集価格は額面100円につき100円38銭、申込単位は最低5万円から5万円単位で上限額は3億円、償還期限は令和13年9月20日と指定されています。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-15"
+},
+"https://www.mhlw.go.jp/stf/newpage_33437.html|2026-10-15": {
+"summary": "厚生労働省は、多様な職務経験を持つ社会人を対象に、本省係長級職員（一般職相当）を募集します。募集区分は「一般行政事務」と「情報セキュリティ・IT等関係事務」で、採用予定数は計19名程度です。応募には大卒7年以上等の職務経験やPCスキルが必要です。受付期間は令和8年10月30日から11月12日までで、選考を経て令和9年4月1日から6月1日の間に採用されます。応募は専用マイページから行います。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-15"
 }
 }

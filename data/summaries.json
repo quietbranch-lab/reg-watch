@@ -7277,5 +7277,17 @@
 "status": "ok",
 "model": "gemini-3.6-flash",
 "at": "2026-10-16"
+},
+"https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf|2026-10-16": {
+"summary": "財務省が公表した、市場参加者や実務者向けの報道発表文書です。令和8年10月4日〜10月10日における指定報告機関ベースの対外・対内証券売買契約等の週次状況が公表されました。対外証券投資では株式・投資ファンド持分が7,606億円の処分超（売り越し）、中長期債が3,397億円の処分超となりました。一方、対内証券投資では株式・投資ファンド持分が3兆5,215億円の取得超（買い越し）等となっています。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-16"
+},
+"https://www.mof.go.jp/policy/international_policy/reference/offshore/data/offshore.pdf|2026-10-16": {
+"summary": "財務省が令和8年10月16日に公表した、一般・実務者等向けの報道発表文書です。令和8年8月末時点におけるオフショア勘定の資産および負債の残高（預け金、有価証券、貸付金、預り金、借入金、本支店勘定などの総残高、外貨建・円貨建、対非居住者内訳、前月比伸率等）の統計データを公表しています。制度変更や新たな義務付け等に関する記載はありません。",
+"status": "ok",
+"model": "gemini-3.5-flash",
+"at": "2026-10-16"
 }
 }

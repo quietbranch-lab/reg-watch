@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16 08:06",
+ "generated_at": "2026-10-16 09:21",
  "generated_date": "2026-10-16",
  "previous_generated_at": "2026-10-15 09:30",
  "new_since": "2026-10-15",
@@ -159,6 +159,24 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
+     "date": "2026-10-16",
+     "first_seen": "2026-10-16",
+     "is_new": true,
+     "summary": "財務省が公表した、市場参加者や実務者向けの報道発表文書です。令和8年10月4日〜10月10日における指定報告機関ベースの対外・対内証券売買契約等の週次状況が公表されました。対外証券投資では株式・投資ファンド持分が7,606億円の処分超（売り越し）、中長期債が3,397億円の処分超となりました。一方、対内証券投資では株式・投資ファンド持分が3兆5,215億円の取得超（買い越し）等となっています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "オフショア勘定残高",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/offshore/data/offshore.pdf",
+     "date": "2026-10-16",
+     "first_seen": "2026-10-16",
+     "is_new": true,
+     "summary": "財務省が令和8年10月16日に公表した、一般・実務者等向けの報道発表文書です。令和8年8月末時点におけるオフショア勘定の資産および負債の残高（預け金、有価証券、貸付金、預り金、借入金、本支店勘定などの総残高、外貨建・円貨建、対非居住者内訳、前月比伸率等）の統計データを公表しています。制度変更や新たな義務付け等に関する記載はありません。",
+     "summary_status": "ok"
+    },
     {
      "title": "片山大臣と韓国のイ・ヒョンイル副総理兼財政経済部長官との面会（令和8年10月15日（木））",
      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013104336.html",
@@ -511,15 +529,6 @@
      "summary_status": "ok"
     },
     {
-     "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
-     "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
-     "date": "2026-10-08",
-     "first_seen": "2026-10-08",
-     "is_new": false,
-     "summary": "財務省が令和8年10月8日に公表した、指定報告機関（財務大臣が指定した銀行や金融商品取引業者等）向けの文書です。令和8年9月27日から10月3日における対外及び対内証券売買契約等の状況が示されています。対外証券投資では株式・投資ファンド持分が1兆3,246億円の取得超、対内証券投資では同持分が2兆1,919億円の取得超となるなど、居住者・非居住者による各種証券の取得・処分状況が更新されました。",
-     "summary_status": "ok"
-    },
-    {
      "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
      "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf",
      "date": "2026-10-08",
@@ -688,15 +697,6 @@
      "first_seen": "2026-10-06",
      "is_new": false,
      "summary": "財務省が日豪両国の財務大臣向けに、日豪財務大臣対話の開催や協力覚書の署名について知らせる文書。令和8年10月5日、片山財務大臣と豪州のチャルマーズ財務大臣が協力覚書に署名し、第1回日豪財務大臣対話を東京で開催した。マクロ経済・経済安全保障、投資協力、国際協力等について意見交換を行い、両国間の協力関係を一層深めていくことを確認した。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "国債市場特別参加者会合（第120回）議事要旨",
-     "url": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/proceedings/260928.html",
-     "date": "2026-10-05",
-     "first_seen": "2026-10-06",
-     "is_new": false,
-     "summary": "国債市場特別参加者（PD）向けに財務省理財局が公表した会合議事要旨。令和8年10-12月期の国債発行等の当局案提示と、新たに発行予定の変動利付国債等の検討状況の共有、今後の市場見通しの意見交換が行われた。\n\n主な変更予定:\n- 10-12月期の流動性供給入札（残存5-11年）を毎月5,000億円（1,500億円減額）に変更\n- 物価連動債の発行額・買入消却額は現状維持\n- 変動利付国債は来年1月以降に2年債で初回発行予定（約2か月前に条件公表）",
      "summary_status": "ok"
     }
    ]

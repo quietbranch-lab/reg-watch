@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18 05:54",
+ "generated_at": "2026-10-18 06:10",
  "generated_date": "2026-10-18",
  "previous_generated_at": "2026-10-17 09:25",
  "new_since": "2026-10-16",
@@ -2864,5 +2864,5 @@
   }
  ],
  "errors": [],
- "summary_model": ""
+ "summary_model": "gemini-3.6-flash"
 }

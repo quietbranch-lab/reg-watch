@@ -39,17 +39,25 @@ MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash").strip()
 # 1日の新着は50件を超えることがあるため、質の高い順に並べた複数モデルを
 # 束ねて枠を確保する。上から使い、枯れたら次へ自動で降りる。
 #
+# 【採用条件】公式の料金表(ai.google.dev/gemini-api/docs/pricing)で
+# 「Free of charge」と明記されているモデルだけを既定に置く。API から
+# 呼べることは無料である証明にならない。課金が起きるとしたらここなので、
+# モデルを足すときは必ず料金表で無料を確認してから入れる。
+#
 # 実測（同一資料・thinkingLevel=minimal）:
-#   3.6-flash        2.7秒  本命
-#   3.5-flash        1.7秒
-#   3-flash-preview  1.7秒
-#   3.5-flash-lite   1.6秒
-#   3.1-flash-lite   1.4秒
-# 3.7-flash は1件20秒かかり503も頻発したため既定から外した（明示指定は可能）。
+#   3.6-flash        1.6秒  本命   料金表に無料と記載
+#   3-flash-preview  1.9秒         料金表に無料と記載
+#   3.5-flash-lite   1.6秒         料金表に無料と記載
+#   3.1-flash-lite   1.4秒         料金表に無料と記載
+# 2026-10-18 に 3.5-flash を既定から外した。呼び出しは成功し直近30日で
+# 216件を生成していたが、料金表の無料にも有料にも載っておらず無料と
+# 確認できないため。品質ではなく課金リスクによる除外。
+# 3.7-flash は1件20秒かかり503も頻発、3.8-flash は minimal 非対応で
+# low だと1件143秒。どちらも無料だが日次バッチには遅すぎて既定外。
 # 2.5系は models 一覧に出るが generateContent は404で使えない。
 FALLBACK = [m.strip() for m in os.environ.get(
     "GEMINI_FALLBACK",
-    "gemini-3.5-flash,gemini-3-flash-preview,"
+    "gemini-3-flash-preview,"
     "gemini-3.5-flash-lite,gemini-3.1-flash-lite").split(",") if m.strip()]
 
 # 要約に深い思考は要らない。既定のままだと思考が出力枠を食い潰し、

@@ -7537,5 +7537,11 @@
 "status": "ok",
 "model": "gemini-3.5-flash",
 "at": "2026-10-18"
+},
+"https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-kenkou_seikatueiseikyoku01_00005.html|2026-10-19": {
+"summary": "厚生労働省が、政策統括官付雇用・賃金福祉統計室で勤務する期間業務職員1名を募集する文書です。主な職務は、毎月勤労統計調査における受付・審査、データ修正、問い合わせ対応等の一般行政事務補助です。パソコン操作が可能で意欲のある人を対象としています。任用期間は令和8年11月24日から令和9年3月31日までで、再採用はありません。応募は履歴書の郵送が必要で、令和8年11月2日が締め切りです。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-19"
 }
 }

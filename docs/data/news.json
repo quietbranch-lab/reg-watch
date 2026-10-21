@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21 08:13",
+ "generated_at": "2026-10-21 09:35",
  "generated_date": "2026-10-21",
  "previous_generated_at": "2026-10-20 10:04",
  "new_since": "2026-10-20",
@@ -160,6 +160,24 @@
    "errors": [],
    "items": [
     {
+     "title": "国債金利情報(令和8年10月20日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-10-21",
+     "first_seen": "2026-10-21",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
+     "title": "貿易統計(令和8年9月分及び令和8年度上半期分速報)【税関ホームページ】",
+     "url": "https://www.mof.go.jp/outside_link/20261020112024.html",
+     "date": "2026-10-21",
+     "first_seen": "2026-10-21",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月20日(火曜日))",
      "url": "https://www.mof.go.jp/public_relations/conference/my20261020.html",
      "date": "2026-10-20",
@@ -293,15 +311,6 @@
      "is_new": false,
      "summary": "令和8年10月20日、財務省、外務省、経産省、JBIC、NEXIと米国商務省は、日米戦略的投資イニシアティブの協議委員会をオンラインで開催しました。両国は、既に発表されたプロジェクトの進展状況や、今後の新規プロジェクト組成について協議し、引き続き緊密に連携することを確認しました。日米間の戦略的投資プロジェクトに携わる実務担当者が、進捗管理や今後の案件形成を把握するための文書です。",
      "summary_status": "ok"
-    },
-    {
-     "title": "国債金利情報(令和8年10月19日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-     "date": "2026-10-20",
-     "first_seen": "2026-10-20",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
     },
     {
      "title": "財政投融資分科会（令和８年10月19日開催）資料一覧",
@@ -689,15 +698,6 @@
      "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
-    },
-    {
-     "title": "第552回日本高速道路保有・債務返済機構債券（ソーシャルボンド）に対する政府保証の付与",
-     "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2029.htm",
-     "date": "2026-10-09",
-     "first_seen": "2026-10-10",
-     "is_new": false,
-     "summary": "財務省が金融・投資関係者等に向け、独立行政法人日本高速道路保有・債務返済機構が発行する債券に関する決定を知らせる文書です。機構が令和8年10月に発行予定の「第552回日本高速道路保有・債務返済機構債券（ソーシャルボンド）」に対し、政府保証が付与されます。保証対象の発行額は150億円、発行日は令和8年10月28日、償還日は令和23年10月31日です。",
-     "summary_status": "ok"
     }
    ]
   },

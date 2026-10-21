@@ -7982,5 +7982,15 @@
 "status": "ok",
 "model": "gemini-3-flash-preview",
 "at": "2026-10-21"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-10-21": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-21"
+},
+"https://www.mof.go.jp/outside_link/20261020112024.html|2026-10-21": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-21"
 }
 }

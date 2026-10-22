@@ -8117,5 +8117,28 @@
 "status": "ok",
 "model": "gemini-3-flash-preview",
 "at": "2026-10-22"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-10-22": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-22"
+},
+"https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf|2026-10-22": {
+"summary": "財務省が10月22日に公表した、指定報告機関（銀行や保険会社等）による10月11日〜17日の証券売買状況です。居住者の対外",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-22"
+},
+"http://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf|2026-10-22": {
+"summary": "日本銀行が2026年10月22日に公表した、主要銀行50行庫を対象とする貸出動向アンケート調査結果です。過去3ヶ月（7〜10月）の資金需要は、企業・個人向け共に増加しました。特に大企業の設備投資や個人の住宅・消費資金の需要が寄与しています。今後3ヶ月の見通しも、企業向けを中心に増加傾向が続く見込みです。銀行の貸出スタンスは概ね不変ですが、企業向け利鞘は拡大方向で推移しています。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-22"
+},
+"http://www.boj.or.jp/statistics/bis/repo/index.htm|2026-10-22": {
+"summary": "日本銀行がレポ市場の参加者や分析担当者に向けて、金融安定理事会（FSB）の勧告に基づく「FSBレポ統計の日本分集計結果」を公表するものです。本文書は2026年9月分のデータ公表および過去データの訂正を通知しています。2020年1月から公表が開始されており、わが国のレポ市場の透明性向上を目的としています。実務者は最新の統計数値および訂正内容を確認し、市場分析や報告業務への影響を判断する必要があります。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-22"
 }
 }

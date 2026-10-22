@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22 08:26",
+ "generated_at": "2026-10-22 09:40",
  "generated_date": "2026-10-22",
  "previous_generated_at": "2026-10-21 09:35",
  "new_since": "2026-10-21",
@@ -160,6 +160,24 @@
    "errors": [],
    "items": [
     {
+     "title": "国債金利情報(令和8年10月21日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-10-22",
+     "first_seen": "2026-10-22",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
+     "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
+     "date": "2026-10-22",
+     "first_seen": "2026-10-22",
+     "is_new": true,
+     "summary": "財務省が10月22日に公表した、指定報告機関（銀行や保険会社等）による10月11日〜17日の証券売買状況です。居住者の対外",
+     "summary_status": "ok"
+    },
+    {
      "title": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツの一時停止のお知らせ",
      "url": "https://www.mof.go.jp/public_relations/ohter/20261021231537.html",
      "date": "2026-10-21",
@@ -176,15 +194,6 @@
      "is_new": true,
      "summary": "財務省が借入金の入札参加者に対し、交付税及び譲与税配付金特別会計における借入金の入札予定を公表した文書です。令和8年10月28日に、予定額1兆2,000億円程度、借入利率競争入札および非競争入札の方式で申込受付を行います。借入日は令和8年11月12日、償還期限は令和9年5月13日の一括償還です。国庫の資金繰りにより借入予定額が変更される場合があります。",
      "summary_status": "ok"
-    },
-    {
-     "title": "国債金利情報(令和8年10月20日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-     "date": "2026-10-21",
-     "first_seen": "2026-10-21",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
     },
     {
      "title": "貿易統計(令和8年9月分及び令和8年度上半期分速報)【税関ホームページ】",
@@ -520,15 +529,6 @@
      "summary_status": "ok"
     },
     {
-     "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
-     "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
-     "date": "2026-10-16",
-     "first_seen": "2026-10-16",
-     "is_new": false,
-     "summary": "財務省が公表した、市場参加者や実務者向けの報道発表文書です。令和8年10月4日〜10月10日における指定報告機関ベースの対外・対内証券売買契約等の週次状況が公表されました。対外証券投資では株式・投資ファンド持分が7,606億円の処分超（売り越し）、中長期債が3,397億円の処分超となりました。一方、対内証券投資では株式・投資ファンド持分が3兆5,215億円の取得超（買い越し）等となっています。",
-     "summary_status": "ok"
-    },
-    {
      "title": "オフショア勘定残高",
      "url": "https://www.mof.go.jp/policy/international_policy/reference/offshore/data/offshore.pdf",
      "date": "2026-10-16",
@@ -791,6 +791,24 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "主要銀行貸出動向アンケート調査（10月）",
+     "url": "http://www.boj.or.jp/statistics/dl/loan/loos/release/loos2610.pdf",
+     "date": "2026-10-22",
+     "first_seen": "2026-10-22",
+     "is_new": true,
+     "summary": "日本銀行が2026年10月22日に公表した、主要銀行50行庫を対象とする貸出動向アンケート調査結果です。過去3ヶ月（7〜10月）の資金需要は、企業・個人向け共に増加しました。特に大企業の設備投資や個人の住宅・消費資金の需要が寄与しています。今後3ヶ月の見通しも、企業向けを中心に増加傾向が続く見込みです。銀行の貸出スタンスは概ね不変ですが、企業向け利鞘は拡大方向で推移しています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "FSBレポ統計の日本分集計結果",
+     "url": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
+     "date": "2026-10-22",
+     "first_seen": "2026-10-22",
+     "is_new": true,
+     "summary": "日本銀行がレポ市場の参加者や分析担当者に向けて、金融安定理事会（FSB）の勧告に基づく「FSBレポ統計の日本分集計結果」を公表するものです。本文書は2026年9月分のデータ公表および過去データの訂正を通知しています。2020年1月から公表が開始されており、わが国のレポ市場の透明性向上を目的としています。実務者は最新の統計数値および訂正内容を確認し、市場分析や報告業務への影響を判断する必要があります。",
+     "summary_status": "ok"
+    },
     {
      "title": "バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」の公表について",
      "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261020a.htm",
@@ -1311,24 +1329,6 @@
      "first_seen": "2026-10-01",
      "is_new": false,
      "summary": "日本銀行決済機構局が公表した、わが国における2026年8月時点の主要な「決済」活動の主要指標を編集・掲載した統計資料です。\n\n日本銀行における当座預金決済や国債振決口座振替決済、日銀ネット利用先数のほか、民間決済システム（手形交換、全銀システム、外為円決済、証券・デリバティブ決済）、電子マネー、デビットカードなどの決済件数・金額等の推移や内訳のデータがまとめられています。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "企業向けサービス価格指数（8月）",
-     "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2608.pdf",
-     "date": "2026-09-28",
-     "first_seen": "2026-09-28",
-     "is_new": false,
-     "summary": "日本銀行は2026年9月28日、同年8月の企業向けサービス価格指数（速報）を公表しました。8月の総平均指数は115.4で、前年比3.7％上昇、前月比0.3％上昇となりました。特に運輸・郵便（外航貨物輸送等）や諸サービス、リース・レンタルが前年比でプラスに寄与しています。一方、情報通信や宿泊サービスなどは前月比でマイナス寄与となりました。次回公表は10月27日の予定です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "金融政策決定会合議事要旨（7月30、31日開催分）",
-     "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260731.pdf",
-     "date": "2026-09-28",
-     "first_seen": "2026-09-28",
-     "is_new": false,
-     "summary": "日本銀行が2026年9月28日に公表した、同年7月30・31日開催の金融政策決定会合の議事要旨です。\n\n主な内容は、次回会合までの金融市場調節方針として、無担保コールレート（オーバーナイト物）を1.0％程度で推移するよう促すことを決定した点です。委員からは、AI需要の拡大や物価上昇リスクを背景に、経済・物価情勢に応じた段階的な利上げの必要性や、市場との対話の重要性が議論されました。",
      "summary_status": "ok"
     }
    ]

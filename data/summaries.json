@@ -9000,5 +9000,16 @@
 "status": "ok",
 "model": "gemini-3.6-flash",
 "at": "2026-10-29"
+},
+"https://www.mof.go.jp/outside_link/20261028111809.html|2026-10-29": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-29"
+},
+"https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf|2026-10-29": {
+"summary": "財務省が指定報告機関（銀行や証券会社等）を対象に公表した、令和8年10月18日から24日までの対外・対内証券売買契約状況の週次報告です。居住者による対外証券投資は、株式・投資ファンド持分と短期債が取得超、中長期債が処分超となりました。非居住者による対内証券投資は、株式・投資ファンド持分と中長期債が取得超、短期債が処分超となりました。前週までの修正値も併せて公表されています。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-29"
 }
 }

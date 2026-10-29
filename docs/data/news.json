@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29 07:49",
+ "generated_at": "2026-10-29 09:04",
  "generated_date": "2026-10-29",
  "previous_generated_at": "2026-10-28 10:17",
  "new_since": "2026-10-28",
@@ -157,6 +157,24 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "貿易統計(令和8年10月上旬分速報)【税関ホームページ】",
+     "url": "https://www.mof.go.jp/outside_link/20261028111809.html",
+     "date": "2026-10-29",
+     "first_seen": "2026-10-29",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
+     "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
+     "date": "2026-10-29",
+     "first_seen": "2026-10-29",
+     "is_new": true,
+     "summary": "財務省が指定報告機関（銀行や証券会社等）を対象に公表した、令和8年10月18日から24日までの対外・対内証券売買契約状況の週次報告です。居住者による対外証券投資は、株式・投資ファンド持分と短期債が取得超、中長期債が処分超となりました。非居住者による対内証券投資は、株式・投資ファンド持分と中長期債が取得超、短期債が処分超となりました。前週までの修正値も併せて公表されています。",
+     "summary_status": "ok"
+    },
     {
      "title": "米州開発銀行（IDB）リクルート・ミッションが来日します",
      "url": "https://www.mof.go.jp/policy/international_policy/mdbs/idb/ebrd20251001.html",
@@ -446,15 +464,6 @@
      "summary_status": "ok"
     },
     {
-     "title": "対外及び対内証券売買契約等の状況(週次・指定報告機関ベース)",
-     "url": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/week.pdf",
-     "date": "2026-10-22",
-     "first_seen": "2026-10-22",
-     "is_new": false,
-     "summary": "財務省が10月22日に公表した、指定報告機関（銀行や保険会社等）による10月11日〜17日の証券売買状況です。居住者の対外",
-     "summary_status": "ok"
-    },
-    {
      "title": "PHPの脆弱性対応に伴うWebサイト・一部コンテンツの一時停止のお知らせ",
      "url": "https://www.mof.go.jp/public_relations/ohter/20261021231537.html",
      "date": "2026-10-21",
@@ -686,15 +695,6 @@
      "first_seen": "2026-10-18",
      "is_new": false,
      "summary": "IMF・WBG加盟国や関係機関等に対し、令和8年10月16日の第81回年次総会で片山財務大臣が行った演説文書です。今後の日本の方針や両機関への期待が示されています。主な内容として、日本は国・地方の総債務残高対GDP比の安定的低下により経済成長と財政持続性を両立させること、PRGT等への自発的資金貢献を継続すること、母子保健・栄養支援のためGFFへ4000万ドル新規拠出すること等を表明しています。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第54回国際通貨金融委員会（IMFC）議長声明（仮訳）.pdf",
-     "url": "https://www.mof.go.jp/policy/international_policy/imf/imfc/261017_IMFC_1.pdf",
-     "date": "2026-10-17",
-     "first_seen": "2026-10-18",
-     "is_new": false,
-     "summary": "本合意事項は、IMF加盟国や国際金融関係者等に対し、国際通貨金融委員会（IMFC）が世界経済の安定や成長促進に向けた基本方針を示した文書です。具体的な日付の変更規定はなく、2026年10月17日の採択以降、多角的な政策協調、財政健全化、金融リスク監視、債務再編プロセスの改善、IMFのサーベイランスや融資機能の強化、クォータ増資の国内承認推進などの方針を再確認し、協調して取り組むことが示されています。（198字）",
      "summary_status": "ok"
     }
    ]

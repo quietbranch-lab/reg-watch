@@ -9487,5 +9487,73 @@
 "status": "ok",
 "model": "gemini-3-flash-preview",
 "at": "2026-10-30"
+},
+"https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261030.htm|2026-10-30": {
+"summary": "財務省が国債市場参加者等に向け、第1417回国庫短期証券の発行予定を公表した文書です。発行予定額は額面3兆1,000億円程度で、令和8年11月6日に入札、11月9日に発行、令和9年2月15日に償還される予定です。発行予定額を変更する場合は、入札前日に再度公表されます。短期国債の調達計画や市場動向を管理する実務担当者に関連する情報です。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-30"
+},
+"https://www.mof.go.jp/insideLink/20261029093950.html|2026-10-30": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-30"
+},
+"https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm|2026-10-30": {
+"summary": "財務省の調達案件への参画を検討する事業者向けに、物品の購入や役務の提供に関する入札公告および落札結果を公表するものです。対象は、システムの運用保守、調査研究、印刷製本、車両購入など多岐にわたります。令和8年4月から10月にかけて随時情報が更新されており、入札公告日や契約締結日が示されています。各案件の詳細は、リンク先の調達ポータルサイトや「公共調達の適正化に係る情報の公表」で確認可能です。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-30"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-10-30": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-30"
+},
+"https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20261030.htm|2026-10-30": {
+"summary": "財務省が、新型窓口販売方式による第490回2年利付国債の取扱金融機関等に向けて発行条件を公表した文書です。表面利率は年1.9%、募集価格は額面100円につき100円06銭に決定しました。募集期間は令和8年11月4日から11月27日までで、発行日は同年12月9日です。最低5万円から5万円単位で申し込みが可能で、償還期限は令和10年11月1日となります。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-30"
+},
+"http://www.boj.or.jp/about/release/sousailive.htm|2026-10-30": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-30"
+},
+"https://www.caa.go.jp/notice/entry/047949/|2026-10-30": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-10-30"
+},
+"https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-igyoukeieisenmonkanorsyusa_00001.html|2026-10-30": {
+"summary": "厚生労働省が、医療情報システム関連の実務経験4年以上かつ医療系・情報処理資格を持つ人を対象に、医療情報連携担当参事官室の企画開発係長（任期付職員）1名を募集する文書です。主な業務は医療情報の標準化や医療DXの企画立案、技術的分析等です。雇用期間は令和9年1月1日から2年間（調整可）で、応募期間は令和8年10月30日から11月16日までです。書類選考と面接により選考が行われます。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-30"
+},
+"https://www.mhlw.go.jp/toukei/list/30-1b.html|2026-10-30": {
+"summary": "厚生労働省は、毎月勤労統計調査の利用者に対し、令和8年10月30日付で「毎月勤労統計調査地方調査令和7年6月結果」の一部訂正を公表しました。本公表により、過去に発表された地方調査の結果数値が修正されます。同調査の結果を業務で利用している実務者は、正誤情報を確認し、引用データや分析資料の数値を最新の内容に更新する必要があります。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-30"
+},
+"https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/index_00014.html|2026-10-30": {
+"summary": "厚生労働省は、政策の企画立案や調査研究に従事する総合職人間科学区分（課長補佐級・係長級）の経験者選考採用を実施します。対象は大学等卒業後、令和9年4月1日時点で通算9年以上（補佐級）または4年以上（係長級）の職務経験を持つ人です。採用後は主に雇用・人材育成分野での活躍が期待されます。受付期間は令和8年10月30日から11月30日までで、採用予定日は原則令和9年4月1日です。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-30"
+},
+"https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html|2026-10-30": {
+"summary": "厚生労働省が、医師や看護師、社会福祉士など医政局・社会・援護局等が所管する各種国家試験の令和8年度から9年度にかけての試験日、合格発表日、問い合わせ先を公表しました。対象は医療・保健・福祉・安全衛生等の資格取得を目指す受験者や養成施設、人事担当者です。試験ごとに令和8年6月から令和9年3月までの実施日程が定められており、実務者は担当職種の試験スケジュールを確認する必要があります。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-10-30"
+},
+"https://www.mhlw.go.jp/stf/newpage_77050.html|2026-10-30": {
+"summary": "厚生労働省が労働者および使用者を対象に、労働時間法制の具体的課題（法定休日、連続勤務規制、副業・兼業）に関する検討の論点や詳細について審議を行った、第214回労働政策審議会労働条件分科会の開催資料を公表した。（118字）",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-10-30"
 }
 }

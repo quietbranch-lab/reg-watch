@@ -10296,5 +10296,27 @@
 "status": "ok",
 "model": "gemini-3.6-flash",
 "at": "2026-11-04"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-11-04": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-11-04"
+},
+"http://www.boj.or.jp/statistics/boj/other/mb/mb.htm|2026-11-04": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-11-04"
+},
+"https://www.mhlw.go.jp/stf/newpage_76949.html|2026-11-04": {
+"summary": "厚生労働省が、令和8年秋の叙勲受章者について公表した文書です。10月23日の閣議で決定され、11月3日付で発令されました。同省関連では、旭日重光章から瑞宝単光章まで計401名が受章しています。中綬章以下の受章者の拝謁は、11月25日午後に皇居宮殿で執り行われる予定です。実務担当者は、添付の受章者名簿により自組織や関連団体の対象者を確認する必要があります。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-04"
+},
+"https://www.mhlw.go.jp/stf/newpage_76875.html|2026-11-04": {
+"summary": "厚生労働省は、令和8年秋の褒章受章者を発表しました。令和8年11月3日付で発令され、同省関連では163名が受章しました。内訳は、社会奉仕活動の緑綬褒章が7名12団体、業務精励の黄綬褒章が85名、医療・社会福祉や民生・児童委員等の公衆の利益に尽力した藍綬褒章が59名です。実務担当者は、自組織や関連団体の候補者が受章者名簿に含まれているかを確認する必要があります。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-04"
 }
 }

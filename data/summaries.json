@@ -10497,5 +10497,22 @@
 "status": "ok",
 "model": "gemini-3-flash-preview",
 "at": "2026-11-05"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-11-05": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-11-05"
+},
+"https://www.npa.go.jp/sosikihanzai/jafic/todoke/yousei.htm#p1|2026-11-05": {
+"summary": "金融機関等の事業者に対し、警察庁が資産凍結等の措置や疑わしい取引の届出の徹底を要請するものです。外務省告示に基づき、国連安保理決議の対象となるタリバーン関係者等のリストが令和8年11月5日付で一部改正されました。また、北朝鮮やイランの核・ミサイル開発に関与する者への資産凍結措置、FATF声明による高リスク国・地域の公表（令和8年6月19日）等に伴う本人確認や届出義務の履行を求めています。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-05"
+},
+"https://www.mhlw.go.jp/stf/newpage_77172.html|2026-11-04": {
+"summary": "厚生労働省は、2026年5月25日に開催した検討会議事録を公表しました。\n\n本文書は、化学物質を取り扱う事業者や作業環境測定機関等に向けたものです。個人ばく露測定の精度担保を目的とした労働安全衛生法等の改正に伴い、省令等の改正案や中間取りまとめ案が示されました。\n\n主な内容は、個人ばく露測定を作業環境測定士の義務とする範囲の明確化や、オキュペイショナルハイジニストへの資格付与等です。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-05"
 }
 }

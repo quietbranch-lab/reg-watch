@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-07 10:53",
- "generated_date": "2026-11-07",
- "previous_generated_at": "2026-11-06 11:22",
+ "generated_at": "2026-11-08 07:15",
+ "generated_date": "2026-11-08",
+ "previous_generated_at": "2026-11-07 10:53",
  "new_since": "2026-11-06",
  "agencies": [
   {
@@ -710,6 +710,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "その他,取引審査の実施状況及び情報受付状況を更新しました（９月末）",
+     "url": "https://www.fsa.go.jp/sesc/actions/shinsa.html",
+     "date": "2026-11-06",
+     "first_seen": "2026-11-08",
+     "is_new": true,
+     "summary": "証券取引等監視委員会が、市場利用者や投資家等に向けて公表した、令和8年9月末時点の取引審査の実施状況および情報受付状況に関する更新情報です。具体的には、市場分析審査や取引審査の進捗、寄せられた情報の受付件数などの最新実績が更新されました。また、MBO（経営陣による買収）の実施に伴い設立される特別目的会社（SPC）に関するお知らせも掲載されています。",
+     "summary_status": "ok"
+    },
     {
      "title": "証券検査,「金商法第１９２条に基づく裁判所への緊急差止命令申立ての実施状況」を更新しました。",
      "url": "https://www.fsa.go.jp/sesc/actions/moushitate.html",
@@ -2035,11 +2044,103 @@
    "seal": "個",
    "site": "https://www.ppc.go.jp/",
    "method": "html",
-   "status": "error",
-   "errors": [
-    "https://www.ppc.go.jp/ -> 503 Server Error: Service Temporarily Unavailable for url: https://www.ppc.go.jp/"
-   ],
-   "items": []
+   "status": "ok",
+   "errors": [],
+   "items": [
+    {
+     "title": "「経験者採用（係長級（事務））」を更新しました。",
+     "url": "https://www.ppc.go.jp/news/recruit/other?ref=tninf#senkou",
+     "date": "2026-11-05",
+     "first_seen": "2026-11-06",
+     "is_new": false,
+     "summary": "個人情報保護委員会が2026年度経験者採用試験（係長級（事務））の府省合同A・B区分採用に伴う官庁訪問の実施を告知する文書です。参加予約の受付はA区分が2026年11月20日、B区分が12月4日から開始されます。また特定任期付職員（弁護士）の募集要項や応募方法も掲載されています。採用応募や官庁訪問の実施・受付方法が変更更新されるため、人事や採用業務の担当者に関係する内容です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "第３回個人情報保護政策に関する懇談会の議事録を掲載しました。",
+     "url": "https://www.ppc.go.jp/personalinfo/kentohkai/kondankai_3?ref=tninf",
+     "date": "2026-11-02",
+     "first_seen": "2026-11-03",
+     "is_new": false,
+     "summary": "本文書は、個人情報保護政策に関心のある実務者等に向け、令和8年9月1日に開催された「第3回個人情報保護政策に関する懇談会」の議事録等の掲載を知らせるものです。会議では個人情報を扱うデジタルサービスの動向等を議題にプレゼンテーションや意見交換が行われ、改正法の成立を受けた委員会取組、政令・規則等の全体像、令和9年度予算概算要求・重点施策などの資料や議事録が公表されています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "「行政機関等の個人情報保護制度の在り方に関する研究会の開催について」を掲載しました。",
+     "url": "https://www.ppc.go.jp/news/press/2026/261028_houdou?ref=tninf",
+     "date": "2026-10-28",
+     "first_seen": "2026-10-29",
+     "is_new": false,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
+     "title": "第374回個人情報保護委員会を開催しました。",
+     "url": "https://www.ppc.go.jp/aboutus/minutes/2026/20261028?ref=tninf",
+     "date": "2026-10-28",
+     "first_seen": "2026-10-29",
+     "is_new": false,
+     "summary": "個人情報取扱事業者および行政機関等に向けた、個人情報保護委員会による会合の開催文書です。個人情報保護法ガイドライン（通則編）や特定個人情報取扱ガイドライン（事業者編・行政機関等編）における安全管理措置の手法の例示追加等の改正案、ならびに行政機関等の制度の在り方に関する研究会開催に関する意見募集等が議題とされています。運用等の変更時期については提示されていません。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "「特定個人情報の取扱いの状況に係る地方公共団体等による定期的な報告について」を公表しました。",
+     "url": "https://www.ppc.go.jp/news/press/2026/261021_houdou?ref=tninf",
+     "date": "2026-10-21",
+     "first_seen": "2026-10-22",
+     "is_new": false,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
+     "title": "第373回個人情報保護委員会を開催しました。",
+     "url": "https://www.ppc.go.jp/aboutus/minutes/2026/20261021?ref=tninf",
+     "date": "2026-10-21",
+     "first_seen": "2026-10-22",
+     "is_new": false,
+     "summary": "個人情報保護委員会は、令和8年10月21日に第373回委員会を開催しました。主な議題は、個人情報保護法施行規則および特定個人情報の漏えい報告等に関する規則の改正案に対する意見募集の実施、ならびに地方公共団体等による特定個人情報の取扱状況に係る定期報告についてです。改正案の具体的な施行時期は明記されていませんが、自治体や個人情報・マイナンバーを取り扱う事業者が留意すべき内容となっています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "「「行政機関等匿名加工情報」に関する提案の募集について」を更新しました。",
+     "url": "https://www.ppc.go.jp/application/gyouseikikantoutokumeikakoujouhou_teianboshu?ref=tninf#kouji",
+     "date": "2026-10-16",
+     "first_seen": "2026-10-17",
+     "is_new": false,
+     "summary": "個人情報保護委員会が、同委員会保有の個人情報を加工した「行政機関等匿名加工情報」を事業に利用したい事業者等に向けて提案募集を更新した文書です。令和8年11月17日（火）から12月17日（木）午後5時30分まで、指定の提案書や誓約書等の書類提出により提案を受け付けます。なお、契約時には法令に基づく手数料の納付が必要となります。旧姓での応募希望者は住民票の写し等の公的証明書の提出が求められます。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "大規模な漏えい等事案を踏まえた対応について（注意喚起",
+     "url": "https://www.ppc.go.jp/news/careful_information/261007_alert?ref=talertinf",
+     "date": "2026-10-07",
+     "first_seen": "2026-10-08",
+     "is_new": false,
+     "summary": "個人情報保護委員会が、個人データを取り扱う事業者等に向けて、大規模な漏えい等事案を踏まえた不正アクセスによる個人データ漏えい防止のための注意喚起を公表した文書です。令和6年12月11日に公表され、令和8年10月7日に改訂されました。事業者が行うべき不正アクセス対策や漏えい防止策などの対応について注意を促しています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "オプトアウト届出事業者に対する実態調査を踏まえた個人情報の適正な取扱いについて（オプトアウト届出事業者のみなさまへ）（令和７年度調査実施",
+     "url": "https://www.ppc.go.jp/news/careful_information/260819_chuuikanki_opt?ref=talertinf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": false
+    },
+    {
+     "title": "レセプトデータ等の保有個人情報の利活用に関する注意喚起（行政機関等匿名加工情報の利用・提供について",
+     "url": "https://www.ppc.go.jp/news/careful_information/260819_alert_receipt?ref=talertinf",
+     "date": "2026-08-19",
+     "first_seen": "2026-08-25",
+     "is_new": false
+    },
+    {
+     "title": "個人情報保護委員会はに庁舎を移転しました。",
+     "url": "https://www.ppc.go.jp/aboutus/commission/access/ppc_relocation?ref=topnews",
+     "date": "2025-11-25",
+     "first_seen": "2026-08-25",
+     "is_new": false
+    }
+   ]
   },
   {
    "id": "jafic",
@@ -2795,8 +2896,6 @@
    ]
   }
  ],
- "errors": [
-  "個人情報保護委員会: https://www.ppc.go.jp/ -> 503 Server Error: Service Temporarily Unavailable for url: https://www.ppc.go.jp/"
- ],
+ "errors": [],
  "summary_model": ""
 }

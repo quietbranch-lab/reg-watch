@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08 08:41",
+ "generated_at": "2026-11-08 10:23",
  "generated_date": "2026-11-08",
  "previous_generated_at": "2026-11-07 10:53",
  "new_since": "2026-11-06",
@@ -710,15 +710,6 @@
    "status": "ok",
    "errors": [],
    "items": [
-    {
-     "title": "その他,取引審査の実施状況及び情報受付状況を更新しました（９月末）",
-     "url": "https://www.fsa.go.jp/sesc/actions/shinsa.html",
-     "date": "2026-11-06",
-     "first_seen": "2026-11-08",
-     "is_new": true,
-     "summary": "証券取引等監視委員会が、市場利用者や投資家等に向けて公表した、令和8年9月末時点の取引審査の実施状況および情報受付状況に関する更新情報です。具体的には、市場分析審査や取引審査の進捗、寄せられた情報の受付件数などの最新実績が更新されました。また、MBO（経営陣による買収）の実施に伴い設立される特別目的会社（SPC）に関するお知らせも掲載されています。",
-     "summary_status": "ok"
-    },
     {
      "title": "証券検査,「金商法第１９２条に基づく裁判所への緊急差止命令申立ての実施状況」を更新しました。",
      "url": "https://www.fsa.go.jp/sesc/actions/moushitate.html",

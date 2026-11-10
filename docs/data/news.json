@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10 11:47",
+ "generated_at": "2026-11-10 13:05",
  "generated_date": "2026-11-10",
  "previous_generated_at": "2026-11-09 10:42",
  "new_since": "2026-11-09",
@@ -159,6 +159,24 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "エネルギー対策特別会計の借入金の入札結果（令和8年11月10日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result261110.htm",
+     "date": "2026-11-10",
+     "first_seen": "2026-11-10",
+     "is_new": true,
+     "summary": "財務省は、金融機関等の入札参加者に対し、令和8年11月10日に実施したエネルギー対策特別会計借入金の入札結果を公表しました。本入札により、令和8年11月20日に6,505億円を借り入れることが決定しました。償還期限は令和9年11月22日の一括償還で、募入最高利率は1.760％、募入平均利率は1.744％です。特別会計に関する法律第13条第1項を根拠としています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "30年利付国債（第92回）の入札結果（令和8年11月10日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261110.htm",
+     "date": "2026-11-10",
+     "first_seen": "2026-11-10",
+     "is_new": true,
+     "summary": "財務省が国債市場参加者等に対し、令和8年11月10日に実施した「30年利付国債（第92回）」の入札結果を公表するものです。表面利率は年4.2％、発行日は令和8年11月11日、償還期限は令和38年9月20日と決定されました。価格競争入札の募入平均価格は104円90銭で、同日午後2時より国債市場特別参加者を対象とした第II非価格競争入札を実施することも併せて通知しています。",
+     "summary_status": "ok"
+    },
     {
      "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年11月10日公表）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261110.htm",
@@ -680,24 +698,6 @@
      "is_new": false,
      "summary": "財務省は、国債市場参加者等に対し、第1418回国庫短期証券の発行予定額等を公表しました。発行予定額は額面3兆円程度で、令和8年11月9日に入札、11月10日に発行、令和9年5月10日に償還される予定です。発行予定額を変更する場合は、入札日の前日に再度公表されます。本件は理財局国債業務課短期国債係が担当しています。",
      "summary_status": "ok"
-    },
-    {
-     "title": "入札、落札結果情報（工事等）",
-     "url": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm",
-     "date": "2026-11-02",
-     "first_seen": "2026-11-02",
-     "is_new": false,
-     "summary": "財務省の工事等に関する入札・落札結果情報のページです。建設業者や設備工事業者を対象に、財務省本庁舎や合同庁舎、公務員宿舎等の整備・修繕工事に係る入札公告日や落札決定日、変更契約等の情報が掲載されています。直近では令和8年11月2日付の防犯設備やテレビ共同受信設備の整備案件が追加されました。実務者は調達ポータルサイトへのリンクを通じて、各案件の詳細な入札公告内容を確認できます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "外国為替平衡操作の実施状況(令和8年9月29日～令和8年10月28日)",
-     "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20261030.html",
-     "date": "2026-10-30",
-     "first_seen": "2026-10-31",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
     }
    ]
   },

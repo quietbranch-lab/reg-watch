@@ -11586,5 +11586,58 @@
 "status": "ok",
 "model": "gemini-3-flash-preview",
 "at": "2026-11-12"
+},
+"https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/proceedings/kana20261006.html|2026-11-12": {
+"summary": "財務省関税局は、2026年10月6日開催の審議会で、今後の関税政策の方向性を提示しました。主な内容は、急増する越境EC貨物への対応として2030年度までの全量検査体制整備、少額輸入貨物の簡易税率見直し、金密輸対策のための調査権限強化です。また、11月からの外国人旅行者向け免税制度のリファンド方式移行や、民間事業者との新たな懇談会設置も公表されました。実務者は今後の法改正や運用変更に注視が必要です。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-12"
+},
+"https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20261019.html.html|2026-11-12": {
+"summary": "財務省は、中国および台湾産のニッケル系ステンレス冷延鋼帯・冷延鋼板に対し、不当廉売関税を課すことを決定しました。調査の結果、不当廉売による国内産業への損害が認められたため、確定措置として5年間の課税を行います。税率は3.6％から42.1％です。また、中国産二酸化チタンルチル型顔料等への調査開始も報告されました。本議事録は令和8年10月19日の審議会内容を記録したものです。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-12"
+},
+"https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261112.htm|2026-11-12": {
+"summary": "財務省が金融機関等の関係者を対象に、交付税及び譲与税配付金特別会計の借入金の入札実施について知らせる文書。令和8年11月19日に実施予定の入札概要（借入日11月30日、借入予定額1兆2,000億円程度など）が示されており、同日の申込受付等へ向けた手続や条件が変更される場合がある。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-12"
+},
+"https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261112.htm|2026-11-12": {
+"summary": "財務省が入札参加者を対象に公表した文書。5年利付国債（第189回）の入札発行について通知するもので、表面利率年2.2パーセント、発行予定額約2兆5,000億円、発行日令和8年11月13日として、価格競争入札、非競争入札、国債市場特別参加者・第Ⅰ非価格競争入札を実施する。申込締切日時は令和8年11月12日午前11時50分。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-12"
+},
+"https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/proceedings/zaitoa20260918.html|2026-11-12": {
+"summary": "財政投融資に関わる実務者向けに、令和9年度財政投融資計画の要求概要等を報告する文書である。要求総額は約19.4兆円で前年度とほぼ同水準だが、産業投資の要求額が過去最高の1兆1,700億円に急増している点が特徴。今後は予算編成過程において産業投資の要求内容の厳格な査定が行われる。時期の記載はない。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-12"
+},
+"https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20261019.html|2026-11-12": {
+"summary": "財務省が財政制度等審議会財政投融資分科会を開催し、令和9年度の財政投融資計画編成における論点として、労働者健康安全機構による病院投資への支援や、情報処理推進機構（IPA）を通じたラピダスの先端半導体開発・量産化への産業投資等について議論を行った。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-12"
+},
+"http://www.boj.or.jp/about/press/koen_2026/ko261112a.htm|2026-11-12": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-11-12"
+},
+"http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261110.htm|2026-11-12": {
+"summary": "日本銀行が2026年11月12日に公表した、2026年11月10日現在の営業毎旬報告である。国債、社債、指数連動型上場投資信託、不動産投資法人債、貸付金、外国為替などの資産項目、および発行銀行券、当座預金などの負債・純資産の金額が記載されている。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-12"
+},
+"https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html|2026-11-12": {
+"summary": "厚生労働省が、運輸、郵便・通信、水道・電気・ガス、医療・公衆衛生の公益事業に関わる労働組合や企業に対し、ストライキ等の争議行為の予告を公表したものです。労働関係調整法に基づき、複数の都道府県にまたがる争議行為を行う際は10日前までの通知が義務付けられています。直近では令和8年11月20日の日本航空関連をはじめ、医療や貨物等の各分野で予定されている争議行為の開始日や実施組織が更新されました。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-12"
 }
 }

@@ -11639,5 +11639,11 @@
 "status": "ok",
 "model": "gemini-3-flash-preview",
 "at": "2026-11-12"
+},
+"https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan04.html|2026-11-12": {
+"summary": "厚生労働省が、人材開発統括官で勤務する期間業務職員（非常勤職員）1名を募集する文書です。主な職務は、外国人技能実習制度および育成就労制度に関する申請審査事務やデータ入力等の一般行政事務です。PC操作が可能で意欲のある人を対象とし、令和8年11月25日必着で書類郵送を受け付けます。任用期間は令和9年1月1日から同年3月31日までで、条件により再採用の可能性があります。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-12"
 }
 }

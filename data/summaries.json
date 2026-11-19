@@ -12518,5 +12518,10 @@
 "status": "ok",
 "model": "gemini-3.5-flash-lite",
 "at": "2026-11-19"
+},
+"http://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm|2026-11-19": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-11-19"
 }
 }

@@ -12809,5 +12809,28 @@
 "status": "ok",
 "model": "gemini-3.5-flash-lite",
 "at": "2026-11-20"
+},
+"https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html|2026-11-20": {
+"summary": "製造たばこの小売定価の認可および変更認可に関する文書一覧であり、令和6年12月4日から令和8年11月19日までの各日付で認可されたPDFファイルが掲載されている。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-20"
+},
+"https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html|2026-11-20": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-11-20"
+},
+"http://www.boj.or.jp/research/imes/mes/mes_261120.htm|2026-11-20": {
+"summary": "日本銀行金融研究所は2026年11月20日、スタッフや外部研究者の研究成果等をまとめた英文機関誌『Monetary and Economic Studies（第44巻）』を公表した。年1回程度発行されるもので、論文等の内容は執筆者個人のものであり日銀の公式見解ではない。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-20"
+},
+"http://www.moj.go.jp/hisho/kouhou/hisho08_01193.html|2026-11-20": {
+"summary": "法務大臣が記者に対し、検察業務におけるAI利活用の検討状況等を説明したものです。主な内容は、取調べ録音・録画記録のAI分析による不適切言動チェックの検討（2026年度中開始との報道あり）、および最高検による生成AI利活用指針の周知です。大臣は、情報漏えい等のリスク対策を講じつつ積極的に検討する方針を示しました。また、過去に更生保護のタイアップを予定していた番組出演者の逮捕についても言及しました。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-20"
 }
 }

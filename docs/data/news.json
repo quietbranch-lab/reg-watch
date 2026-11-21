@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20 12:06",
- "generated_date": "2026-11-20",
- "previous_generated_at": "2026-11-19 12:20",
- "new_since": "2026-11-19",
+ "generated_at": "2026-11-21 09:09",
+ "generated_date": "2026-11-21",
+ "previous_generated_at": "2026-11-20 12:06",
+ "new_since": "2026-11-20",
  "agencies": [
   {
    "id": "fsa",
@@ -18,7 +18,7 @@
      "url": "https://www.fsa.go.jp/access/index.html",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁は2026年11月20日、広報誌「アクセスFSA」第279号を発行しました。主な内容は、谷川内閣府副大臣の就任インタビュー、Japan Weeks 2026の開催報告、金融行政のAIトランスフォーメーション（AX）に関する政策解説、金融経済教育全国キャラバンの活動報告などです。金融実務者や関係者は、最新の行政方針やAI活用、イベント実施状況等の情報をウェブサイト上で確認できます。",
      "summary_status": "ok"
     },
@@ -27,7 +27,7 @@
      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261119-2/20261119-2.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が令和８年11月19日に公表した、金融関係団体等を対象とする文書。物価高や災害等で厳しい状況にある事業者の資金繰り支援や経営支援を徹底し、資金需要の高まる年末・年度末に向けて万全を期すよう要請した内容。時期に関する記載事項以外の新たな制度変更の開始日は本文にない。",
      "summary_status": "ok"
     },
@@ -36,7 +36,7 @@
      "url": "https://www.fsa.go.jp/common/recruit/r8/kikaku-04/kikaku-04.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁が弁護士資格を有する者を対象に、国内金融に関する制度の企画立案等に従事する任期付職員（課長補佐クラス）を1名募集している。業務内容は暗号資産や金融商品取引市場に関する制度企画等で、雇用期間は原則1〜2年程度。応募締切は当面の間。",
      "summary_status": "ok"
     },
@@ -45,7 +45,7 @@
      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-13/ginnsyou-13.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融商品の販売等に関する業務経験や専門的知見を持つ求職者を対象に、金融庁が金融モニタリング業務に従事する任期付職員（常勤の国家公務員）を1名募集する文書。金融事業者における「顧客本位の業務運営」の浸透・定着に向けた分析や対話業務を行う。雇用期間は原則2年程度で、応募締切は当面の間（募集人員に達し次第終了）。",
      "summary_status": "ok"
     },
@@ -54,7 +54,7 @@
      "url": "https://www.fsa.go.jp/inter/ios/20261118/20261118.html",
      "date": "2026-11-18",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁は令和8年11月18日、証券会社等の市場仲介業者に対し、個人投資家口座を標的とした詐欺の増加や手口の高度化、求められる対策等に関する証券監督者国際機構（IOSCO）の声明を公表した。個人顧客を抱える証券会社等の実務担当者に向け、詐欺への警戒と知見の共有を促すものである。（144文字）",
      "summary_status": "ok"
     },
@@ -63,7 +63,7 @@
      "url": "https://www.fsa.go.jp/inter/fsf/20261118/20261118.html",
      "date": "2026-11-18",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁は、金融安定理事会（FSB）が令和８年11月16日から17日にかけてスイス・バーゼルで開催した本会合の議事要旨を公表した。（174文字）",
      "summary_status": "ok"
     },
@@ -72,7 +72,7 @@
      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261118.html",
      "date": "2026-11-18",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "金融庁は、銀行や銀行持株会社等に対し、自己資本比率規制等の改正案を公表しました。成長投資促進のため、傘下ファンドの持分に応じた連結を可能とするほか、国際統一基準行の定義整備や届出様式の新設等を行います。銀行以外の業態も同様の改正予定です。パブリックコメントを令和8年12月18日まで募集し、令和9年3月31日から施行・適用されます。実務者は連結範囲や届出等の変更への対応が必要となります。",
      "summary_status": "ok"
     },
@@ -81,7 +81,7 @@
      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261117-1.html",
      "date": "2026-11-18",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "片山財務大臣が、行政事業レビューの結果や日本版DOGEの進捗について述べた記者会見の概要です。政府は、経済安全保障等の4基金で指摘された約2,300億円の国庫返納や、2027年度末に向けた基金全体の滞留資金の見直しを予算編成過程で徹底します。また、日本版DOGEの一環として、租税特別措置の適正化についても与党税調と連携し、政府方針に基づき調整を進めるとしています。令和8年11月17日公表。",
      "summary_status": "ok"
     },
@@ -160,11 +160,182 @@
    "errors": [],
    "items": [
     {
+     "title": "財務省再生プロジェクトについて",
+     "url": "https://www.mof.go.jp/about_mof/saisei/index.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省が、一連の問題行為への反省と信頼回復を目的に、全省を挙げて進める「財務省再生プロジェクト」に関する文書です。平成30年7月27日の新体制発足以降、外部参与を迎え、再発防止に向けた組織再生の取組を継続しています。本ページでは、各事務年度の実施状況をまとめた進捗報告を毎年公表しており、最新の2026年6月29日公表分を含む、これまでの報告書が確認可能です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月20日(金曜日))",
+     "url": "https://www.mof.go.jp/public_relations/conference/my20261120.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省・金融庁は、楽天証券に対し、最大1,572万口座の情報漏洩事案に関する報告徴求命令を11月19日に発出しました。同社には事実関係や原因分析、再発防止策の報告を求めており、内容を踏まえ厳正に対応します。また、令和9年度税制改正に向け、個人向け国債の税制優遇是正や非上場株式の評価見直しを検討します。調布市の国有地売却については、都市公園としての公共性を確認済みであり適切との認識を示しました。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "関税・外国為替等審議会 第70回外国為替等分科会議事録",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20261118185608.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省の外国為替等分科会が、委員や関係省庁担当者に対し、国際金融情勢とマネロン対策の現状を報告した議事録です。主な変更点は、2028年夏頃のFATF第5次対日相互審査に向け、G7で日本のみ未整備である「法人の実質的支配者（BO）情報の届出義務化」のための新法制定を早急に進める方針が示されたことです。実務者は、法人情報の登録義務化や、輸出規制・金融教育等の国際合意への対応に留意が必要です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "流動性供給(第465回)入札において追加発行した国債の銘柄",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261120a.htm",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省が国債市場参加者等を対象に公表した文書。令和8年11月20日に行われた第465回流動性供給入札において、5年債、10年債、20年債、30年債の各回号の銘柄ごとに追加発行した額面ベースの発行額を通知するもの。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "政府保有株式の概要",
+     "url": "https://www.mof.go.jp/policy/national_property/list/stocks/kabushiki/index.htm",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
+     "title": "令和７年度決算の説明",
+     "url": "https://www.mof.go.jp/policy/budget/budger_workflow/account/fy2025/ke_setsumei07.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省が公表した、令和7年度の一般会計、特別会計、政府関係機関における決算の概要を説明する文書です。主な内容は、社会保障、文教、防衛、公共事業等の分野別歳出、租税等の歳入、各特別会計の執行状況、国の債務や国有財産の計算書等です。令和7年度予算の編成から決算に至る経過や経済概観も含まれます。実務者は、各分野の支出実績や翌年度への繰越額、不用額等の詳細な計数を確認できます。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "令和７年度決算の国会提出",
+     "url": "https://www.mof.go.jp/policy/budget/budger_workflow/account/fy2025/ke0811.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省が国会に対し、令和7年度の一般会計・特別会計等の決算を令和8年11月20日に提出したことを通知する文書です。本件は、会計検査院による検査報告を経て閣議決定されたもので、予算・決算比較表や主管・所管別の概要などの詳細資料が公表されました。各省各庁の担当者は、自局の歳入歳出決算報告書に基づき作成された最終的な決算内容および会計検査院の検査結果を確認し、今後の業務の参考とする必要があります。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "令和9年度予算の編成等に関する建議",
+     "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20261120/index.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "本文を取得できませんでした",
+     "summary_status": "ok"
+    },
+    {
+     "title": "国庫歳入歳出状況（令和8年度　令和8年9月分）",
+     "url": "https://www.mof.go.jp/insideLink/20261112152637.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
+     "title": "財政融資資金現在高（令和8年10月末）",
+     "url": "https://www.mof.go.jp/policy/filp/reference/flf_balance/zaiyuu/zaiyuu0810.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省が公表した令和8年10月末時点の財政融資資金現在高に関する実績データであり、現金預金、有価証券、貸付金などの資産の部と、預託金、公債などの負債の部の金額、割合、前月末および前年度末からの増減を記載している。変更事項や実施時期に関する記述はない。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "産業投資現在高（令和8年10月末）",
+     "url": "https://www.mof.go.jp/policy/filp/reference/flf_balance/santou/santou0810.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省が公表した、令和8年10月末時点の産業投資現在高に関する統計資料です。政府関係機関や特別法人への貸付金および出資金の残高と、前月末・前年度末からの増減額が示されています。10月末時点の総額は7兆7,191億円で、前月末比で37億円増加、前年度末比で883億円減少しました。産業投資の実績や推移を把握する必要がある実務者向けの報告です。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "国有財産に関する国会報告（令和7年度）",
+     "url": "https://www.mof.go.jp/policy/national_property/reference/houkoku/2025.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省が国会に対し、令和7年度における国有財産の増減、現在額、および無償貸付状況を報告した文書です。令和8年11月20日に報告されました。内容は、令和7年度の国有財産の異動実績や年度末時点の保有額、無償で貸し付けている財産の状況をまとめた総計算書および概要です。国有財産の管理・運用を担当する実務者が、国全体の財産規模や推移、貸付状況の全体像を把握するための資料となっています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "流動性供給(第465回)入札結果",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261120.htm",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省が国債市場の入札参加者に対し、令和8年11月20日に実施した「流動性供給（第465回）入札」の結果を通知する文書です。本入札では、応募額2兆5,568億円に対し、額面金額6,991億円の募入を決定しました。募入平均利回格差は▲0.020％、募入最大利回格差は▲0.017％（案分比率72.5368％）です。発行日は令和8年11月24日となります。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "国庫短期証券（第1421回）の入札結果",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261120.htm",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省が国債市場参加者等を対象に、国庫短期証券（第1421回）の価格競争入札等の募入決定結果を公表した文書。応募額、募入決定額、価格・利回り等が記載されている。発行日は令和8年11月24日、償還期限は令和9年3月1日。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "大韓民国及び中華人民共和国（香港地域及びマカオ地域を除く。）を原産地とする水酸化カリウムに対して不当廉売関税を課する期間を延長することについての答申 （令和8年11月20日）",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/report/20261120c_toushin.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務大臣宛ての関税・外国為替等審議会の答申文書。韓国及び中国産水酸化カリウムに対する不当廉売関税を課する期間を延長することについて、諮問のとおり行うことが適当であると認める内容。時期等の詳細は記載されていない。（110字）",
+     "summary_status": "ok"
+    },
+    {
+     "title": "大韓民国並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域を原産地とするビスフェノールＡに対して不当廉売関税を課することについての答申 （令和8年11月20日）",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/report/20261120b_toushin.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務大臣に対し、関税・外国為替等審議会が令和8年11月20日付で提出した答申です。韓国および台湾（澎湖諸島、金門、馬祖を含む）を原産地とする「ビスフェノールA」に対し、不当廉売関税を課すことが適当であると認める内容です。関税定率法第8条第1項に基づき、諮問通りに課税を行う方針が示されました。具体的な課税開始時期や税率については、本資料からは読み取れません。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "大韓民国及び中華人民共和国（香港地域及びマカオ地域を除く。）を原産地とする溶融亜鉛めっき鋼帯及び鋼板に対して不当廉売関税を課することについての答申 （令和8年11月20日）",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/report/20261120a_toushin.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "韓国・中国産の溶融亜鉛めっき鋼帯及び鋼板に対する不当廉売関税の課税について、関税・外国為替等審議会が財務大臣へ諮問通り課することが適当と答申した文書。対象品目を扱う事業者に関係する。（116字）",
+     "summary_status": "ok"
+    },
+    {
+     "title": "関税・外国為替等審議会　関税分科会　特殊関税部会 （令和８年11月20日開催）配付資料",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/material/kanb20261120.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "財務省関税・外国為替等審議会関税分科会特殊関税部会の委員等を対象とした令和８年11月20日開催の会議資料。韓国・中国産の溶融亜鉛めっき鋼帯及び鋼板、韓国・台湾産のビスフェノールAに対する不当廉売関税の課税、および韓国・中国産水酸化カリウムに対する不当廉売関税の課税期間の延長に関する諮問書、産業の現状、調査結果報告書等が公表されている。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "関税・外国為替等審議会　関税分科会（令和８年11月20日開催）配付資料",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/material/kana20261120.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "関税・外国為替等審議会関税分科会向けの配付資料であり、暫定税率等の適用期限、少額輸入貨物に係る簡易税率、入国者の輸入する加熱式たばこに係る簡易税率、特恵関税に係る原産地手続、とん税・特別とん税の見直しに関する検討事項が掲載されている。",
+     "summary_status": "ok"
+    },
+    {
      "title": "製造たばこの小売定価の認可",
      "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "製造たばこの小売定価の認可および変更認可に関する文書一覧であり、令和6年12月4日から令和8年11月19日までの各日付で認可されたPDFファイルが掲載されている。",
      "summary_status": "ok"
     },
@@ -173,7 +344,7 @@
      "url": "https://www.mof.go.jp/about_mof/councils/study_on_chain/index.html",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -182,7 +353,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261120a.htm",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が国債市場参加者等を対象に公表した「流動性供給（第466回）入札の発行予定額等」に関する文書。第466回流動性供給入札について、対象銘柄（10年、20年、30年利付国庫債券の一部）や発行予定額（額面5,000億円程度）等を定めるもの。入札予定日は令和8年11月27日、発行予定日は令和8年11月30日である。",
      "summary_status": "ok"
     },
@@ -191,7 +362,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261120.htm",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省より、入札参加者に対し第465回流動性供給入札の実施が通知された。発行予定総額は額面金額で約7,000億円、発行日は令和8年11月24日。対象は2年・5年・10年・20年・30年の利付国庫債券の一部銘柄。申込締切は令和8年11月20日午前11時50分。",
      "summary_status": "ok"
     },
@@ -200,7 +371,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261120b.htm",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が国債市場関係者等に対し、2年利付国債（12月債）の発行予定を通知する文書です。令和8年11月30日に入札、12月1日に発行を行い、発行予定額は2兆8,000億円程度となります。入札結果に基づき、同日午後2時から国債市場特別参加者を対象とした第II非価格競争入札も実施されます。償還予定日は令和10年12月1日です。本件は令和8年11月20日に公表されました。",
      "summary_status": "ok"
     },
@@ -209,7 +380,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261120.htm",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が国債市場関係者等を対象に、第1422回国庫短期証券の発行予定額等について公表する文書。令和8年11月30日に額面金額3兆1,000億円程度を発行するもので、入札予定日は同年11月27日、償還予定日は令和9年3月8日。変更時は入札前日に再度公表される。",
      "summary_status": "ok"
     },
@@ -218,7 +389,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261120.htm",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "入札参加者を対象に、国庫短期証券（第1421回）の価格競争入札等の実施を通知する財務省の文書。発行予定額は額面金額で3兆1,000億円程度。発行日は令和8年11月24日、申込締切日は同年11月20日午前11時30分。",
      "summary_status": "ok"
     },
@@ -227,7 +398,7 @@
      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -236,7 +407,7 @@
      "url": "https://www.mof.go.jp/public_relations/ohter/2026111901.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省ホームページの利用者に対し、PHPの脆弱性修正に伴うシステムメンテナンスと一部機能停止を知らせる文書です。令和8年11月19日22時30分から実施され、再開時期は未定です。停止対象は、ご意見・ご要望の受付、税制パンフレット送付受付、個人向け国債のシミュレーションや発行スケジュール、キッズコーナーの一部機能などです。再開時は同ホームページにて改めて周知されます。",
      "summary_status": "ok"
     },
@@ -245,7 +416,7 @@
      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261118195409.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
     },
@@ -254,7 +425,7 @@
      "url": "https://www.mof.go.jp/policy/financial_system/fiscal_finance/torikumi/20261117163749.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省等の関係省庁が、金融機関等に対し、資金繰りが厳しい事業者への支援徹底を要請した文書です。物価高や人手不足、中東情勢、令和8年熊本地震等の影響、および年末・年度末の資金需要の高まりを踏まえ、金融円滑化に向けた取り組みや事業者支援を改めて周知・徹底するよう求めています。令和8年11月19日付で公表・要請されました。実務者は自組織の支援体制や対応方針の再確認が求められます。",
      "summary_status": "ok"
     },
@@ -263,7 +434,7 @@
      "url": "https://www.mof.go.jp/policy/international_policy/councils/aml_cft_policy/20261119_2.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省は令和8年11月19日、マネロン・テロ資金供与・拡散金融対策政策会議を開催し、令和4年に決定した「マネロン・テロ資金供与・拡散金融対策の推進に関する基本方針」を改訂しました。本改訂は、同日より適用されます。今後は改訂後の基本方針に沿って、マネロン等対策の一層の向上に取り組むとしています。実務担当者は、別添の基本方針および概要を確認し、自組織の対策への影響を把握する必要があります。",
      "summary_status": "ok"
     },
@@ -272,17 +443,8 @@
      "url": "https://www.mof.go.jp/policy/international_policy/councils/aml_cft_policy/20261119_1.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省等関係省庁が、政府一体および民間事業者と連携してマネロン・テロ資金供与・拡散金融対策に取り組むため、マネロン・テロ資金供与・拡散金融対策政策会議が「マネロン・テロ資金供与・拡散金融対策に関する行動計画（2027-2029年度）」を令和8年11月19日に決定したことを知らせる文書。（148字）",
-     "summary_status": "ok"
-    },
-    {
-     "title": "予算書・決算書データベースのシステムメンテナンスのお知らせ",
-     "url": "https://www.mof.go.jp/policy/budget/maintenance.html",
-     "date": "2026-11-19",
-     "first_seen": "2026-11-20",
-     "is_new": true,
-     "summary": "財務省主計局は、予算書・決算書データベースの利用者に対し、システムメンテナンスに伴うサービス停止を通知しています。令和8年11月20日（金）10時から16時までの間、当該サービスが利用できなくなります。作業状況により再開時間は前後する可能性があります。本データベースを業務で利用する実務者は、当該時間帯の閲覧や作業が不可となる点に注意が必要です。",
      "summary_status": "ok"
     },
     {
@@ -290,7 +452,7 @@
      "url": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/iraqhoudou_20261120.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省は、国連安保理制裁委員会が対象者を削除したことに伴い、外為法に基づくイラク前政権の高官等の関係者等に対する資産凍結等の措置の対象者から1団体を削除し、措置を解除する。実施時期は令和8年11月19日。対外取引や資産凍結の担当者は別紙で詳細を確認する必要がある。",
      "summary_status": "ok"
     },
@@ -299,7 +461,7 @@
      "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2038.htm",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省は、原子力損害賠償・廃炉等支援機構が令和8年11月に発行する第29回原子力損害賠償・廃炉等支援機構債に対し、政府保証を付与することを公表しました。発行額は1,000億円、表面利率は2.079％で、発行日は令和8年11月27日、償還日は令和11年11月30日です。本債券の引受けや運用、同機構の財務管理等に関わる実務者が対象となります。",
      "summary_status": "ok"
     },
@@ -308,7 +470,7 @@
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261119.htm",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務省が、金融機関等の入札参加者を対象に公表した交付税及び譲与税配付金特別会計の借入金の入札結果に関する文書。令和8年11月19日に行われた競争入札の結果、募入決定額1兆1,999億9,900万円、募入平均利率1.604％などで募入を決定した旨を知らせるもので、借入日は令和8年11月30日である。",
      "summary_status": "ok"
     },
@@ -536,168 +698,6 @@
      "is_new": false,
      "summary": "財務省は、一般財団法人民間都市開発推進機構が令和8年11月に発行する「第41回民間都市開発債券（グリーンボンド）」に対し、政府保証を付与することを公表しました。発行額は130億円、表面利率は3.849％で、発行日は令和8年11月27日です。本件は、同機構が発行する特定の債券に対する政府保証の適用を決定したものです。",
      "summary_status": "ok"
-    },
-    {
-     "title": "システム障害に伴うメール受信不具合のお知らせ",
-     "url": "https://www.mof.go.jp/public_relations/ohter/2026111301.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "財務省は令和8年11月13日、Microsoft 365の世界規模な障害により、同省宛てのメールや受付フォームが受信できない不具合が発生していると公表しました。13日未明以降に送信されたメールは届いていない可能性があるため、同省への相談や問い合わせを予定している利用者に対し、復旧までの間は電話で連絡するよう求めています。復旧次第、ホームページで改めて通知される予定です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "国庫短期証券（第1419回）の入札結果",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261113.htm",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "財務省は、国債市場特別参加者等に対し、令和8年11月13日に実施した国庫短期証券（第1419回）の入札結果を公表しました。価格競争入札の募入決定額は2兆3,927億6,000万円で、平均落札価格は99円65銭9厘8毛（年1.2713％）です。非価格競争入札の募入決定額は7,072億円となりました。本証券の発行日は令和8年11月16日、償還期限は令和9年2月22日です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "流動性供給(第465回)入札の発行予定額等",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261113.htm",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": "財務省が国債市場参加者等に対し、令和8年11月20日実施の「流動性供給（第465回）入札」の発行予定額等を通知する文書です。発行予定額は額面7,000億円程度で、発行予定日は11月24日です。対象銘柄は、2年債（第478-490回）、5年債（第155-187回）、10年債（第349-364回）、20年債（第99-131回）、30年債（第1-5回）の各利付国庫債券となっています。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "国庫短期証券（第1421回）の発行予定額等",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261113.htm",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": "財務省が市場参加者等に向け、第1421回国庫短期証券の発行予定を公表した文書です。令和8年11月20日に入札を行い、同月24日に額面3兆1,000億円程度を発行します。償還予定日は令和9年3月1日です。発行予定額を変更する場合は、入札前日に再度公表されます。国債市場に関与する実務者は、入札日や発行規模、償還日等の条件を確認する必要があります。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "国庫短期証券（第1419回）の入札発行",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261113.htm",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": "財務省は入札参加者に対し、令和8年11月13日に第1419回国庫短期証券の入札実施を通知しました。発行予定額は3兆1,000億円程度で、価格競争入札と国債市場特別参加者向けの非価格競争入札が行われます。申込締切は11月13日11時30分、発行日は11月16日、償還期限は令和9年2月22日です。実務者は、発行根拠法や払込期日が11月16日である点に留意し、入札への対応を判断する必要があります。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "新型窓口販売方式による5年利付国債（第189回）の発行条件等",
-     "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20261113.htm",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": "財務省は、新型窓口販売方式による第189回5年利付国債の発行条件を公表しました。対象は国債の購入を検討する投資家や取扱金融機関です。表面利率は年2.2%（税引後1.753070%）、募集価格は額面100円につき100円35銭に決定しました。募集期間は令和8年11月17日から11月30日までで、発行日は同年12月10日です。最低5万円から5万円単位で、1回3億円を上限に申し込み可能です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "5年利付国債（第189回）の第II非価格競争入札結果（令和8年11月12日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261112a.htm",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": null,
-     "summary_status": "unavailable"
-    },
-    {
-     "title": "国有林野事業債務管理特別会計の借入金の入札結果（令和8年11月12日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-result261112.htm",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": "財務省は、金融機関等の入札参加者に対し、令和8年11月12日に実施した国有林野事業債務管理特別会計の借入金入札結果を公表しました。募入決定額は651億円、募入平均利率は2.163％です。借入日は令和8年11月25日で、償還期限は令和13年11月25日となります。償還方法は、令和9年11月25日の据置期限経過後、半年賦元金均等償還で行われます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "5年利付国債（第189回）の入札結果（令和8年11月12日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261112.htm",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": "財務省が国債市場参加者等に対し、令和8年11月12日に実施した「5年利付国債（第189回）」の入札結果を公表したものです。表面利率は年2.2％、価格競争入札の募入平均価格は100円06銭（平均利回り2.186％）に決定しました。発行日は令和8年11月13日、償還期限は令和13年9月20日です。同日午後2時より、国債市場特別参加者を対象とした第Ⅱ非価格競争入札が実施されます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年10月19日)議事録",
-     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20261019.html",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": "財務省は、中国および台湾産のニッケル系ステンレス冷延鋼帯・冷延鋼板に対し、不当廉売関税を課すことを決定しました。調査の結果、不当廉売による国内産業への損害が認められたため、暫定措置に続き確定措置として実施します。税率は3.6％から42.1％で、課税期間は令和8年10月19日の審議を経て今後5年間となります。また、中国産二酸化チタンルチル型顔料等への課税に関する調査開始も報告されました。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "関税・外国為替等審議会　関税分科会（令和8年10月6日開催）議事録",
-     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/proceedings/kana20261006.html",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-12",
-     "is_new": false,
-     "summary": "財務省関税局は、2026年10月6日開催の審議会で、今後の関税政策の方向性を提示しました。主な内容は、急増する越境EC貨物への対応として2030年度までの全量検査体制整備、少額輸入貨物の簡易税率見直し、金密輸対策のための調査権限強化です。また、11月からの外国人旅行者向け免税制度のリファンド方式移行や、民間事業者との新たな懇談会設置も公表されました。実務者は今後の法改正や運用変更に注視が必要です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年10月19日)議事録",
-     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20261019.html.html",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-12",
-     "is_new": false,
-     "summary": "財務省は、中国および台湾産のニッケル系ステンレス冷延鋼帯・冷延鋼板に対し、不当廉売関税を課すことを決定しました。調査の結果、不当廉売による国内産業への損害が認められたため、確定措置として5年間の課税を行います。税率は3.6％から42.1％です。また、中国産二酸化チタンルチル型顔料等への調査開始も報告されました。本議事録は令和8年10月19日の審議会内容を記録したものです。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年11月12日公表）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261112.htm",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-12",
-     "is_new": false,
-     "summary": "財務省が金融機関等の関係者を対象に、交付税及び譲与税配付金特別会計の借入金の入札実施について知らせる文書。令和8年11月19日に実施予定の入札概要（借入日11月30日、借入予定額1兆2,000億円程度など）が示されており、同日の申込受付等へ向けた手続や条件が変更される場合がある。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "5年利付国債（第189回）の入札発行（令和8年11月12日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261112.htm",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-12",
-     "is_new": false,
-     "summary": "財務省が入札参加者を対象に公表した文書。5年利付国債（第189回）の入札発行について通知するもので、表面利率年2.2パーセント、発行予定額約2兆5,000億円、発行日令和8年11月13日として、価格競争入札、非競争入札、国債市場特別参加者・第Ⅰ非価格競争入札を実施する。申込締切日時は令和8年11月12日午前11時50分。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "財政投融資分科会（令和8年9月18日開催）議事録",
-     "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/proceedings/zaitoa20260918.html",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-12",
-     "is_new": false,
-     "summary": "財政投融資に関わる実務者向けに、令和9年度財政投融資計画の要求概要等を報告する文書である。要求総額は約19.4兆円で前年度とほぼ同水準だが、産業投資の要求額が過去最高の1兆1,700億円に急増している点が特徴。今後は予算編成過程において産業投資の要求内容の厳格な査定が行われる。時期の記載はない。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "財政投融資分科会（令和8年10月19日開催）議事要旨",
-     "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20261019.html",
-     "date": "2026-11-12",
-     "first_seen": "2026-11-12",
-     "is_new": false,
-     "summary": "財務省が財政制度等審議会財政投融資分科会を開催し、令和9年度の財政投融資計画編成における論点として、労働者健康安全機構による病院投資への支援や、情報処理推進機構（IPA）を通じたラピダスの先端半導体開発・量産化への産業投資等について議論を行った。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第93回株式会社日本政策投資銀行社債に対する政府保証の付与",
-     "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2036.htm",
-     "date": "2026-11-11",
-     "first_seen": "2026-11-12",
-     "is_new": false,
-     "summary": "財務省は、日本政策投資銀行が令和8年11月24日に発行する予定の第93回社債（発行額400億円、表面利率2.558％、償還日令和15年11月24日）に対し、政府保証を付与することを発表した。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "令和７事務年度の関税等の申告に係る輸入事後調査の結果",
-     "url": "https://www.mof.go.jp/policy/customs_tariff/trade/collection/ka20261111.html",
-     "date": "2026-11-11",
-     "first_seen": "2026-11-12",
-     "is_new": false,
-     "summary": "財務省が、全国の税関が実施した輸入者の関税及び内国消費税の輸入事後調査の結果を公表した文書。令和７事務年度における調査実施件数や、申告漏れ等の指摘状況、追徴税額、主な申告漏れ事例（低価のインボイス、無償提供部品の申告漏れ、金型代金の申告漏れ等）を取りまとめている。実務者向けには、過去の調査結果や指摘傾向を把握するための情報となる。",
-     "summary_status": "ok"
     }
    ]
   },
@@ -821,11 +821,29 @@
    "errors": [],
    "items": [
     {
+     "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
+     "url": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j12.htm",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "日本銀行が公表した、家計のインフレ予想の形成メカニズムに関する研究をまとめたワーキングペーパーである。家計のインフレ実感やインフレ経験がインフレ予想に及ぼす影響について定量分析を行ったものであり、日本銀行の公式見解ではない。実務者向けの制度変更や新たな義務の発生等を伴う文書ではない。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "情報セキュリティ・セミナー「モノをどう見分け、どう認証するか」開催のお知らせ",
+     "url": "http://www.boj.or.jp/about/release_2026/rel261120a.htm",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "日本銀行金融研究所が、金融機関や関連実務者を対象に、情報セキュリティ・セミナー「モノをどう見分け、どう認証するか」の開催案内を掲載した。開催要領や参加申込方法はリンク先で確認できる。日時等の変更内容や具体的な開催日は本文に記載されていない。（131文字）",
+     "summary_status": "ok"
+    },
+    {
      "title": "金融研究所 英文機関誌 Monetary and Economic Studies（第44巻）",
      "url": "http://www.boj.or.jp/research/imes/mes/mes_261120.htm",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "日本銀行金融研究所は2026年11月20日、スタッフや外部研究者の研究成果等をまとめた英文機関誌『Monetary and Economic Studies（第44巻）』を公表した。年1回程度発行されるもので、論文等の内容は執筆者個人のものであり日銀の公式見解ではない。",
      "summary_status": "ok"
     },
@@ -834,7 +852,7 @@
      "url": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2612.htm",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "外国為替の取引等の報告に関する省令に基づき、外国為替報告業務を担当する者を対象として、令和8年12月中において適用される米ドルに対する各国の換算相場（報告省令レート）を定める財務大臣公示に関する文書である。",
      "summary_status": "ok"
     },
@@ -843,7 +861,7 @@
      "url": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2612.htm",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "財務大臣が公示する外国為替・貿易管理法等に関連する実務担当者向けの文書である。令和8年12月中において適用される基準外国為替相場（1米ドル158円）及び各国の裁定外国為替相場を定めるもので、令和8年12月1日から適用される。",
      "summary_status": "ok"
     },
@@ -852,7 +870,7 @@
      "url": "http://www.boj.or.jp/research/research_data/reri/index.htm",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "日本銀行調査統計局が、金融経済に関心を持つ利用者向けに公表している「実質輸出入の動向」データの公表日時を変更するものです。2026年4月分計数以降、公表日は原則として財務省「貿易統計（速報）」公表日の翌営業日16時となります。本データは価格変動を除いた実質的な輸出入動向を分析するためのもので、統計の改定や基準変更等により事後的に数値が改定される可能性がある点に注意が必要です。",
      "summary_status": "ok"
     },
@@ -1341,24 +1359,6 @@
      "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
-    },
-    {
-     "title": "バーゼル銀行監督委員会による「AML/CFTに関する監督ニューズレター」の公表について",
-     "url": "http://www.boj.or.jp/finsys/intlact_fs/risk/ris261028a.htm",
-     "date": "2026-10-28",
-     "first_seen": "2026-10-29",
-     "is_new": false,
-     "summary": "日本銀行が2026年10月28日に公表した、銀行等の監督機関や実務者向けの文書です。バーゼル銀行監督委員会が同月19日に公表したニューズレターの概要を伝えています。本ニュースレターには、AML/CFTに係るリスク評価における当局のデータ収集やリスク評価手法に関する調査結果、取引モニタリングでのAIや機械学習の役割についてのワークショップ結果概要がまとめられています。制度等の変更時期の記載はありません。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "消費者物価のコア指標",
-     "url": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
-     "date": "2026-10-27",
-     "first_seen": "2026-10-28",
-     "is_new": false,
-     "summary": "日本銀行調査統計局が、物価動向を分析する実務者や利用者向けに、基調的な物価上昇率を把握するための「コア指標」の試算値を公表するものです。制度変更等の特殊要因を除いた指標や、刈込平均値等の品目別価格変動分布を用いた指標が掲載されます。公表は原則として全国消費者物価指数の公表日の2営業日後14時を目途に行われます。なお、2026年4月の学校給食無償化政策の影響も除外対象に含まれます。",
-     "summary_status": "ok"
     }
    ]
   },
@@ -2059,11 +2059,20 @@
    "errors": [],
    "items": [
     {
+     "title": "「行政機関等の個人情報保護制度の在り方に関する研究会」の第１回資料を掲載しました。",
+     "url": "https://www.ppc.go.jp/personalinfo/kentohkai/koutekikenkyukai1?ref=tninf",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "個人情報保護委員会が、行政機関等の個人情報保護制度の在り方を検討する研究会の第1回資料を公表しました。本研究会は、令和8年11月19日に開催され、行政機関等における個人情報保護制度の現状や今後の進め方、開催要綱について議論されました。行政機関等の実務に関わる制度の見直しに向けた検討が開始されたことを示すものであり、今後の議論の方向性が提示されています。",
+     "summary_status": "ok"
+    },
+    {
      "title": "「経験者採用（係長級（事務））」を更新しました",
      "url": "https://www.ppc.go.jp/news/recruit/other?ref=tninf#senkou",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "個人情報保護委員会による、2026年度経験者採用試験（係長級（事務））の合格者等を対象とした官庁訪問の実施案内です。府省合同A区分は2026年11月26日から、B区分は12月8日から対面またはオンラインで行われます。参加には事前予約と書類提出が必要で、A区分は11月20日から、B区分は12月4日から予約を受け付けます。あわせて弁護士資格を持つ特定任期付職員の募集要項も掲載されています。",
      "summary_status": "ok"
     },
@@ -2072,7 +2081,7 @@
      "url": "https://www.ppc.go.jp/enforcement/cooperation/20261118_pipc?ref=tninf",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "個人情報保護委員会は令和８年11月18日、韓国個人情報保護委員会（PIPC）と個人情報保護に関する覚書（MOC）に署名し、両機関の緊密な協力で一致した。海外当局との協力体制を強化するものであり、同日より適用される。（116字）",
      "summary_status": "ok"
     },
@@ -2122,15 +2131,6 @@
      "summary_status": "ok"
     },
     {
-     "title": "第375回個人情報保護委員会を開催しました。",
-     "url": "https://www.ppc.go.jp/aboutus/minutes/2026/20261111?ref=tninf",
-     "date": "2026-11-11",
-     "first_seen": "2026-11-12",
-     "is_new": false,
-     "summary": "個人情報保護委員会が令和8年11月11日に開催した会議の資料です。主な内容は、同委員会における令和8年度上半期の活動実績報告、および「個人情報保護委員会行政文書取扱規程」の一部改正案の審議です。規程改正の具体的な施行時期や詳細は資料内に記載されていますが、本ページからは同委員会の行政文書の取り扱いに関する内部規定が変更される方針であることが読み取れます。国際協力関係の議題も含まれます。",
-     "summary_status": "ok"
-    },
-    {
      "title": "大規模な漏えい等事案を踏まえた対応について（注意喚起",
      "url": "https://www.ppc.go.jp/news/careful_information/261007_alert?ref=talertinf",
      "date": "2026-10-07",
@@ -2169,7 +2169,7 @@
      "url": "https://www.npa.go.jp/sosikihanzai/jafic/nenzihokoku/nenzihokoku.htm#p2",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "警察庁が公表した、犯罪収益移転防止法に基づく「令和8年 犯罪収益移転危険度調査書」等の資料一覧です。本調査書は、日本国内の取引形態や商品・サービスにおけるマネー・ローンダリング等の危険度を評価したもので、特定事業者等の実務者がリスクベース・アプローチを検討する際の指針となります。ページ内には令和8年版の最新PDFおよび概要版が掲載されており、過去の年次報告書等もあわせて確認可能です。",
      "summary_status": "ok"
     },
@@ -2272,8 +2272,17 @@
      "url": "http://www.moj.go.jp/hisho/kouhou/hisho08_01193.html",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "法務大臣が記者に対し、検察業務におけるAI利活用の検討状況等を説明したものです。主な内容は、取調べ録音・録画記録のAI分析による不適切言動チェックの検討（2026年度中開始との報道あり）、および最高検による生成AI利活用指針の周知です。大臣は、情報漏えい等のリスク対策を講じつつ積極的に検討する方針を示しました。また、過去に更生保護のタイアップを予定していた番組出演者の逮捕についても言及しました。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "令和８年度土地家屋調査士試験筆記試験（多肢択一式問題）の正解及び基準点等について",
+     "url": "http://www.moj.go.jp/MINJI/minji05_00804.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "法務省が公表した、令和8年度土地家屋調査士試験の受験者等を対象とする文書。令和8年度同試験の筆記試験（多肢択一式問題）における正解、基準点等、および得点別員数表を公表している。",
      "summary_status": "ok"
     },
     {
@@ -2281,7 +2290,7 @@
      "url": "http://www.moj.go.jp/housouken/houso_renrakukai_R8.html",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "法務省が法整備支援関係者等を対象に、バングラデシュ司法大臣の基調講演やパネルディスカッション等を行う「第27回法整備支援連絡会」を開催する。日時は2026年12月11日13:00〜18:00、場所は法務省国際法務総合センター。参加には申込フォームからの事前申込が必要で、締切は同年12月2日。",
      "summary_status": "ok"
     },
@@ -2358,15 +2367,6 @@
      "summary_status": "ok"
     },
     {
-     "title": "法務大臣閣議後記者会見の概要－令和８年１１月６日（金）",
-     "url": "http://www.moj.go.jp/hisho/kouhou/hisho08_01190.html",
-     "date": "2026-11-09",
-     "first_seen": "2026-11-10",
-     "is_new": false,
-     "summary": "法務大臣が記者に対し、令和8年11月6日に行った会見の概要です。主な内容は2点です。第一に、公安調査庁が同月2日、オウム真理教主要3団体に対し、無差別大量殺人行為の危険性が継続しているとして、公安審査委員会へ9回目となる観察処分の期間更新を請求しました。第二に、特定技能等の受入れ見込数に関し、令和11年度以降の方針は現時点で未定であり、国内人材確保等の状況に応じた縮減は一般論であると述べました。",
-     "summary_status": "ok"
-    },
-    {
      "title": "日本女子大学において法教育の講義を実施しました！！",
      "url": "http://www.moj.go.jp/housei/shihouseido/housei10_00132.html",
      "date": "2016-06-28",
@@ -2385,11 +2385,200 @@
    "errors": [],
    "items": [
     {
+     "title": "令和８年度　感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77581.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省が報道関係者を対象に、令和８年11月24日に「厚生労働省エボラ出血熱等対策推進本部訓練」を開催する旨を知らせる文書。国内でのエボラ出血熱患者発生を想定し、省内の状況共有や対応方針の確認を行うための本部訓練を実施する内容である。制度の変更や実務者向けの新たな義務付け等は記載されていない。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "「第2回と畜場の制度に関する研究会」の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77521.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚労省健康・生活衛生局食品監視安全課と農林水産省畜産局食肉鶏卵課による「第2回と畜場の制度に関する研究会」の開催を知らせる文書。と畜場の制度に関係する業務担当者向け。令和8年11月25日に開催され、第1回の質問への回答、議論の論点案、今後の進め方等を非公開で協議する。資料と議事概要は後日ホームページに掲載される。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77571.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "報道関係者を対象に、上野厚生労働大臣による閣議後記者会見が令和8年11月24日10時10分頃から省内会見室で実施される旨を知らせる文書。参加には基準があり、希望者は厚生労働記者会への問い合わせが必要となる。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "第139回社会保障審議会介護保険部会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77380.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省は、第139回社会保障審議会介護保険部会を令和8年11月26日に開催する。一般向けの傍聴受付はなく、YouTubeでライブ配信が行われる。議題は第1号保険料の在り方、持続可能性の確保（給付と負担）など。資料は同日8時までにホームページに掲載される。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "社会保障審議会（介護保険部会）",
+     "url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "本文を取得できませんでした",
+     "summary_status": "ok"
+    },
+    {
+     "title": "ＵＨＣナレッジハブの第七回調整委員会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77568.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "国際関係やWHOを担当する実務者向けに、11月12日に開催されたUHCナレッジハブ第7回調整委員会の内容を知らせる文書。対象国向け研修プログラムの進捗・今後の計画や、12月12日に東京で開催予定のUHCハイレベルフォーラム2026について議論されたことが示されている。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "総合職（化学・生物・薬学）（薬系技官）",
+     "url": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "本文を取得できませんでした",
+     "summary_status": "ok"
+    },
+    {
+     "title": "第79回補装具評価検討会　開催案内",
+     "url": "https://www.mhlw.go.jp/stf/74hosougu_00005.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省は、令和8年11月27日に第79回補装具評価検討会を開催します。主な議題は、令和9年度の補装具告示等改正に向けた改正案の検討と、令和8年度厚生労働科学研究の進捗状況報告です。会議はYouTubeでライブ配信され、会場での傍聴はありません。資料やURLは前日までに公開予定です。報道機関による冒頭の頭撮りのみ、11月26日12時までの事前申込制で会場撮影が認められます。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "第１タスクフォース第２回　資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77525.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "生命科学・医学系研究等に関わる者を対象に、厚生労働省が開催した合同会議第１タスクフォース第２回の配付資料を公表する文書。倫理指針の見直しの各論点や委員からの発表資料等が掲載されているが、変更内容や施行時期に関する記載はない。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "毎月勤労統計調査（全国調査）における公表値の訂正等について（2026（令和８）年11月20日）",
+     "url": "https://www.mhlw.go.jp/toukei/list/30-1b.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "毎月勤労統計調査（全国調査・地方調査）を利用する者を対象とした、過去の公表結果や掲載表における正誤情報をまとめた文書一覧である。過去から直近（令和8年11月20日）までの公表結果や掲載表、地方調査結果等の訂正履歴が掲載されている。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "「毎月勤労統計調査（全国調査）」における公表結果の訂正等について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77497.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "毎月勤労統計調査（全国調査）の担当者および労災保険業務に関わる実務者を対象とする文書。県内の1事業所における調査票情報の入力誤りに伴い、令和8年1月分から8月分までの集計結果を訂正するもの。11月25日予定の9月分結果確報公表に併せ、e-Statに訂正数値を掲載する。また、労災保険について、一部の労災年金スライド率に影響が生じるため、昭和22年度・24年度・35年度被災の一部受給者に対し、12月の年金支給日に追加給付を行う。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "第84回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77481.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省が臓器移植医療関係者を対象に、第84回厚生科学審議会疾病対策部会臓器移植委員会を令和8年11月25日にWeb開催する。「今後の臓器移植医療のあり方について」等を議題とし、会議の様子はYouTubeでライブ配信される（録画配信なし）。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "令和９年３月大学等卒業予定者の就職内定状況（10 月１日現在）を公表します",
+     "url": "https://www.mhlw.go.jp/stf/houdou/0000184815_00068.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省と文部科学省が、報道関係者等に向けて、令和９年３月卒業予定の大学生等の10月１日現在における就職内定状況を公表するものです。内容は大学等の就職内定率（大学73.0%、短大42.2%など）の調査結果の取りまとめであり、制度変更や新たな義務付け等の記載はありません。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "第216回労働政策審議会労働条件分科会　開催案内",
+     "url": "https://www.mhlw.go.jp/stf/newpage_76855.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省労働基準局による、労働基準関係法制を議題とする第216回労働政策審議会労働条件分科会の開催案内です。一般の傍聴希望者を対象に、令和8年11月30日に厚生労働省講堂で開催されます。傍聴希望者は11月27日12時までにアンケートフォームからの申し込みが必要であり、ペーパーレス化のため資料はホームページからの事前閲覧となります。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "厚生科学審議会 (疾病対策部会臓器移植委員会)",
+     "url": "https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省の厚生科学審議会疾病対策部会臓器移植委員会の開催状況一覧ページであり、今後の臓器移植医療のあり方や、レシピエント選択基準・ガイドラインの改正、実施体制支援事業等について議論を行っている。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "インフルエンザに関する報道発表資料を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "保健衛生業務担当者を対象に、2026/2027シーズンのインフルエンザに関する発生状況の報道発表資料を更新・掲載するものである。9月11日から11月20日までの各週におけるインフルエンザの発生状況や、都道府県別の定点報告数の推移を確認できる。制度やルールの変更に関する記載はない。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省が、新型コロナウイルス感染症の発生状況に関する2026年の報道発表資料を更新しました。本文書は、各都道府県別の定点報告数の推移など、国内の最新の発生状況を公表するものです。直近では2026年11月20日に資料が追加されており、週次等の頻度で継続的に情報が更新されています。感染症対策や状況把握を行う実務者向けに、発生動向の最新データを提供しています。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "医療機関等の実務者向けに、インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移データを更新したことを知らせる文書。2025年第15週（4月7日～13日）以降、急性呼吸器感染症サーベイランス開始に伴う定点医療機関設置基準の変更により定点数が変更されるため、データの解釈に留意が必要となる。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "インフルエンザの発生状況を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
+     "date": "2026-11-20",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "インフルエンザの発生状況に関する文書であり、9月から4月にかけて毎週金曜日14時に報道発表を行うことを知らせるものです。医療・衛生行政の実務者や感染症情報を追う担当者に関係します。変更点やいつからといった具体的な制度改正等の情報は含まれていません。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "「献血普及啓発ボランティア活動発表会」の作品を募集します  （募集期間：令和８年 11 月 20 日(金)～令和９年 1 月 15 日(金)）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77526.html",
+     "date": "2026-11-19",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省は、小中高校生や大学生等を対象に、献血普及啓発ボランティア活動発表会の作品を募集する。活動報告部門と動画部門を設け、応募期間は令和８年11月20日から令和９年１月15日まで。受賞者はオンラインの発表会に出席予定。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "第94回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77388.html",
+     "date": "2026-11-12",
+     "first_seen": "2026-11-21",
+     "is_new": true,
+     "summary": "厚生労働省が報道関係者および一般傍聴者に対し、第94回労働政策審議会雇用環境・均等分科会の開催を通知する文書。日時は令和8年11月27日。議題は男女雇用機会均等対策基本方針の改定、仕事と育児の両立支援、坑内労働における女性の就業制限について。ペーパーレス開催のため資料は事前持参またはHP閲覧が必要。傍聴希望者は11月26日14時までに申込が必要。",
+     "summary_status": "ok"
+    },
+    {
      "title": "WEBマガジン「厚生労働」（特集[技能五輪国際大会]ほか更新）",
      "url": "https://www.mhlw.go.jp/web_magazine/",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省のWEBマガジン更新情報を掲載した文書。技能五輪国際大会の特集や地域共生社会の連載、戦没者御遺骨収容のコラム等を配信している。制度変更やいつからの実施といった実務上の変更事項の記載はない。",
      "summary_status": "ok"
     },
@@ -2398,7 +2587,7 @@
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-chiikiiryoukeikakukahosa.html",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省は、医政局地域医療計画課の任期付職員（課長補佐）を1名募集する。情報システムの構築・運用・更改等に4年以上従事した経験や大学卒業等の資格が必要。雇用期間は令和9年1月1日〜令和10年12月31日。応募期間は令和8年11月20日〜同年12月4日必着。",
      "summary_status": "ok"
     },
@@ -2407,7 +2596,7 @@
      "url": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "薬剤師免許の新規登録や各種申請を行う者および実務担当者を対象に、令和8年10月26日よりマイナポータルを用いたオンライン申請および初期設定が可能となり、デジタル資格者証の表示ができるよう変更される。また同日以降、全ての手続きで取り扱い可能な文字水準がJIS第四水準以下となる。",
      "summary_status": "ok"
     },
@@ -2416,7 +2605,7 @@
      "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、公益事業（運輸、郵便・通信、水道・電気・ガス、医療・公衆衛生）の労働組合や企業に対し、ストライキ等の争議行為の予告を公表した文書です。労働関係調整法に基づき、令和8年度および7年度に予定される争議行為の開始日、団体名、業種、関係都道府県が更新されました。直近では11月24日のスターフライヤー（航空）など、多数の予告が掲載されています。実務者は自社や取引先への影響を確認してください。",
      "summary_status": "ok"
     },
@@ -2425,7 +2614,7 @@
      "url": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html",
      "date": "2026-11-20",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、医師、看護師、薬剤師などの医療、福祉、技術等の各種国家試験や講習会について、令和8・9年度の試験日、合格発表日、問い合わせ先をまとめた一覧を公表した。試験や講習会の担当者が日程や問い合わせ先を確認するための文書である。",
      "summary_status": "ok"
     },
@@ -2434,7 +2623,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_77537.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "報道関係者を対象に、上野厚生労働大臣による閣議後記者会見を実施するもの。日時は令和8年11月20日（金）9:00めどから、場所は省内会見室で行われる。会見参加には基準があり、希望する場合は厚生労働記者会への問い合わせが必要となる。（119字）",
      "summary_status": "ok"
     },
@@ -2443,7 +2632,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_77509.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省は報道関係者を対象に、令和8年11月26日、「第８回ハローワーク業務改善コンクール」を開催する。全国のハローワークから募集したサービス改善の優れた事例を表彰し共有するもので、当日は予備審査を通過した８件のプレゼンテーションと審査・表彰を行う。",
      "summary_status": "ok"
     },
@@ -2452,7 +2641,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_77480.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が、「医療法人社団ICVS 東京クリニック」に対し、再生医療等の安全性の確保等に関する法律第22条に基づき、令和8年11月19日付で進行がんに対する樹状細胞及び活性化リンパ球を用いる再生医療等の提供の一時停止等を命じた文書。",
      "summary_status": "ok"
     },
@@ -2461,7 +2650,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_77462.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "労働者派遣事業を行う事業者に対し、東京労働局が労働者派遣事業改善命令の行政処分を実施したことを知らせる文書。変更内容や時期等の詳細は、別添の報道発表資料を確認する必要がある。（100字）",
      "summary_status": "ok"
     },
@@ -2470,7 +2659,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_77436.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省は、報道関係者を対象に「困難な問題を抱える女性への支援に関する検討会（第5回）」を令和8年11月26日に開催する。個別の論点等を協議するもので、一般の会場傍聴は不可。報道関係者は11月25日12:00までにメールでの事前申込が必要となる。",
      "summary_status": "ok"
     },
@@ -2479,7 +2668,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_77434.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省は、2026年11月26日に「第5回 困難な問題を抱える女性への支援に関する検討会」を開催します。本会議では、女性支援に関する個別の論点等が議論される予定です。一般の会場傍聴は不可で、報道関係者のみ事前申込制で傍聴が可能です。資料は当日までに同省ホームページに掲載されます。実務担当者は、今後の支援施策の方向性を左右する個別論点の検討状況を把握するため、後日公開される資料等の確認が必要です。",
      "summary_status": "ok"
     },
@@ -2488,7 +2677,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_77308.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省が労働者派遣事業および有料・無料職業紹介事業の許可等に関して審議する第400回労働力需給制度部会の開催を案内する文書。日時は令和8年11月26日14時00分から16時00分まで。会議は非公開で行われる。",
      "summary_status": "ok"
     },
@@ -2497,7 +2686,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_77263.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省は令和8年11月20日に第276回社会保障審議会介護給付費分科会（Web会議）を開催する。議題は「令和9年度介護報酬改定に向けて（福祉用具・住宅改修、横断的事項など）」「令和8年度介護事業経営実態調査の結果について」「令和8年度介護従事者処遇状況等調査の結果について」。会議の様子はYouTubeでライブ配信され、資料は同日10時までにホームページに掲載予定。",
      "summary_status": "ok"
     },
@@ -2506,7 +2695,7 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_77194.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "厚生労働省から、調理師制度・養成・業務において顕著な功績のあった者102名に対する令和８年度調理師関係厚生労働大臣表彰の受彰者決定に関する文書。調理師関係の業務や関係者に向けたものであり、表彰式は令和８年11月26日に開催される。",
      "summary_status": "ok"
     },
@@ -2515,17 +2704,8 @@
      "url": "https://www.mhlw.go.jp/stf/newpage_261119_00001.html",
      "date": "2026-11-19",
      "first_seen": "2026-11-20",
-     "is_new": true,
+     "is_new": false,
      "summary": "報道関係者を対象に、令和８年度「わたしと年金」エッセイの厚生労働大臣賞表彰式の開催について通知するものです。表彰式は令和８年11月30日に厚生労働省で開催され、厚生労働大臣賞の授与や歓談が行われます。取材を希望する報道関係者は、同年11月25日12時までに指定の方法で申し込む必要があります。制度や業務上の変更はありません。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "「第15回 健康寿命をのばそう！アワード（介護予防・高齢者生活支援分野）」の表彰式を行います",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77302.html",
-     "date": "2026-11-19",
-     "first_seen": "2026-11-20",
-     "is_new": true,
-     "summary": "厚生労働省が、介護予防・高齢者生活支援分野において優れた取組を行う企業・団体・自治体を対象とした「第15回 健康寿命をのばそう！アワード」の表彰式を開催する。日時は令和8年11月25日11時30分から12時30分までで、場所は日経ホール。当日の様子はYouTubeで生配信される。取材希望者は11月24日15時までに申し込む必要がある。（178字）",
      "summary_status": "ok"
     },
     {
@@ -2535,6 +2715,15 @@
      "first_seen": "2026-11-19",
      "is_new": false,
      "summary": "厚生労働省は、医師および医学生を対象とした「令和8年度 医療政策セミナー」の受付を11月19日に開始しました。この文書は、将来のキャリアとして医系技官を検討している層に向けた、採用関連イベントの案内です。セミナーでは、医系技官の役割や活躍するフィールド、現職技官の声などが紹介されます。実務者や学生は、詳細を確認した上で参加の申し込みを行うことができます。",
+     "summary_status": "ok"
+    },
+    {
+     "title": "「第15回 健康寿命をのばそう！アワード（介護予防・高齢者生活支援分野）」の表彰式を行います",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77302.html",
+     "date": "2026-11-19",
+     "first_seen": "2026-11-20",
+     "is_new": false,
+     "summary": "厚生労働省が、介護予防・高齢者生活支援分野において優れた取組を行う企業・団体・自治体を対象とした「第15回 健康寿命をのばそう！アワード」の表彰式を開催する。日時は令和8年11月25日11時30分から12時30分までで、場所は日経ホール。当日の様子はYouTubeで生配信される。取材希望者は11月24日15時までに申し込む必要がある。（178字）",
      "summary_status": "ok"
     },
     {
@@ -2733,195 +2922,6 @@
      "first_seen": "2026-11-17",
      "is_new": false,
      "summary": "都道府県および医療関係者等を対象に、令和8年度医療施設等施設整備費補助金（研修医のための研修施設整備事業、臨床研修病院施設整備事業）の第4回目の交付額の内示に関する情報である。愛知県に対して2件、計17,967千円の内示が行われたことが示されている。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第62回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77440.html",
-     "date": "2026-11-16",
-     "first_seen": "2026-11-19",
-     "is_new": false,
-     "summary": "厚生労働省の人材開発政策担当参事官室が、労働者や企業等一般を対象に、第62回労働政策審議会人材開発分科会の開催を通知する文書である。令和8年11月26日に「今後の人材開発政策について」等を議題として開催され、傍聴希望者は11月24日12時までに電子メールで申し込む必要がある。会議資料は事前にホームページに掲載され、当日はペーパーレスでの参加となる。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "薬事審議会　医薬品第二部会を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77353.html",
-     "date": "2026-11-16",
-     "first_seen": "2026-11-17",
-     "is_new": false,
-     "summary": "厚生労働省医薬局医薬品審査管理課から医薬品第二部会委員等を対象に、令和8年11月30日に薬事審議会医薬品第二部会を開催する旨の通知。会議は非公開で行われる。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第７回2040年に向けた看護職員の養成・確保の在り方に関する検討会の開催について：開催案内",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77291.html",
-     "date": "2026-11-16",
-     "first_seen": "2026-11-17",
-     "is_new": false,
-     "summary": "厚生労働省医政局は、2026年11月25日に「第7回 2040年に向けた看護職員の養成・確保の在り方に関する検討会」を開催します。議題は看護職員の資質向上に向けた取り組みと需要推計についてです。傍聴希望者は11月20日18時までにメールでの申し込みが必要で、先着順となります。当日の資料はペーパーレス化のため、各自で端末に保存または閲覧する形式です。YouTubeでのオンライン配信も行われます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "硫黄島戦没者慰霊巡拝（第１次）の延期について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77399.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省は報道関係者に対し、令和8年11月18日から19日に予定していた「硫黄島戦没者慰霊巡拝（第1次）」の延期を発表しました。硫黄島近海で発生した噴火の影響により、遺族107名を含む参加者計124名の安全確保が困難と判断したためです。延期後の実施時期については現在調整中としています。当初の計画では、10月末頃から継続している噴火活動を考慮し、実施を見送ることとなりました。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "産業競争力強化法に基づく「新技術等実証計画」の認定について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_76978.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省は令和8年11月13日付で、富士電機株式会社から申請された産業競争力強化法に基づく「新技術等実証計画」を認定した。薬局内に設置された一般用医薬品受取機を用い、薬剤師等の管理の下で各種一般用医薬品の受取を実現することを検証するもので、実施期間は認定後準備が整い次第開始し、実証開始から1か月後の月の末日まで。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "社会福祉功労者及びボランティア功労者厚生労働大臣表彰の受賞者を決定しました～令和８年度は個人894名、273団体の方々が受賞～",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77269.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省が、社会福祉及びボランティアの分野で功労のあった個人894名と273団体に対する令和８年度の厚生労働大臣表彰の受賞者を決定し公表した文書。令和８年11月20日開催の全国社会福祉大会において表彰状授与が行われる。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第３７回厚生科学審議会がん登録部会の開催について（オンライン開催）",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77359.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省は、令和8年11月19日に第38回厚生科学審議会がん登録部会をオンライン開催します。主な議題は、全国がん登録のマニュアル改訂に関する報告と、がん登録情報の利用・提供に係る審査です。全国がん登録の実務や情報の利活用に携わる担当者に向けた内容で、会議の様子はYouTubeでライブ配信されます。なお、情報の利用・提供に係る審査については非公開で行われます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第221回社会保障審議会医療保険部会（ペーパーレス）の開催について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77350.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省が、令和8年11月17日に開催する「第221回社会保障審議会医療保険部会」の傍聴希望者や関係者に向けて公表した案内です。議題は「医療保険制度改革について」および「医師手当事業に関する今後の検討体制について（報告）」です。会議は航空会館での対面開催に加え、YouTubeでライブ配信されます。傍聴希望者は11月16日15時までに、FAXと電子メールの両方で申し込む必要があります。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第275回社会保障審議会介護給付費分科会（Web会議）を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77277.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省は、令和8年11月16日に第275回社会保障審議会介護給付費分科会をWeb会議で開催します。議題は令和9年度介護報酬改定に向けた「介護人材確保に向けた処遇改善等」や「介護現場の生産性向上等の推進」などの横断的事項です。会議の様子はYouTubeでライブ配信され、会場での傍聴はありません。資料は同日8時までに同省HPに掲載予定です。報道関係者向けには同日夕方に記者ブリーフィングが行われます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "「第45回社会保障審議会介護給付費分科会介護事業経営調査委員会」を開催します（開催案内）",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77253.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省は、令和8年11月16日に「第45回社会保障審議会介護給付費分科会介護事業経営調査委員会」をWeb会議形式で開催します。議題は、令和8年度の介護事業経営実態調査および介護従事者処遇状況等調査の結果についてです。会議の様子はYouTubeでライブ配信され、会場での傍聴はありません。資料は会議開始に合わせて同省ホームページに掲載される予定です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "「令和８年度第１回薬事審議会 毒物劇物部会（ハイブリッド開催）」を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77218.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省が、毒物劇物部会の委員や傍聴希望者に対し、令和8年11月25日に開催する「令和8年度第1回薬事審議会 毒物劇物部会」について通知するものです。会議では、劇物の指定および除外、毒物及び劇物の指定および除外について審議されます。傍聴希望者は11月18日17時までの事前申し込みが必要で、当日はYouTubeでのライブ配信も行われます。資料は11月24日に同省ホームページに掲載予定です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第186回医学的検証作業グループ",
-     "url": "https://www.mhlw.go.jp/stf/newpage_76606.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省健康・生活衛生局難病対策課が、脳死判定等に携わる専門家や関係者に対し、令和8年11月16日に開催する第186回医学的検証作業グループのWeb会議について通知するものです。本会議では、脳死下での臓器提供事例に関する脳死判定等の医学的検証が行われます。個人のプライバシーに関わる内容を含むため、会議は非公開とされています。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "インフルエンザに関する報道発表資料を更新しました",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省が自治体や医療関係者、国民向けに公表した、2026/2027シーズンのインフルエンザ発生状況に関する報道発表資料です。直近では2026年11月13日に最新の発生状況が更新されました。各都道府県別の定点報告数の推移などが順次掲載されており、週ごとの流行状況の変化を確認できます。インフルエンザの感染動向を把握し、予防対策や診療体制の検討に活用するための情報です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "医療・保健業務に関係する担当者を対象に、2026年の新型コロナウイルス感染症（COVID-19）の発生状況に関する報道発表資料および各都道府県別の定点報告数の推移を掲載する文書である。制度の変更や新しい義務等の記載はない。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "医療機関等を対象に、インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移に関するデータを更新したもの。2025年第15週（4月7日以降）は、急性呼吸器感染症サーベイランス開始に伴う定点医療機関設置基準の変更により定点数が変更されるため、データ解釈に留意が必要となる。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "インフルエンザの発生状況を更新しました",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "医療・保健行政の担当者向けに、インフルエンザの発生状況に関する報道発表の定期更新を知らせる文書である。9月から4月にかけて、原則として毎週金曜日の14時にインフルエンザの発生状況が報道発表される。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "第４回創薬力向上のための官民協議会 施策検討・推進部会　資料",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77400.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省医政局が医薬品業界の関係者や構成員に向けて実施した、「第４回創薬力向上のための官民協議会 施策検討・推進部会」の開催資料ページ。令和８年11月13日に開催され、議事次第のほか、構成員である牧兼充氏、宮柱明日香氏、五十嵐啓朗氏、ジョンポール・プリシーノ氏の提出資料が掲載されている。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "薬事工業生産動態統計令和8年8月分月報について",
-     "url": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "厚生労働省が、医薬品・医薬部外品・医療機器等の製造販売業者や製造業者を対象に実施している「薬事工業生産動態統計調査」の令和8年8月分月報を公表しました。本文書は、当該月の生産・出荷・在庫等の動態統計の結果を報告するものです。令和4年12月分月報以降は、従来のファイル形式に加え、機械判読しやすいCSV形式でのデータ公表も行われています。詳細は同省ホームページの統計表から確認可能です。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
-     "url": "https://www.mhlw.go.jp/kokoro/mental_health_day/",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-14",
-     "is_new": false,
-     "summary": "メンタルヘルスに関する課題について、自分自身や周囲の不調への気づきを促し、相談や受診、声かけなどの行動につなげるための「世界メンタルヘルスデー JAPAN 2026 特設サイト」の案内。対象者、変更内容、実施時期等に関する具体的な記載はない。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "厚生労働省本省係長級職員（一般職相当）採用選考 - 令和８年度第３期・第４期",
-     "url": "https://www.mhlw.go.jp/stf/newpage_33437.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": "厚生労働省が、民間企業等の職務経験者を対象に本省係長級職員（一般職相当）を募集する採用選考案内です。一般行政事務と情報セキュリティ・IT等関係事務の2区分で計19名程度を採用します。応募には大卒7年以上等の職務経験とPCスキルが必要です。第4期の受付期間は令和8年11月13日から26日までで、採用予定日は令和9年4月1日から6月1日の間です。選考は経歴評定、適性テスト、面接で行われます。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "後発医薬品を製造販売する企業の安定供給の取組に関する評価結果を公表します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77371.html",
-     "date": "2026-11-13",
-     "first_seen": "2026-11-13",
-     "is_new": false,
-     "summary": "厚生労働省が、後発医薬品を製造販売する企業の安定供給の取組に関する令和8年度薬価改定における評価結果を、令和8年11月13日に公表した。対象企業や関係者は、品質の確保された医薬品の安定供給に向けた自社の評価結果を確認できる。",
      "summary_status": "ok"
     }
    ]

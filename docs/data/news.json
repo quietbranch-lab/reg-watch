@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25 12:35",
+ "generated_at": "2026-11-25 13:52",
  "generated_date": "2026-11-25",
  "previous_generated_at": "2026-11-24 14:58",
  "new_since": "2026-11-24",
@@ -159,6 +159,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年11月25日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261125.htm",
+     "date": "2026-11-25",
+     "first_seen": "2026-11-25",
+     "is_new": true,
+     "summary": "財務省は、交付税及び譲与税配付金特別会計の借入金について、令和8年11月25日に入札を実施し、募入決定を行いました。借入日は令和8年12月3日で、償還期限は令和9年6月2日の一括償還です。募入決定額は1兆2,000億円で、募入平均利率は1.615％となりました。本件は特別会計に関する法律に基づき、理財局国債業務課が担当する資金調達の結果を公表するものです。",
+     "summary_status": "ok"
+    },
     {
      "title": "40年利付国債（第19回）の入札結果（令和8年11月25日入札）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261125.htm",
@@ -689,15 +698,6 @@
      "is_new": false,
      "summary": null,
      "summary_status": "unavailable"
-    },
-    {
-     "title": "財政投融資分科会（令和8年11月17日開催）資料一覧",
-     "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20261117.html",
-     "date": "2026-11-17",
-     "first_seen": "2026-11-18",
-     "is_new": false,
-     "summary": "財務省の財政制度等審議会財政投融資分科会が、令和8年11月17日に開催した会議の資料です。議題は、農林漁業成長産業化支援機構（A-FIVE）に関する総括と、令和9年度財政投融資計画の編成上の論点です。後者では、エネルギー・金属鉱物資源機構（JOGMEC）および地方公共団体を対象とした計画策定に向けた議論が行われています。実務者は次年度の計画編成方針や各組織の評価状況を確認する必要があります。",
-     "summary_status": "ok"
     }
    ]
   },

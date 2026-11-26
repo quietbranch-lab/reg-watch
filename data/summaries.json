@@ -13713,5 +13713,159 @@
 "status": "ok",
 "model": "gemini-3-flash-preview",
 "at": "2026-11-25"
+},
+"https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261126.htm|2026-11-26": {
+"summary": "財務省は、金融機関等の入札参加者に対し、交付税及び譲与税配付金特別会計の借入金入札を令和8年12月3日に実施します。借入予定額は1兆2,000億円程度で、借入日は同年12月11日、償還期限は令和9年6月11日です。入札は借入利率競争入札と非競争入札で行われ、申込受付は12月3日の午前10時20分から11時30分までです。国庫の資金繰りにより借入予定額が変更される可能性があります。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-26"
+},
+"https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261126.htm|2026-11-26": {
+"summary": "財務省が国債市場特別参加者等を対象に、10年利付国債（12月債）の発行予定額等を通知する文書。令和8年12月3日に入札、翌4日に2兆6,000億円程度を発行し、同日午後2時より第Ⅱ非価格競争入札を実施する。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm|2026-11-26": {
+"summary": "財務省が公示する、物品の購入や役務の提供に関する入札公告および落札結果の情報です。対象は、電気の調達、システム開発・保守、調査業務、物品購入などを請け負う事業者です。令和8年4月から11月にかけて随時更新されており、直近では令和8年11月26日付で財務本省等の施設で使用する電気の入札公告などが掲載されました。入札公告日をクリックすることで、調達ポータルサイトから詳細を確認できます。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-26"
+},
+"https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv|2026-11-26": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-11-26"
+},
+"https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261125a.htm|2026-11-25": {
+"summary": "財務省が国債市場参加者等を対象に、40年利付国債（第19回）の第II非価格競争入札結果を公表した文書。募入決定額は282億円、発行価格は94円35銭、表面利率は年3.8パーセントで、発行日は令和8年11月26日。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"http://www.boj.or.jp/about/press/koen_2026/ko261126a.htm|2026-11-26": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-11-26"
+},
+"http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261120.xlsx|2026-11-25": {
+"summary": "本文を取得できませんでした",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"http://www.boj.or.jp/research/research_data/cpi/index.htm|2026-11-25": {
+"summary": "日本銀行調査統計局が、一時的・特殊要因を除いた消費者物価のコア指標や品目別価格変動分布の試算値データを公表するページである。全国消費者物価指数の公表日2営業日後の14時を目途にデータが更新される。消費税率変更や教育無償化政策等の特殊要因の影響を除いた試算値を提供しており、商用目的での転載等は調査統計局への相談が必要となる。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.ppc.go.jp/personalinfo/legal/r8kaiseihogohou?ref=tninf#schedule|2026-11-25": {
+"summary": "個人情報取扱事業者および行政機関等を対象とした、令和８年７月17日公布の「個人情報保護法等の一部を改正する法律」に関する文書。改正法の概要や条文のほか、今後の政令・規則・ガイドライン等の整備に向けたスケジュールや基本的な考え方、具体的な内容についての資料が掲載されている。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.ppc.go.jp/aboutus/minutes/2026/20261125?ref=tninf|2026-11-25": {
+"summary": "個人情報保護委員会が令和８年11月25日に開催した第377回委員会の議事次第と配付資料を公表する文書。個人情報の保護に関する法律等の一部を改正する法律に伴う政令・規則・ガイドライン等の整備に関する今後の進め方や具体的な内容案、監視・監督の状況、相談窓口の受付状況等について議論された。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.ppc.go.jp/personalinfo/activity?ref=tninf#mynum|2026-11-25": {
+"summary": "個人情報保護法相談ダイヤル及びマイナンバー苦情あっせん相談窓口の、令和８年度第２四半期における総合的な案内所等の受付状況が公表された。過去の四半期別の受付状況や、監視・監督権限の行使状況、漏えい等報告の処理状況もあわせて掲載されている。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.moj.go.jp/hisho/kouhou/hisho06_01513.html|2026-11-26": {
+"summary": "法務省が一般向けに開催した「法の日フェスタｉｎ赤れんが」の開催報告である。令和８年１０月３日に模擬裁判や講演などのイベントを実施し、１，９４３名が参加した旨を伝える内容であり、制度や業務等の変更はない。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.moj.go.jp/hisho/kouhou/hisho06_01519.html|2026-11-25": {
+"summary": "法務省関係者等を対象に、令和8年11月25日に山下法務大臣が国際刑事裁判所（ICC）の赤根所長による表敬訪問を受け、法務省とICCとの協力について意見交換を行ったことを知らせるフォトニュースである。制度の変更や新たな手続等の定めはない。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"http://www.moj.go.jp/housei/sougouhouritsushien/housei04_00066.html|2026-11-24": {
+"summary": "法務省が設置した有識者検討会に関する文書。設立20年を迎える法テラスの総合法律支援の課題や、今後の持続可能な在り方を外部有識者が議論するものであり、今後の司法アクセスに関する制度見直し等に向けた検討状況が示されている。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html|2026-11-26": {
+"summary": "厚生労働大臣が、労働関係調整法に基づき通知を受けた複数都道府県にまたがる公益事業の争議行為（ストライキ等）の予告情報を公表するページ。実務者は、自社や関連する労働組合・企業の争議行為の予定有無や対象業種、関係都道府県、開始日を確認できる。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/newpage_77651.html|2026-11-26": {
+"summary": "社会保障審議会介護保険部会が令和８年１１月２６日に開催され、「第１号保険料の在り方について（報告）」や「持続可能性の確保（給付と負担）について」などの資料が公表されたことを知らせる文書である。（112文字）",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html|2026-11-26": {
+"summary": "本文を取得できませんでした",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/newpage_77496.html|2026-11-25": {
+"summary": "厚生労働省が成年後見制度に関わる実務者等を対象に、第27回成年後見制度利用促進専門家会議を開催する旨の案内。次期基本計画（素案）に係る意見交換等を行う。日時は令和８年12月1日14時から16時まで。会場での傍聴は受け付けず、YouTubeでライブ配信される。資料は当日までに同省ホームページに掲載される。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/newpage_77641.html|2026-11-25": {
+"summary": "本文を取得できませんでした",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/newpage_77637.html|2026-11-25": {
+"summary": "厚生労働省労働基準局が、労働者・使用者・公益代表者の意見聴取のため、「労災保険法等の一部を改正する法律の施行に伴う関係政令・省令の整備に関する政令案等要綱」に関する公聴会を開催する。日時は令和8年11月30日、一部オンライン開催。傍聴希望者は11月27日までにメールで申し込みが必要。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/newpage_77572.html|2026-11-25": {
+"summary": "厚生労働省が、永年社会保険労務士として制度発展や労働・社会保険行政の推進に顕著な功績があった5名を対象に、令和8年度の「社会保険労務士制度功労者厚生労働大臣表彰」の受彰者を決定したことを知らせる文書。表彰式は令和8年12月2日11時半から厚生労働省内で開催される。（134字）",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/newpage_77542.html|2026-11-25": {
+"summary": "厚生労働省は、介護事業者等を対象に、第277回社会保障審議会介護給付費分科会を令和8年11月26日にWeb会議で開催する。議題は「令和9年度介護報酬改定に向けて（横断的事項など）」。会議の様子はYouTubeでライブ配信され、資料は同日10時までに掲載予定。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/toukei/saikin/hw/judan/chukou26/|2026-11-25": {
+"summary": "本文を取得できませんでした",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/newpage_77616.html|2026-11-24": {
+"summary": "厚生労働省が開催する「第50回匿名医療情報等の提供に関する専門委員会」の案内文書。オープンデータの作成方針やHICの探索的利用環境における公表前確認の方針等の審議を予定。開催日時は令和8年12月2日（水）13時〜17時。傍聴希望者は令和8年12月1日12時までにメールでの事前申込みが必要（1社1名まで）。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/newpage_77533.html|2026-11-19": {
+"summary": "厚生労働省は、医療介護関係者等を対象に「第23回医療介護総合確保促進会議」を令和8年12月2日に開催する。地域医療介護総合確保基金の執行状況等の報告や、健康保険法等改正に伴う総合確保方針の改正について議論が行われる。傍聴希望者は12月1日までにメールで申し込む必要がある。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
+},
+"https://www.mhlw.go.jp/stf/houdou/R8_2_00001.html|2026-11-18": {
+"summary": "都道府県の介護担当者向けに、令和８年度地域医療介護総合確保基金（介護分）の２回目の内示を令和８年11月25日付で行ったことを知らせる文書。別添として基金および介護従事者分内示一覧が公表されている。",
+"status": "ok",
+"model": "gemini-3.5-flash-lite",
+"at": "2026-11-26"
 }
 }

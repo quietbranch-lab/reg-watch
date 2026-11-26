@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26 11:55",
+ "generated_at": "2026-11-26 13:07",
  "generated_date": "2026-11-26",
  "previous_generated_at": "2026-11-25 13:52",
  "new_since": "2026-11-25",
@@ -159,6 +159,15 @@
    "status": "ok",
    "errors": [],
    "items": [
+    {
+     "title": "製造たばこの小売定価の認可",
+     "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
+     "date": "2026-11-26",
+     "first_seen": "2026-11-26",
+     "is_new": true,
+     "summary": "製造たばこの販売者等に対し、財務省が認可した製造たばこの小売定価および変更認可の内容を通知するものです。令和6年12月から令和8年11月にかけて、各認可日時点における銘柄ごとの小売定価が定められました。実務者は、認可日以降の販売において、これらの認可された定価を遵守する必要があります。具体的な対象銘柄や価格の詳細は、各認可日のPDF資料に記載されています。",
+     "summary_status": "ok"
+    },
     {
      "title": "Public Policy Review Vol.22, No.2 : Understanding Japan’s Labor Market: Dynamics, Trends, and Challengesに1論文を掲載しました",
      "url": "https://www.mof.go.jp/insideLink/20261125150944.html",
@@ -490,15 +499,6 @@
      "first_seen": "2026-11-21",
      "is_new": false,
      "summary": "関税・外国為替等審議会関税分科会向けの配付資料であり、暫定税率等の適用期限、少額輸入貨物に係る簡易税率、入国者の輸入する加熱式たばこに係る簡易税率、特恵関税に係る原産地手続、とん税・特別とん税の見直しに関する検討事項が掲載されている。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "製造たばこの小売定価の認可",
-     "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
-     "date": "2026-11-20",
-     "first_seen": "2026-11-20",
-     "is_new": false,
-     "summary": "製造たばこの小売定価の認可および変更認可に関する文書一覧であり、令和6年12月4日から令和8年11月19日までの各日付で認可されたPDFファイルが掲載されている。",
      "summary_status": "ok"
     },
     {

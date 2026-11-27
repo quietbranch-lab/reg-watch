@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27 10:54",
+ "generated_at": "2026-11-27 11:57",
  "generated_date": "2026-11-27",
  "previous_generated_at": "2026-11-26 13:07",
  "new_since": "2026-11-26",
@@ -1372,6 +1372,15 @@
    "errors": [],
    "items": [
     {
+     "title": "公益通報者保護法の逐条解説を公表しました。",
+     "url": "https://www.caa.go.jp/notice/entry/048289/",
+     "date": "2026-11-27",
+     "first_seen": "2026-11-27",
+     "is_new": true,
+     "summary": null,
+     "summary_status": "unavailable"
+    },
+    {
      "title": "「公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令案」に関する御意見募集について NEW",
      "url": "https://www.caa.go.jp/notice/consultation/",
      "date": "2026-10-01",
@@ -2394,6 +2403,15 @@
    "errors": [],
    "items": [
     {
+     "title": "「第20回薬局・薬剤師の機能強化等に関する検討会」の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77518.html",
+     "date": "2026-11-27",
+     "first_seen": "2026-11-27",
+     "is_new": true,
+     "summary": "厚生労働省が、薬局・薬剤師の機能強化等に関する検討会構成員等に対し、令和8年12月2日に開催する第20回検討会について通知するものです。議題は、薬剤師需給調査、調剤業務の一部外部委託や認定薬局関係を含む2年目施行関係事項などです。会議はYouTubeでライブ配信され、会場での傍聴はできません。資料は会議開始までに同省ホームページに掲載されます。",
+     "summary_status": "ok"
+    },
+    {
      "title": "採用情報（任期付職員（発達障害施策調整官）募集情報）",
      "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-hattatsushougaishisakuchouseikan.html",
      "date": "2026-11-27",
@@ -2922,15 +2940,6 @@
      "first_seen": "2026-11-21",
      "is_new": false,
      "summary": "医療機関等の実務者向けに、インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移データを更新したことを知らせる文書。2025年第15週（4月7日～13日）以降、急性呼吸器感染症サーベイランス開始に伴う定点医療機関設置基準の変更により定点数が変更されるため、データの解釈に留意が必要となる。",
-     "summary_status": "ok"
-    },
-    {
-     "title": "インフルエンザの発生状況を更新しました",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
-     "date": "2026-11-20",
-     "first_seen": "2026-11-21",
-     "is_new": false,
-     "summary": "インフルエンザの発生状況に関する文書であり、9月から4月にかけて毎週金曜日14時に報道発表を行うことを知らせるものです。医療・衛生行政の実務者や感染症情報を追う担当者に関係します。変更点やいつからといった具体的な制度改正等の情報は含まれていません。",
      "summary_status": "ok"
     }
    ]

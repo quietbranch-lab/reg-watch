@@ -14139,5 +14139,16 @@
 "status": "ok",
 "model": "gemini-3.5-flash-lite",
 "at": "2026-11-27"
+},
+"https://www.caa.go.jp/notice/entry/048289/|2026-11-27": {
+"summary": null,
+"status": "unavailable",
+"at": "2026-11-27"
+},
+"https://www.mhlw.go.jp/stf/newpage_77518.html|2026-11-27": {
+"summary": "厚生労働省が、薬局・薬剤師の機能強化等に関する検討会構成員等に対し、令和8年12月2日に開催する第20回検討会について通知するものです。議題は、薬剤師需給調査、調剤業務の一部外部委託や認定薬局関係を含む2年目施行関係事項などです。会議はYouTubeでライブ配信され、会場での傍聴はできません。資料は会議開始までに同省ホームページに掲載されます。",
+"status": "ok",
+"model": "gemini-3-flash-preview",
+"at": "2026-11-27"
 }
 }
